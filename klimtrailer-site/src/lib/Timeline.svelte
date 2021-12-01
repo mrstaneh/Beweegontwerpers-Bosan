@@ -1,7 +1,7 @@
 <div class="timeline">
     <div class="container left">
         <div class="content">
-        <h2>Hallo</h2>
+        <h2>Hallo wout</h2>
         <p>Lorem ipsum..</p>
         </div>
     </div>
@@ -29,6 +29,24 @@
         <h2>Test</h2>
         <p>Lorem ipsum..</p>
         </div>
+    </div>
+    <div class="container right">
+      <div class="content">
+      <h2>Een</h2>
+      <p>Lorem ipsum..</p>
+      </div>
+    </div>
+    <div class="container left">
+      <div class="content">
+      <h2>Test</h2>
+      <p>Lorem ipsum..</p>
+      </div>
+    </div>
+    <div class="container right">
+      <div class="content">
+      <h2>Een</h2>
+      <p>Lorem ipsum..</p>
+      </div>
     </div>
 </div>
 

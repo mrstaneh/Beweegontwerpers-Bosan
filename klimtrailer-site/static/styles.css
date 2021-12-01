@@ -1,8 +1,13 @@
 body{
     margin: 0px;
+    overflow-x: hidden;
 }
 
 p, h1, h2{
     font-family: 'Titillium Web', sans-serif;
     color: #4A4A55;
+}
+
+.active, .dot:hover {
+    background-color: #717171 !important;
 }
