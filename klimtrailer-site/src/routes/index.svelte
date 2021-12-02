@@ -139,6 +139,11 @@
             <InhoudItem paginaNaam="Inleiding" scrollToId="inleiding"/>
             <InhoudItem paginaNaam="Opdrachtgever" scrollToId="opdrachtgever"/>
             <InhoudItem paginaNaam="Opdracht" scrollToId="opdracht"/>
+            <InhoudItem paginaNaam="Brainstorm" scrollToId="brainstorm"/>
+            <InhoudItem paginaNaam="Frames" scrollToId="frames"/>
+            <InhoudItem paginaNaam="Prototyping" scrollToId="prototyping"/>
+            <InhoudItem paginaNaam="Proces" scrollToId="proces"/>
+
         </div>
         <div class="section samenvatting" id="samenvatting">
             <h1>Samenvatting</h1>
@@ -203,6 +208,18 @@
             <p>Vervolgens is er door ondersteuning van de lessen en het boek “Design thinking” Guido Stompff. eerst een basis behandeld. </p>
             <img class="opdracht-image" src="designthinking.png" alt="">
             <p>Voorafgaand aan dit project is er een hele designsprint cyclus gedaan met een andere opdracht. Op deze manier is al eens kennis gemaakt met het gehele principe.  </p>
+        </div>
+        <div class="section brainstorm" id="brainstorm">
+            <h1>Brainstorm</h1>
+        </div>
+        <div class="section frames" id="frames">
+            <h1>Frames</h1>
+        </div>
+        <div class="section prototyping" id="prototyping">
+            <h1>Prototyping</h1>
+        </div>
+        <div class="section proces" id="proces">
+            <h1>Proces</h1>
         </div>
     </div>
     <div class="right-bar">
@@ -301,14 +318,20 @@
 		z-index: 1;
 		border: none;
 		outline: none;
-		background-color: #808080;
-		color: #808080;
+		background-color: #a5a4a4;
+		color: #a5a4a4;
 		padding: 15px;
 		padding-right: 15px;
 		border-top-left-radius: 8px;
 		border-bottom-left-radius: 8px;
 		-webkit-tap-highlight-color: transparent;
 	}
+
+    #top-button:hover{
+        
+        background-color: #808080;
+        transition-duration: 100ms;
+    }
 
     .fa-angles-up{
 		font-size: 24px;
