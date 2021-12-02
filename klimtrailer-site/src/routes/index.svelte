@@ -1,5 +1,6 @@
 <script>
-    import SlideShow from "$lib/SlideShow.svelte";
+    import InhoudItem from "$lib/InhoudItem.svelte";
+import SlideShow from "$lib/SlideShow.svelte";
     import Timeline from "$lib/Timeline.svelte";
 
     let currentDate = new Date();
@@ -98,8 +99,8 @@
             </div>
             <img class="gegevens-image" src="bosan-2.jpg" alt="">
         </div>
-        <div class="section voorwoord">
-            <h1>Voorwoord</h1>
+        <div class="voorwoord">
+            <h1 style="margin-top: 8px;">Voorwoord</h1>
             <p style="color: #4491DA;">In de periode van september 2021 tot en met januari 2022 hebben wij onze opdracht gelopen voor Bosan B.V. 
                 – Bosan ontwikkelt en produceert sportinstallaties en sporttoestellen voor bewegingsonderwijs en (top)sport in binnensportaccommodaties.</p>
 
@@ -109,7 +110,15 @@
 
                 <p>In dit verslag beschrijven we het proces van het project. Voor het proces hebben gebruik gemaakt van de design thinking methode.</p>
         </div>
-        <div class="section samenvatting">
+        <div class="section inhoud">
+            <h1>Inhoud</h1>
+            <InhoudItem paginaNaam="Samenvatting" scrollToId="samenvatting"/>
+            <InhoudItem paginaNaam="Woordenlijst" scrollToId="woordenlijst"/>
+            <InhoudItem paginaNaam="Inleiding" scrollToId="inleiding"/>
+            <InhoudItem paginaNaam="Opdrachtgever" scrollToId="opdrachtgever"/>
+            <InhoudItem paginaNaam="Opdracht" scrollToId="opdracht"/>
+        </div>
+        <div class="section samenvatting" id="samenvatting">
             <h1>Samenvatting</h1>
 
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget nisi sit amet est rhoncus tristique. Nam rhoncus lectus non tempor condimentum. Duis efficitur fringilla lacus, a ornare nisl mollis vitae. Sed luctus porttitor congue. Donec efficitur dictum sapien sit amet euismod. Phasellus iaculis ac erat convallis cursus. Donec id ex ut ipsum sagittis rhoncus a eu urna. Fusce dapibus urna eget leo porttitor vestibulum.</p>
@@ -119,7 +128,10 @@
 
             <SlideShow/>
         </div>
-        <div class="section inleiding">
+        <div class="section woordenlijst" id="woordenlijst">
+            <h1>Woordenlijst</h1>
+        </div>
+        <div class="section inleiding" id="inleiding">
             <h1>Inleiding</h1>
 
             <p style="color: #F06119; display: inline;">“2 UUR GYMLES VERPLICHT PER WEEK VANAF 2023 VOOR ALLE BASISSCHOLEN MET  EEN BEVOEGDE LEERKRACHT”</p>
@@ -130,7 +142,7 @@
             <p style="color: #F06119; display: inline;">“ALS JE BEWEGING VAN JONGS AF AAN STIMULEERT, ZULLEN ZE OP LATERE LEEFTIJD OOK MEER BLIJVEN BEWEGEN EN SPORTEN.”</p>
             <p> Nederlandse kinderen speelden in 2019 gemiddeld 8,4 uur per week buiten. Dat gemiddelde wordt vooral bepaald door de 28 procent die nog méér buiten speelt. Toch zit bijna 60 procent onder dit gemiddelde en speelt zelfs 15 procent nooit buiten. <a href="https://jantjebeton.nl/uploads/downloads/onderzoek-buitenspelen-2019-5cffc1bd70afd.pdf" target="_blank">Blijkt uit onderzoek van Jantje Beton</a>
         </div>
-        <div class="section opdrachtgever">
+        <div class="section opdrachtgever" id="opdrachtgever">
             <h1>Opdrachtopgever</h1>  
             <p style="color: #4491DA;">Wie regelmatig sport en beweegt leeft gezonder. Bosan staat voor een gezonde wereld en ontwikkelt en produceert hiervoor innovatieve, doordachte, kwalitatief hoogwaardige sporttoestellen en -installaties</p>  
             <p>Bosan is opgericht in 1973 door oud topturner Gerrit ten Bos in zijn garage met het verbeteren van landingsmatten. Vandaag de dag is Bosan een bloeiende onderneming en vestigt het zich in Haaksbergen en Melle. Bosan richt zich op het ontwikkelen en produceren van sporttoestellen en -installaties. Verder richten ze ook complete sportaccommodaties in, met het accent op bewegingsonderwijs en (top)sport. De producten zijn te vinden in ruim 1800 sportaccommodaties in Nederland en daarbuiten. Ze doen alles zelf, van ontwerp tot fabricage tot plaatsen tot transport</p>
@@ -146,7 +158,7 @@
 <style>
     main{
         display: grid;
-        grid-template-columns: 480px 960px 480px;
+        grid-template-columns: 300px 960px 660px;
         grid-auto-flow: column;
     }
 

@@ -63,6 +63,7 @@
 .timeline {
   position: relative;
   max-width: 1200px;
+  width: 626px;
   margin: 0 auto;
 }
 
