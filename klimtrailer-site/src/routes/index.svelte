@@ -151,12 +151,12 @@ import SlideShow from "$lib/SlideShow.svelte";
         <div class="section inleiding" id="inleiding">
             <h1>Inleiding</h1>
 
-            <p style="color: #F06119; display: inline;">“2 UUR GYMLES VERPLICHT PER WEEK VANAF 2023 VOOR ALLE BASISSCHOLEN MET  EEN BEVOEGDE LEERKRACHT”</p>
+            <p style="color: #F06119; display: inline;">“2 uur gymles verplicht per week vanaf 2023 voor alle basisscholen met  een bevoegde leerkracht”</p>
             <p style="display: inline;"> (Ministerie van Volksgezondheid, 2021)</p>
 
             <p>Scholen die meedoen kunnen een beweegvignet krijgen door kinderen meer te laten bewegen. Welke school wilt dit nou niet? </p>
             <p>Dit sluit aan bij het programma van Gezonde school en Gezonder kinderopvang. Tevens zal er gezorgd worden voor buitenspeelplekken en sportaanbod in de wijk. Bij de inrichting van wijken moeten gemeenten meer beweegplekken creëren. Zodat buitenspelen weer aantrekkelijk wordt voor kinderen. Bijvoorbeeld sportactiviteiten organiseren op de aangrenzende velden, met hulp van een lokale sportcoach. Alleen of dit de juiste aanpak is valt over te discussiëren  </p>
-            <p style="color: #F06119; display: inline;">“ALS JE BEWEGING VAN JONGS AF AAN STIMULEERT, ZULLEN ZE OP LATERE LEEFTIJD OOK MEER BLIJVEN BEWEGEN EN SPORTEN.”</p>
+            <p style="color: #F06119; display: inline;">“Als je beweging van jongs af aan stimuleert, zullen ze op latere leeftijd ook meer blijven bewegen en sporten.”</p>
             <p> Nederlandse kinderen speelden in 2019 gemiddeld 8,4 uur per week buiten. Dat gemiddelde wordt vooral bepaald door de 28 procent die nog méér buiten speelt. Toch zit bijna 60 procent onder dit gemiddelde en speelt zelfs 15 procent nooit buiten <a href="https://jantjebeton.nl/uploads/downloads/onderzoek-buitenspelen-2019-5cffc1bd70afd.pdf" target="_blank">(blijkt uit onderzoek van Jantje Beton)</a>.
         </div>
         <div class="section opdrachtgever" id="opdrachtgever">
@@ -170,6 +170,17 @@ import SlideShow from "$lib/SlideShow.svelte";
         </div> 
         <div class="section opdracht" id="opdracht">
             <h1>Opdracht</h1>
+
+            <p style="color: #4491DA;">Voor wie lopen wij onze opdracht? Wat houdt de opdracht in? Wat zou er bereikt moeten worden?</p>
+
+            <p>Vanuit Bosan hebben wij de volgende vraag gekregen: “Op welke wijze kunnen we met innovatieve materialen beweegomgevingen inrichten zodat ze aansluiten bij de ontwikkeling in het bewegingsonderwijs?”. </p>
+            <p>Bosan verwacht van ons dat we een product ontwikkelen dat ingezet kan worden in het bewegingsonderwijs. Dit kan gaan over een nieuw sportattribuut, een doorontwikkeling op een sportattribuut, een uitbreiding op een sportattribuut of zo iets geks als een digitale muur. Er zou dus van alles bedacht kunnen worden op de opdracht.</p>
+            <p>We hebben zelf gekozen om onze focus te leggen op een toestel voor het primair onderwijs dat buiten gebruikt kan worden. Hier hebben wij voor gekozen omdat het primair onderwijs over iets meer als 2 jaar minimaal 2 uur gym per kind gegeven zou moeten worden (CIOS, 2020)[5]. Dit duurt dan wel nog 2 jaar voordat deze wet van kracht gaat. Dit komt doordat de scholen aan geven dat er bijvoorbeeld te weinig gymleraren, sporthallen of sportvelden ter beschikking hebben (CIOS, 2020)[5]. Dit komt doordat de scholen aan geven dat ze bijvoorbeeld te weinig gymleraren, sporthallen of sportvelden ter beschikking hebben (CIOS, 2020)[5]. </p>
+            <p>In samenwerking met de stakeholder zijn wij gaan kijken of het vraagstuk zorgt voor voldoende uitdaging. Door in gesprek te gaan met Bosan, is er duidelijk geworden dat zei ook kansen zien in het maken van een buiten toestel. Zoals wij ook al onderzocht hadden zal er binnen kort namelijk 2 uur gym gegeven moeten worden, dit zal alleen niet mogelijk zijn doordat de scholen of te weinig ruimte hebben of te weinig leraren hebben. Dit zou dus een goede reden zijn om te focussen op het buiten gymmen. </p>
+            <p>Het team bestaat uit een multidisciplinaire groep. Zo heeft ieder zijn specialiteiten in de opleiding. Dit is erg uiteenlopend van ICT tot Mechatronica tot Communicatie tot aan Technische bedrijfskunde. Kortom veel diverse opleidingen. Dit kan juist als een voordeel werken. Iedere persoon heeft weer net een andere kijk op een probleem. </p>
+            <p>Vervolgens is er door ondersteuning van de lessen en het boek “Design thinking” Guido Stompff. eerst een basis behandeld. </p>
+            <img class="opdracht-image" src="designthinking.png" alt="">
+            <p>Voorafgaand aan dit project is er een hele designsprint cyclus gedaan met een andere opdracht. Op deze manier is al eens kennis gemaakt met het gehele principe.  </p>
         </div>
     </div>
     <div class="right-bar">
@@ -242,6 +253,10 @@ import SlideShow from "$lib/SlideShow.svelte";
         font-weight: normal;
         margin-top: 0px;
         margin-bottom: 0px;
+    }
+
+    .opdracht-image{
+        width: 50%;
     }
 
     .home-image{
