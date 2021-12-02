@@ -61,9 +61,10 @@
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
-  position: relative;
+  position: absolute;
   max-width: 1200px;
   width: 626px;
+  top: 100vh;
   margin: 0 auto;
 }
 

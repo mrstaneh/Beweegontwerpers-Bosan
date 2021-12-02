@@ -41,6 +41,10 @@ import SlideShow from "$lib/SlideShow.svelte";
 
 <div class="home-image-container">
     <img class="home-image" src="bosan.jpg" alt="">
+    <div class="voorpagina">
+        <h1 style="font-size: 90px; margin-top: 0px; margin-bottom: 0px; color: #F06119;">PORTFOLIO</h1>
+        <h2 style="font-size: 50px; margin-top: 100px; color: #F06119;">Bosan B.V.</h2>
+    </div>
 </div>
 <main>
     <div class="left-bar">
@@ -50,10 +54,7 @@ import SlideShow from "$lib/SlideShow.svelte";
         <!--<div class="section start">
             <h1>Portfolio</h1>
         </div>-->
-        <div class="voorpagina">
-            <h1 style="font-size: 90px; margin-top: 0px; margin-bottom: 0px; color: #F06119;">PORTFOLIO</h1>
-            <h2 style="font-size: 50px; margin-top: 100px; color: #F06119;">Bosan B.V.</h2>
-        </div>
+
         <div class="gegevens">
             <h1>Gegevens</h1>
 
@@ -199,6 +200,7 @@ import SlideShow from "$lib/SlideShow.svelte";
     .section{
         border-top: 1px solid black;
         text-align: left;
+        margin-bottom: 30px;
     }
 
     .voorpagina{
