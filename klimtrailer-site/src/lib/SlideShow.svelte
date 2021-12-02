@@ -58,10 +58,10 @@
     </div>
 
     <!-- Next and previous buttons -->
-    <!-- svelte-ignore a11y-invalid-attribute -->
-    <a class="prev" href="#" on:click={() => {plusSlides(-1)}}><i class="arrow fa-solid fa-angle-left"></i></a>
-    <!-- svelte-ignore a11y-invalid-attribute -->
-    <a class="next" href="#" on:click={() => {plusSlides(1)}}><i class="arrow fa-solid fa-angle-right"></i></a>
+    <!-- svelte-ignore a11y-missing-attribute -->
+    <a class="prev" on:click={() => {plusSlides(-1)}}><i class="arrow fa-solid fa-angle-left"></i></a>
+    <!-- svelte-ignore a11y-missing-attribute -->
+    <a class="next" on:click={() => {plusSlides(1)}}><i class="arrow fa-solid fa-angle-right"></i></a>
 </div>
 
 <br>
