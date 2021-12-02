@@ -3,6 +3,10 @@ body{
     overflow-x: hidden;
 }
 
+a{
+    text-decoration: none;
+}
+
 p, h1, h2{
     font-family: 'Titillium Web', sans-serif;
     color: #4A4A55;

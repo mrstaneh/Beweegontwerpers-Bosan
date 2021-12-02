@@ -130,6 +130,23 @@ import SlideShow from "$lib/SlideShow.svelte";
         </div>
         <div class="section woordenlijst" id="woordenlijst">
             <h1>Woordenlijst</h1>
+
+            <div class="woordenlijst-container">
+                <div class="woordenlijst-column">
+                    <p>Primair Onderwijs</p>
+                    <div class="woordenlijst-item">
+                        <p>Primair onderwijs is de overkoepelende sector voor het basisonderwijs én het speciaal basisonderwijs (SBO)</p>
+                    </div>
+                </div>
+                <div class="woordenlijst-column">
+                </div>
+                <div class="woordenlijst-column">
+                    <p>Stakeholder</p>
+                    <div class="woordenlijst-item">
+                        <p>Stakeholders zijn personen of groepen van personen die een direct of indirect belang hebben bij de organisatie en/of omgekeerd. Kortom alle belanghebbenden.</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="section inleiding" id="inleiding">
             <h1>Inleiding</h1>
@@ -140,14 +157,20 @@ import SlideShow from "$lib/SlideShow.svelte";
             <p>Scholen die meedoen kunnen een beweegvignet krijgen door kinderen meer te laten bewegen. Welke school wilt dit nou niet? </p>
             <p>Dit sluit aan bij het programma van Gezonde school en Gezonder kinderopvang. Tevens zal er gezorgd worden voor buitenspeelplekken en sportaanbod in de wijk. Bij de inrichting van wijken moeten gemeenten meer beweegplekken creëren. Zodat buitenspelen weer aantrekkelijk wordt voor kinderen. Bijvoorbeeld sportactiviteiten organiseren op de aangrenzende velden, met hulp van een lokale sportcoach. Alleen of dit de juiste aanpak is valt over te discussiëren  </p>
             <p style="color: #F06119; display: inline;">“ALS JE BEWEGING VAN JONGS AF AAN STIMULEERT, ZULLEN ZE OP LATERE LEEFTIJD OOK MEER BLIJVEN BEWEGEN EN SPORTEN.”</p>
-            <p> Nederlandse kinderen speelden in 2019 gemiddeld 8,4 uur per week buiten. Dat gemiddelde wordt vooral bepaald door de 28 procent die nog méér buiten speelt. Toch zit bijna 60 procent onder dit gemiddelde en speelt zelfs 15 procent nooit buiten. <a href="https://jantjebeton.nl/uploads/downloads/onderzoek-buitenspelen-2019-5cffc1bd70afd.pdf" target="_blank">Blijkt uit onderzoek van Jantje Beton</a>
+            <p> Nederlandse kinderen speelden in 2019 gemiddeld 8,4 uur per week buiten. Dat gemiddelde wordt vooral bepaald door de 28 procent die nog méér buiten speelt. Toch zit bijna 60 procent onder dit gemiddelde en speelt zelfs 15 procent nooit buiten <a href="https://jantjebeton.nl/uploads/downloads/onderzoek-buitenspelen-2019-5cffc1bd70afd.pdf" target="_blank">(blijkt uit onderzoek van Jantje Beton)</a>.
         </div>
         <div class="section opdrachtgever" id="opdrachtgever">
             <h1>Opdrachtopgever</h1>  
             <p style="color: #4491DA;">Wie regelmatig sport en beweegt leeft gezonder. Bosan staat voor een gezonde wereld en ontwikkelt en produceert hiervoor innovatieve, doordachte, kwalitatief hoogwaardige sporttoestellen en -installaties</p>  
             <p>Bosan is opgericht in 1973 door oud topturner Gerrit ten Bos in zijn garage met het verbeteren van landingsmatten. Vandaag de dag is Bosan een bloeiende onderneming en vestigt het zich in Haaksbergen en Melle. Bosan richt zich op het ontwikkelen en produceren van sporttoestellen en -installaties. Verder richten ze ook complete sportaccommodaties in, met het accent op bewegingsonderwijs en (top)sport. De producten zijn te vinden in ruim 1800 sportaccommodaties in Nederland en daarbuiten. Ze doen alles zelf, van ontwerp tot fabricage tot plaatsen tot transport</p>
             <p>Bosan is een zelfbewuste onderneming; ze weten wat ze kunnen. Ze zijn trots op hun producten en diensten en op zijn vermogen tot vernieuwen en verbeteren. Steeds brengen ze innovatieve concepten en productontwikkelingen. De elektrisch verrolbare werkbalk, de zwaaipuntverlager, de inzinkbare rekstokzuil, de korfbal/springstandaard met dempingsysteem, de Piré springkasten, de basketbalinstallatie met ledverlichting, het elektrische klimrek en de turnmatten zijn hiervan enkele voorbeelden. Deze installaties zijn niet meer weg te denken uit het moderne bewegingsonderwijs en in binnensportaccommodaties. Voor deze installaties maken ze vrijwel alleen gebruik van duurzame materialen en kwalitatief sterk materiaal.</p> 
+            <p>De meest recente innovatie is de elektrische wandtrampoline:</p>
+            <img class="opdrachtgever-image" src="wandtrampoline.jpg" alt="">
+            <p>De passie van Bosan is dat het met innovatieve, doordachte, kwalitatief hoogwaardige sporttoestellen en –installaties, zowel voor de (top)sport als het bewegingsonderwijs, laat Bosan mensen bewegen; jong en oud, valide en minder valide, geoefend en ongeoefend. Het project is opgezet door Mark Snijder (Regio Manager Zuid NL & België) en Melanie van Deursen (Product manager bewegingsonderwijs).</p>
         </div> 
+        <div class="section opdracht" id="opdracht">
+            <h1>Opdracht</h1>
+        </div>
     </div>
     <div class="right-bar">
         <div class="voorpagina"></div>
@@ -198,6 +221,27 @@ import SlideShow from "$lib/SlideShow.svelte";
 
     .gegevens-image{
         width: 100%;
+    }
+
+    .woordenlijst-container{
+        display: grid;
+        grid-template-columns:45% 10% 45%;
+        grid-auto-flow: column;
+        margin-bottom: 16px;
+    }
+
+    .woordenlijst-column p{
+        margin-top: 0px; 
+        color: #F06119; 
+        font-weight: bold;
+        margin-bottom: 4px;
+    }
+
+    .woordenlijst-item p{
+        color: black;
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
     }
 
     .home-image{
