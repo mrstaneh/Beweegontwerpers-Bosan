@@ -193,7 +193,7 @@
         <div class="section opdrachtgever" id="opdrachtgever">
             <h1>Opdrachtopgever</h1>  
             <p style="color: #4491DA;">Wie regelmatig sport en beweegt leeft gezonder. Bosan staat voor een gezonde wereld en ontwikkelt en produceert hiervoor innovatieve, doordachte, kwalitatief hoogwaardige sporttoestellen en -installaties</p>  
-            <p>Bosan is opgericht in 1973 door oud topturner Gerrit ten Bos in zijn garage met het verbeteren van landingsmatten. Vandaag de dag is Bosan een bloeiende onderneming en vestigt het zich in Haaksbergen en Melle. Bosan richt zich op het ontwikkelen en produceren van sporttoestellen en -installaties. Verder richten ze ook complete sportaccommodaties in, met het accent op bewegingsonderwijs en (top)sport. De producten zijn te vinden in ruim 1800 sportaccommodaties in Nederland en daarbuiten. Ze doen alles zelf, van ontwerp tot fabricage tot plaatsen tot transport</p>
+            <p>Bosan is opgericht in 1973 door oud topturner Gerrit ten Bos in zijn garage met het verbeteren van landingsmatten. Vandaag de dag is Bosan een bloeiende onderneming en vestigt het zich in Haaksbergen en Melle. Bosan richt zich op het ontwikkelen en produceren van sporttoestellen en -installaties. Verder richten ze ook complete sportaccommodaties in, met het accent op bewegingsonderwijs en (top)sport. De producten zijn te vinden in ruim 1800 sportaccommodaties in Nederland en daarbuiten. Ze doen alles zelf, van ontwerp tot fabricage tot plaatsen tot transport.</p>
             <p>Bosan is een zelfbewuste onderneming; ze weten wat ze kunnen. Ze zijn trots op hun producten en diensten en op zijn vermogen tot vernieuwen en verbeteren. Steeds brengen ze innovatieve concepten en productontwikkelingen. De elektrisch verrolbare werkbalk, de zwaaipuntverlager, de inzinkbare rekstokzuil, de korfbal/springstandaard met dempingsysteem, de Piré springkasten, de basketbalinstallatie met ledverlichting, het elektrische klimrek en de turnmatten zijn hiervan enkele voorbeelden. Deze installaties zijn niet meer weg te denken uit het moderne bewegingsonderwijs en in binnensportaccommodaties. Voor deze installaties maken ze vrijwel alleen gebruik van duurzame materialen en kwalitatief sterk materiaal.</p> 
             <p>De meest recente innovatie is de elektrische wandtrampoline:</p>
             <img class="opdrachtgever-image" src="wandtrampoline.jpg" alt="">
@@ -239,9 +239,13 @@
         grid-auto-flow: column;
     }
 
+    .voorwoord{
+        text-align: justify;
+    }
+
     .section{
         border-top: 1px solid black;
-        text-align: left;
+        text-align: justify;
         margin-bottom: 30px;
     }
 
