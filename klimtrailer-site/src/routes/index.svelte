@@ -55,6 +55,10 @@
     }
 </script>
 
+<svelte:head>
+	<title>Bosan Portfolio</title>
+</svelte:head>
+
 <svelte:window bind:scrollY={currentY}/>
 
 <div class="home-image-container">
