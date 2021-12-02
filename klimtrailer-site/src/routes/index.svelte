@@ -1,12 +1,46 @@
 <script>
     import SlideShow from "$lib/SlideShow.svelte";
-import Timeline from "$lib/Timeline.svelte";
+    import Timeline from "$lib/Timeline.svelte";
+
+    let currentDate = new Date();
+
+    let students = [
+        {
+            name: 'Britney Janssen',
+            email: 'britney.janssen@student.fontys.nl',
+            role: 'Notulist'
+        },
+        {
+            name: 'Loes Käller',
+            email: 'l.kaller@student.fontys.nl',
+            role: 'Contactpersoon'
+        },
+        {
+            name: 'Matthijs de Vries',
+            email: 'm.devries@student.fontys.nl',
+            role: 'Teamlid'
+        },
+        {
+            name: 'Rick Peters',
+            email: 'r.peters-ab@student.fontys.nl',
+            role: 'Teamleider'
+        },
+        {
+            name: 'Stan Jaworski',
+            email: 's.jaworski@student.fontys.nl',
+            role: 'Scrum Master'
+        },
+        {
+            name: 'Wout Ploumen',
+            email: 'w.ploumen@student.fontys.nl',
+            role: 'Teamlid'
+        }
+    ]
 </script>
 
-<div class="home-image">
-    <img src="bosan.jpg" alt="">
+<div class="home-image-container">
+    <img class="home-image" src="bosan.jpg" alt="">
 </div>
-
 <main>
     <div class="left-bar">
         
@@ -15,7 +49,56 @@ import Timeline from "$lib/Timeline.svelte";
         <!--<div class="section start">
             <h1>Portfolio</h1>
         </div>-->
-        <div class="voorwoord">
+        <div class="voorpagina">
+            <h1 style="font-size: 90px; margin-top: 0px; margin-bottom: 0px; color: #F06119;">PORTFOLIO</h1>
+            <h2 style="font-size: 50px; margin-top: 100px; color: #F06119;">Bosan B.V.</h2>
+        </div>
+        <div class="gegevens">
+            <h1>Gegevens</h1>
+
+            <div class="gegevens-container">
+                <div class="gegevens-column">
+                    <p>Studenten</p>
+                    {#each students as student}
+                        <div class="gegevens-item">
+                            <p><b>Naam:</b> {student.name}</p>
+                            <p><b>Email:</b> <a href="mailto:{student.email}">{student.email}</a></p>
+                            <p><b>Rol:</b> {student.role}</p>
+                        </div>
+                    {/each}
+                </div>
+                <div class="gegevens-column">
+                    <p>Verslag</p>
+                    <div class="gegevens-item">
+                        <p><b>Titel:</b> ........</p>
+                        <p><b>Versie:</b> 1</p>
+                        <p><b>Datum:</b> {currentDate.getDay()}-{currentDate.getMonth()}-{currentDate.getFullYear()}</p>
+                    </div>
+
+                    <p style="margin-top: 54px;">Bedrijf</p>
+                    <div class="gegevens-item">
+                        <p><b>Naam:</b> Bosan B.V.</p>
+                        <p><b>Adres:</b> Metaalstraat 21, 7483 PD Haaksbergen</p>
+                        <p><b>Telefoonnummer:</b> 053-3035107</p>
+                    </div>
+
+                    <p style="margin-top: 54px;">Opdrachtgever</p>
+                    <div class="gegevens-item">
+                        <p><b>Contactpersoon:</b> Mark Snijder</p>
+                        <p><b>E-mail:</b> <a href="mailto:m.snijder@bosan.nl">m.snijder@bosan.nl</a></p>
+                        <p><b>Mobiel telefoonnummer:</b> 06-21246905</p>
+                    </div>
+
+                    <p style="margin-top: 54px;">Opdrachtgever</p>
+                    <div class="gegevens-item">
+                        <p><b>Contactpersoon:</b> Melanie van Deursen</p>
+                        <p><b>E-mail:</b> <a href="mailto:m.vandeursen@groupe-abeo.com">m.vandeursen@groupe-abeo.com</a></p>
+                    </div>
+                </div>
+            </div>
+            <img class="gegevens-image" src="bosan-2.jpg" alt="">
+        </div>
+        <div class="section voorwoord">
             <h1>Voorwoord</h1>
             <p style="color: #4491DA;">In de periode van september 2021 tot en met januari 2022 hebben wij onze opdracht gelopen voor Bosan B.V. 
                 – Bosan ontwikkelt en produceert sportinstallaties en sporttoestellen voor bewegingsonderwijs en (top)sport in binnensportaccommodaties.</p>
@@ -52,10 +135,10 @@ import Timeline from "$lib/Timeline.svelte";
             <p style="color: #4491DA;">Wie regelmatig sport en beweegt leeft gezonder. Bosan staat voor een gezonde wereld en ontwikkelt en produceert hiervoor innovatieve, doordachte, kwalitatief hoogwaardige sporttoestellen en -installaties</p>  
             <p>Bosan is opgericht in 1973 door oud topturner Gerrit ten Bos in zijn garage met het verbeteren van landingsmatten. Vandaag de dag is Bosan een bloeiende onderneming en vestigt het zich in Haaksbergen en Melle. Bosan richt zich op het ontwikkelen en produceren van sporttoestellen en -installaties. Verder richten ze ook complete sportaccommodaties in, met het accent op bewegingsonderwijs en (top)sport. De producten zijn te vinden in ruim 1800 sportaccommodaties in Nederland en daarbuiten. Ze doen alles zelf, van ontwerp tot fabricage tot plaatsen tot transport</p>
             <p>Bosan is een zelfbewuste onderneming; ze weten wat ze kunnen. Ze zijn trots op hun producten en diensten en op zijn vermogen tot vernieuwen en verbeteren. Steeds brengen ze innovatieve concepten en productontwikkelingen. De elektrisch verrolbare werkbalk, de zwaaipuntverlager, de inzinkbare rekstokzuil, de korfbal/springstandaard met dempingsysteem, de Piré springkasten, de basketbalinstallatie met ledverlichting, het elektrische klimrek en de turnmatten zijn hiervan enkele voorbeelden. Deze installaties zijn niet meer weg te denken uit het moderne bewegingsonderwijs en in binnensportaccommodaties. Voor deze installaties maken ze vrijwel alleen gebruik van duurzame materialen en kwalitatief sterk materiaal.</p> 
-
         </div> 
     </div>
     <div class="right-bar">
+        <div class="voorpagina"></div>
         <Timeline/>
     </div>
 </main>
@@ -72,13 +155,47 @@ import Timeline from "$lib/Timeline.svelte";
         text-align: left;
     }
 
-    /*.backdrop{
+    .voorpagina{
+        height: 100vh;
+        text-align: center;
+    }
+
+    .gegevens-container{
+        display: grid;
+        grid-template-columns: 55% 45%;
+        grid-auto-flow: column;
+    }
+
+    .gegevens-column p{
+        margin-top: 0px; 
+        color: #F06119; 
+        font-weight: bold;
+        margin-bottom: 4px;
+    }
+
+    .gegevens-item{
+        margin-bottom: 16px;
+    }
+
+    .gegevens-item p{
+        color: black;
+        font-weight: normal;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .gegevens-image{
+        width: 100%;
+    }
+
+    .home-image{
         justify-content: start;
         position: absolute;
         left: 0;
-        width: 100vw;
+        width: 100%;
         height: 100vh;
+        object-fit: cover;
         z-index: -1;
-        filter: sepia(10%) saturate(100%) brightness(70%) hue-rotate(10deg);
-    }*/
+        filter: sepia(300%) saturate(50%) brightness(70%) hue-rotate(180deg);
+    }
 </style>
