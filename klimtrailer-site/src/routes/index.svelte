@@ -258,6 +258,7 @@
         display: grid;
         grid-template-columns: 55% 45%;
         grid-auto-flow: column;
+        margin-bottom: 16px;
     }
 
     .gegevens-column p{
