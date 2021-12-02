@@ -1,9 +1,11 @@
 <script>
     import InhoudItem from "$lib/InhoudItem.svelte";
-import SlideShow from "$lib/SlideShow.svelte";
+    import SlideShow from "$lib/SlideShow.svelte";
     import Timeline from "$lib/Timeline.svelte";
+    import { fly } from 'svelte/transition';
 
     let currentDate = new Date();
+    let currentY;
 
     let students = [
         {
@@ -36,8 +38,24 @@ import SlideShow from "$lib/SlideShow.svelte";
             email: 'w.ploumen@student.fontys.nl',
             role: 'Teamlid'
         }
-    ]
+    ];
+
+    function goTop(){
+        try{
+            let bodyRect = document.body.getBoundingClientRect();
+            let elemRect = document.getElementById('inhoud').getBoundingClientRect();
+            let offset = elemRect.top - bodyRect.top;
+
+            console.log(offset);
+
+            window.scrollTo({ top: offset, behavior: 'smooth' });
+        }catch{
+            console.error('Could not scroll to inhoud');
+        }    
+    }
 </script>
+
+<svelte:window bind:scrollY={currentY}/>
 
 <div class="home-image-container">
     <img class="home-image" src="bosan.jpg" alt="">
@@ -46,6 +64,9 @@ import SlideShow from "$lib/SlideShow.svelte";
         <h2 style="font-size: 50px; margin-top: 100px; color: #F06119;">Bosan B.V.</h2>
     </div>
 </div>
+{#if currentY > 2285}
+    <button in:fly='{{ x: 50, duration: 400 }}' out:fly='{{ x: 50, duration: 400 }}' id="top-button" on:click={goTop}><i class="fa-solid fa-angles-up"></i></button>
+{/if}
 <main>
     <div class="left-bar">
         
@@ -111,7 +132,7 @@ import SlideShow from "$lib/SlideShow.svelte";
 
                 <p>In dit verslag beschrijven we het proces van het project. Voor het proces hebben gebruik gemaakt van de design thinking methode.</p>
         </div>
-        <div class="section inhoud">
+        <div class="section inhoud" id="inhoud">
             <h1>Inhoud</h1>
             <InhoudItem paginaNaam="Samenvatting" scrollToId="samenvatting"/>
             <InhoudItem paginaNaam="Woordenlijst" scrollToId="woordenlijst"/>
@@ -271,4 +292,26 @@ import SlideShow from "$lib/SlideShow.svelte";
         z-index: -1;
         filter: sepia(300%) saturate(50%) brightness(70%) hue-rotate(180deg);
     }
+
+    #top-button{
+		cursor: pointer;
+		position: fixed;
+		bottom: 20px;
+		right: 0px;
+		z-index: 1;
+		border: none;
+		outline: none;
+		background-color: #808080;
+		color: #808080;
+		padding: 15px;
+		padding-right: 15px;
+		border-top-left-radius: 8px;
+		border-bottom-left-radius: 8px;
+		-webkit-tap-highlight-color: transparent;
+	}
+
+    .fa-angles-up{
+		font-size: 24px;
+		color: #FF9F55;
+	}
 </style>
