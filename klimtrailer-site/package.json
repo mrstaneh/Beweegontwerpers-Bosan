@@ -12,5 +12,9 @@
     "@sveltejs/kit": "next",
     "svelte": "^3.44.0"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node": "^17.1.0",
+    "note": "^1.2.1"
+  }
 }

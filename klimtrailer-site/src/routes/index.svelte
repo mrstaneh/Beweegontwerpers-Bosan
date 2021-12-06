@@ -225,6 +225,15 @@
         <div class="section proces" id="proces">
             <h1>Proces</h1>
         </div>
+
+        <iframe title="Mural" src='https://app.mural.co/embed/2551f8da-bf76-45d8-874a-3ae60cb5103a'
+            width='100%'
+            height='480px'
+            style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+            sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+        </iframe>
+
+        
     </div>
     <div class="right-bar">
         <div class="voorpagina"></div>
