@@ -1,11 +1,18 @@
 <div class="v8_74">
-    <div class="v8_86"><span class="v8_75"> Team Bosan</span></div>
-    <div class="v8_87"><span class="v8_78">Portfolio
-        </span></div>
-    <div class="v8_88"><span class="v8_76">Minor beweegontwerper</span></div>
-    <div class="v8_85"><span class="v8_77">Op deze site zal u het poces terug vinden van de “Mini Boulder”. Er zal
+    <div class="v8_86">
+      <span class="v8_75"> Team Bosan</span>
+    </div>
+    <div class="v8_87">
+      <span class="v8_78">Portfolio</span>
+    </div>
+    <div class="v8_88">
+      <span class="v8_76">Minor beweegontwerper</span>
+    </div>
+    <div class="v8_85">
+      <span class="v8_77">Op deze site zal u het poces terug vinden van de “Mini Boulder”. Er zal
             verteld worden waaruit het idee ontstaan is, hoe dit onderbouwt is en hoe we het probleem willen aan
-            pakken</span></div>
+            pakken</span>
+    </div>
 </div>
 
 <style>
@@ -127,5 +134,4 @@
     opacity: 1;
     text-align: left;
   }
-
 </style>
