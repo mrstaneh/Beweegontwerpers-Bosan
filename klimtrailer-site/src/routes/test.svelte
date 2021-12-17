@@ -1,137 +1,113 @@
-<div class="v8_74">
-    <div class="v8_86">
-      <span class="v8_75"> Team Bosan</span>
-    </div>
-    <div class="v8_87">
-      <span class="v8_78">Portfolio</span>
-    </div>
-    <div class="v8_88">
-      <span class="v8_76">Minor beweegontwerper</span>
-    </div>
-    <div class="v8_85">
-      <span class="v8_77">Op deze site zal u het poces terug vinden van de “Mini Boulder”. Er zal
-            verteld worden waaruit het idee ontstaan is, hoe dit onderbouwt is en hoe we het probleem willen aan
-            pakken</span>
-    </div>
+<svelte:head>
+  <title>Bosan Portfolio</title>
+</svelte:head>
+
+<div class="title_screen">
+
+  <ul class="nav homepage">
+    <a class="navbar-brand" href="../index.html">
+      <img src="../image/logo.png" alt="Logo" />
+    </a>
+    <li><a href="ProftaakSemseter4.html">Proftaak</a></li>
+    <li><a href="DEVsemester4.html">DEV</a></li>
+    <li><a href="UXsemester4.html">UX</a></li>
+    <li><a href="SCOsemester4.html">SCO</a></li>
+  </ul>
+
+  <div class="div_one homepage" />
+  <div class="div_two homepage" />
+  <div class="overlay homepage" />
+  <div class="box homepage">
+    <h2 style="color: #004B8E; font-size: 40px;">Team Bosan</h2>
+    <h1 style="font-size: 165px; margin: -70px -10px;">Portfolio</h1>
+    <h3 style="font-size: 40px;">Minor beweegontwerper</h3>
+    <br />
+    <br>
+    <p style="display: inline; font-size: 25px;">
+      Op deze site zal u het proces terug vinden van de
+      <span style="color: #004B8E; display: inline;">"Boulder Mini"</span>
+      . Er zal verteld worden waaruit het idee ontstaan is, hoe dit onderbouwd is
+      en hoe we het probleem willen aanpakken.
+    </p>
+  </div>
+  <div class="arrow homepage" />
+</div>
+
+<div style="margin-top: 1000px;">
+  <p>testdsfdsfdsfsd sdfdsfdsf sdfdsfsd sdfdsfsdf</p>
 </div>
 
 <style>
-  .v8_74 {
-    width: 670px;
-    height: 475px;
-    background: url("../images/v8_74.png");
-    background-repeat: no-repeat;
-    background-position: center center;
+  .title_screen {
+    width: 100%;
+    height: 1px;
+    position: relative;
+  }
+
+  .homepage {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .homepage > * {
+    margin: 0 0;
+  }
+
+  .nav {
+    list-style-type: none;
+    padding: 0;
+    z-index: 1;
+  }
+
+  .nav > li {
+    float: right;
+    font-size: 18pt;
+  }
+
+  .nav > li > a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: #c4c4c4;
+  }
+
+  .nav > li > a:hover {
+    background-color: #139efac1;
+
+    -webkit-transition-duration: 200ms; /* Vertraag het hoveren */
+    transition-duration: 200ms;
+  }
+
+  .box {
+    width: 30%;
+    left: 5%;
+    margin-top: 10%;
+  }
+
+  .box > * {
+    color: black;
+  }
+
+  .div_one {
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
     background-size: cover;
-    margin: 6px;
-    opacity: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
-  }
-  .v8_86 {
-    width: 243px;
-    height: 49px;
-    background: url("../images/v8_86.png");
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center;
+  }
+
+  .div_two {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("klimtrailer6.png");
+    clip-path: polygon(58vw 0, 0% 280vh, 1000000vw 100vh);
     background-size: cover;
-    margin: 10px;
-    opacity: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
-  }
-  .v8_75 {
-    width: 243px;
-    color: rgba(0,75,142,1);
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    font-family: Roboto;
-    font-weight: Regular;
-    font-size: 42px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v8_87 {
-    width: 637px;
-    height: 163px;
-    background: url("../images/v8_87.png");
     background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    margin: 10px;
-    opacity: 1;
-    position: absolute;
-    top: 55px;
-    left: 0px;
-    overflow: hidden;
-  }
-  .v8_78 {
-    width: 637px;
-    color: rgba(0,0,0,1);
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    font-family: Roboto;
-    font-weight: Regular;
-    font-size: 165px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v8_88 {
-    width: 454px;
-    height: 49px;
-    background: url("../images/v8_88.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    margin: 10px;
-    opacity: 1;
-    position: absolute;
-    top: 224px;
-    left: 0px;
-    overflow: hidden;
-  }
-  .v8_76 {
-    width: 454px;
-    color: rgba(0,0,0,1);
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    font-family: Roboto;
-    font-weight: Regular;
-    font-size: 42px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v8_85 {
-    width: 670px;
-    height: 196px;
-    background: url("../images/v8_85.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    padding: 40px 0px;
-    opacity: 1;
-    position: absolute;
-    top: 279px;
-    left: 0px;
-    overflow: hidden;
-  }
-  .v8_77 {
-    width: 670px;
-    color: url("../images/v8_77.png");
-    position: absolute;
-    top: 40px;
-    left: 0px;
-    font-family: Roboto;
-    font-weight: Regular;
-    font-size: 25px;
-    opacity: 1;
-    text-align: left;
+    background-position: center;
   }
 </style>

@@ -7,9 +7,10 @@ a{
     text-decoration: none;
 }
 
-p, h1, h2{
+p, h1, h2, h3{
     font-family: 'Titillium Web', sans-serif;
     color: #4A4A55;
+    
 }
 
 .active, .dot:hover {

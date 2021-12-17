@@ -1,0 +1,15 @@
+{
+    "spellright.language": [
+        "nl"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "spellright.parserByClass": {
+        "svelte": {
+            "parser": "plain"
+        }
+    }
+}
