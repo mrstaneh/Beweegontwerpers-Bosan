@@ -5,13 +5,10 @@
 <div class="title_screen">
 
   <ul class="nav homepage">
-    <a class="navbar-brand" href="../index.html">
-      <img src="../image/logo.png" alt="Logo" />
+    <a class="navbar-brand" href="index.svelte">
+      <img src="logo.jpg" alt="Logo" width="30px"/>
     </a>
-    <li><a href="ProftaakSemseter4.html">Proftaak</a></li>
-    <li><a href="DEVsemester4.html">DEV</a></li>
-    <li><a href="UXsemester4.html">UX</a></li>
-    <li><a href="SCOsemester4.html">SCO</a></li>
+    <li><a href="">Opdracht</a></li>
   </ul>
 
   <div class="div_one homepage" />
@@ -58,8 +55,13 @@
 
   .nav {
     list-style-type: none;
+    top: -16px;
     padding: 0;
     z-index: 1;
+  }
+
+  .nav > a > img {
+    padding: 14px;
   }
 
   .nav > li {
@@ -70,13 +72,13 @@
   .nav > li > a {
     display: block;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px;
     text-decoration: none;
-    color: #c4c4c4;
   }
 
   .nav > li > a:hover {
-    background-color: #139efac1;
+    background-color: #004B8E;
+    color: white;
 
     -webkit-transition-duration: 200ms; /* Vertraag het hoveren */
     transition-duration: 200ms;
