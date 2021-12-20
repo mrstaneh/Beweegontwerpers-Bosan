@@ -1,61 +1,50 @@
 <script>
 	import { onMount } from 'svelte';
 
-    let slideIndex = 1;
+  let slideIndex = 1;
 
-    function showSlides(n) {
-        var i;
-        var slides = document.getElementsByClassName("mySlides");
-        var dots = document.getElementsByClassName("dot");
-        if (n > slides.length) {slideIndex = 1}
-        if (n < 1) {slideIndex = slides.length}
-        for (i = 0; i < slides.length; i++) {
-            slides[i].style.display = "none";
-        }
-        for (i = 0; i < dots.length; i++) {
-            dots[i].className = dots[i].className.replace(" active", "");
-        }
-        slides[slideIndex-1].style.display = "block";
-        dots[slideIndex-1].className += " active";
-    }
+  export let photos = undefined;
 
-    // Next/previous controls
-    function plusSlides(n) {
-        showSlides(slideIndex += n);
-    }
+  function showSlides(n) {
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      var dots = document.getElementsByClassName("dot");
+      if (n > slides.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+      }
+      for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block";
+      dots[slideIndex-1].className += " active";
+  }
 
-    // Thumbnail image controls
-    function currentSlide(n) {
-        showSlides(slideIndex = n);
-    }
+  // Next/previous controls
+  function plusSlides(n) {
+      showSlides(slideIndex += n);
+  }
 
-    onMount(async () => {
-        showSlides(slideIndex);
-    });
+  // Thumbnail image controls
+  function currentSlide(n) {
+      showSlides(slideIndex = n);
+  }
+
+  onMount(async () => {
+      showSlides(slideIndex);
+  });
 </script>
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
     <!-- Full-width images with number and caption text -->
-    <div class="mySlides fade">
-        <div class="numbertext">1 / 4</div>
-        <img src="klimtrailer1.png" alt="klim1" style="width:100%">
-    </div>
-
-    <div class="mySlides fade">
-        <div class="numbertext">2 / 4</div>
-        <img src="klimtrailer2.png" alt="klim2" style="width:100%">
-    </div>
-
-    <div class="mySlides fade">
-        <div class="numbertext">3 / 4</div>
-        <img src="klimtrailer3.png" alt="klim3" style="width:100%">
-    </div>
-
-    <div class="mySlides fade">
-        <div class="numbertext">4 / 4</div>
-        <img src="klimtrailer4.jpeg" alt="klim4" style="width:100%">
-    </div>
+    {#each photos as photo, i}
+      <div class="mySlides fade">
+        <div class="numbertext">{i + 1} / {photos.length}</div>
+        <img src="{photo.path}" alt="{photo.alt}" style="width:100%">
+      </div>
+    {/each}
 
     <!-- Next and previous buttons -->
     <!-- svelte-ignore a11y-missing-attribute -->
@@ -68,10 +57,9 @@
   
 <!-- The dots/circles -->
 <div style="text-align:center; margin-bottom: 1rem;">
-    <span class="dot" on:click={() => {currentSlide(1)}}></span>
-    <span class="dot" on:click={() => {currentSlide(2)}}></span>
-    <span class="dot" on:click={() => {currentSlide(3)}}></span>
-    <span class="dot" on:click={() => {currentSlide(4)}}></span>
+  {#each photos as photo, i}
+    <span class="dot" on:click={() => {currentSlide(i + 1)}}></span>
+  {/each}
 </div>
 
 <style>

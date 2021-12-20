@@ -7,6 +7,25 @@
 
   let currentY;
 
+  let klimtrailerPhotos = [
+      {
+          path: 'klimtrailer1.png',
+          alt: 'klim1'
+      },
+      {
+          path: 'klimtrailer2.png',
+          alt: 'klim2'
+      },
+      {
+          path: 'klimtrailer3.png',
+          alt: 'klim3'
+      },
+      {
+          path: 'klimtrailer4.jpeg',
+          alt: 'klim4'
+      },
+  ];
+
   function goTop() {
     try {
       let bodyRect = document.body.getBoundingClientRect();
@@ -122,7 +141,7 @@
         vulputate congue. Nam aliquet non felis in dictum.
       </p>
 
-      <SlideShow />
+      <SlideShow photos={klimtrailerPhotos} />
     </div>
     <div class="section woordenlijst" id="woordenlijst">
       <h1>Woordenlijst</h1>
