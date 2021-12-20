@@ -16,3 +16,9 @@ p, h1, h2, h3, a{
 .active, .dot:hover {
     background-color: #717171 !important;
 }
+
+main {
+    display: grid;
+    grid-template-columns: 300px 960px 660px;
+    grid-auto-flow: column;
+}
