@@ -3,10 +3,10 @@
 </script>
 
 <ul class="nav {pagePath == '/' ? 'homepage' : 'normalpage'}">
-    <a class="navbar-brand" href="index.svelte">
-      <img src="logo.jpg" alt="Logo" width="30px" />
+    <a class="navbar-brand" href="/">
+      <img src="images/logo.png" alt="Logo" width="30px" />
     </a>
-    <li><a href="">Opdracht</a></li>
+    <li><a href="gegevens">Gegevens</a></li>
 </ul>
 
 <style>
@@ -17,8 +17,9 @@
       left: 0;
     }
 
-    .normalpage{
+    .normalpage {
         margin: 0;
+        background-color: #B2B2B2;
     }
   
     .homepage > * {
@@ -30,10 +31,11 @@
       top: -16px;
       padding: 0;
       z-index: 1;
+      height: 64px;
     }
   
     .nav > a > img {
-      padding: 14px;
+      padding: 16px 14px 14px 14px;
     }
   
     .nav > li {

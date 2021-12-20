@@ -64,7 +64,7 @@
   .div_two {
     width: 100vw;
     height: 100vh;
-    background-image: url("klimtrailer6.png");
+    background-image: url("images/klimtrailer6.png");
     clip-path: polygon(58vw 0, 0% 280vh, 1000000vw 100vh);
     background-size: cover;
     background-repeat: no-repeat;

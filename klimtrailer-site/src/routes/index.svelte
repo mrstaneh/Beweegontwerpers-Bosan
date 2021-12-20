@@ -9,19 +9,19 @@
 
   let klimtrailerPhotos = [
       {
-          path: 'klimtrailer1.png',
+          path: 'images/klimtrailer-slideshow/klimtrailer1.png',
           alt: 'klim1'
       },
       {
-          path: 'klimtrailer2.png',
+          path: 'images/klimtrailer-slideshow/klimtrailer2.png',
           alt: 'klim2'
       },
       {
-          path: 'klimtrailer3.png',
+          path: 'images/klimtrailer-slideshow/klimtrailer3.png',
           alt: 'klim3'
       },
       {
-          path: 'klimtrailer4.jpeg',
+          path: 'images/klimtrailer-slideshow/klimtrailer4.jpeg',
           alt: 'klim4'
       },
   ];
@@ -236,7 +236,7 @@
         kwalitatief sterk materiaal.
       </p>
       <p>De meest recente innovatie is de elektrische wandtrampoline:</p>
-      <img class="opdrachtgever-image" src="wandtrampoline.jpg" alt="" />
+      <img class="opdrachtgever-image" src="images/wandtrampoline.jpg" alt="" />
       <p>
         De passie van Bosan is dat het met innovatieve, doordachte, kwalitatief
         hoogwaardige sporttoestellen en –installaties, zowel voor de (top)sport
@@ -298,7 +298,7 @@
         Vervolgens is er door ondersteuning van de lessen en het boek “Design
         thinking” Guido Stompff. eerst een basis behandeld.
       </p>
-      <img class="opdracht-image" src="designthinking.png" alt="" />
+      <img class="opdracht-image" src="images/designthinking.png" alt="" />
       <p>
         Voorafgaand aan dit project is er een hele designsprint cyclus gedaan
         met een andere opdracht. Op deze manier is al eens kennis gemaakt met
