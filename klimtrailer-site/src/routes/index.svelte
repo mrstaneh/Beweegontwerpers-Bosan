@@ -72,6 +72,7 @@
     on:click={goTop}><i class="fa-solid fa-angles-up" /></button
   >
 {/if}
+
 <main>
   <div class="left-bar" />
   <div class="content">

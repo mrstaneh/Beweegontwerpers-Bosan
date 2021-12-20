@@ -33,7 +33,7 @@
 <style>
   .title_screen {
     width: 100%;
-    height: 1px;
+    height: 100vh;
     position: relative;
   }
 
