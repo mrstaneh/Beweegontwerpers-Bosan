@@ -4,13 +4,6 @@
 
 <div class="title_screen">
 
-  <ul class="nav homepage">
-    <a class="navbar-brand" href="index.svelte">
-      <img src="logo.jpg" alt="Logo" width="30px"/>
-    </a>
-    <li><a href="">Opdracht</a></li>
-  </ul>
-
   <div class="div_one homepage" />
   <div class="div_two homepage" />
   <div class="overlay homepage" />
@@ -47,37 +40,6 @@
 
   .homepage > * {
     margin: 0 0;
-  }
-
-  .nav {
-    list-style-type: none;
-    top: -16px;
-    padding: 0;
-    z-index: 1;
-  }
-
-  .nav > a > img {
-    padding: 14px;
-  }
-
-  .nav > li {
-    float: right;
-    font-size: 18pt;
-  }
-
-  .nav > li > a {
-    display: block;
-    text-align: center;
-    padding: 14px;
-    text-decoration: none;
-  }
-
-  .nav > li > a:hover {
-    background-color: #004B8E;
-    color: white;
-
-    -webkit-transition-duration: 200ms; /* Vertraag het hoveren */
-    transition-duration: 200ms;
   }
 
   .box {
