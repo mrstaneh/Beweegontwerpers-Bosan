@@ -1,24 +1,39 @@
-body{
-    margin: 0px;
-    overflow-x: hidden;
+body {
+  margin: 0px;
+  overflow-x: hidden;
 }
 
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
 
-p, h1, h2, h3, a{
-    font-family: 'Titillium Web', sans-serif;
-    color: #4A4A55;
-    
+p,
+h1,
+h2,
+h3,
+a,
+span {
+  font-family: "Titillium Web", sans-serif;
+  color: #4a4a55;
 }
 
-.active, .dot:hover {
-    background-color: #717171 !important;
+a {
+  color: #004b8e;
+}
+
+.active,
+.dot:hover {
+  background-color: #717171 !important;
 }
 
 main {
-    display: grid;
-    grid-template-columns: 300px 960px 660px;
-    grid-auto-flow: column;
+  display: grid;
+  grid-template-columns: 300px 960px 660px;
+  grid-auto-flow: column;
+}
+
+.section {
+  border-top: 1px solid black;
+  text-align: justify;
+  margin-bottom: 30px;
 }

@@ -8,28 +8,30 @@
   let currentY;
 
   let klimtrailerPhotos = [
-      {
-          path: 'images/klimtrailer-slideshow/klimtrailer1.png',
-          alt: 'klim1'
-      },
-      {
-          path: 'images/klimtrailer-slideshow/klimtrailer2.png',
-          alt: 'klim2'
-      },
-      {
-          path: 'images/klimtrailer-slideshow/klimtrailer3.png',
-          alt: 'klim3'
-      },
-      {
-          path: 'images/klimtrailer-slideshow/klimtrailer4.jpeg',
-          alt: 'klim4'
-      },
+    {
+      path: "images/klimtrailer-slideshow/klimtrailer1.png",
+      alt: "klim1",
+    },
+    {
+      path: "images/klimtrailer-slideshow/klimtrailer2.png",
+      alt: "klim2",
+    },
+    {
+      path: "images/klimtrailer-slideshow/klimtrailer3.png",
+      alt: "klim3",
+    },
+    {
+      path: "images/klimtrailer-slideshow/klimtrailer4.jpeg",
+      alt: "klim4",
+    },
   ];
 
   function goTop() {
     try {
       let bodyRect = document.body.getBoundingClientRect();
-      let elemRect = document.getElementById("inhoud").getBoundingClientRect();
+      let elemRect = document
+        .getElementById("titleScreen")
+        .getBoundingClientRect();
       let offset = elemRect.top - bodyRect.top;
 
       console.log(offset);
@@ -47,16 +49,19 @@
 
 <svelte:window bind:scrollY={currentY} />
 
-<TitleScreen />
-
 {#if currentY > 2285}
   <button
     in:fly={{ x: 50, duration: 400 }}
     out:fly={{ x: 50, duration: 400 }}
     id="top-button"
-    on:click={goTop}><i class="fa-solid fa-angles-up" /></button
-  >
+    on:click={goTop}
+    ><i class="fa-solid fa-angles-up" />
+  </button>
 {/if}
+
+<div id="titleScreen">
+  <TitleScreen />
+</div>
 
 <main>
   <div class="left-bar" />
@@ -88,7 +93,7 @@
         proces hebben gebruik gemaakt van de design thinking methode.
       </p>
     </div>
-    <div class="section inhoud" id="inhoud">
+    <!-- <div class="section inhoud" id="inhoud">
       <h1>Inhoud</h1>
       <InhoudItem paginaNaam="Samenvatting" scrollToId="samenvatting" />
       <InhoudItem paginaNaam="Woordenlijst" scrollToId="woordenlijst" />
@@ -99,7 +104,7 @@
       <InhoudItem paginaNaam="Frames" scrollToId="frames" />
       <InhoudItem paginaNaam="Prototyping" scrollToId="prototyping" />
       <InhoudItem paginaNaam="Proces" scrollToId="proces" />
-    </div>
+    </div> -->
     <div class="section samenvatting" id="samenvatting">
       <h1>Samenvatting</h1>
 
@@ -142,32 +147,6 @@
       </p>
 
       <SlideShow photos={klimtrailerPhotos} />
-    </div>
-    <div class="section woordenlijst" id="woordenlijst">
-      <h1>Woordenlijst</h1>
-
-      <div class="woordenlijst-container">
-        <div class="woordenlijst-column">
-          <p>Primair Onderwijs</p>
-          <div class="woordenlijst-item">
-            <p>
-              Primair onderwijs is de overkoepelende sector voor het
-              basisonderwijs én het speciaal basisonderwijs (SBO)
-            </p>
-          </div>
-        </div>
-        <div class="woordenlijst-column" />
-        <div class="woordenlijst-column">
-          <p>Stakeholder</p>
-          <div class="woordenlijst-item">
-            <p>
-              Stakeholders zijn personen of groepen van personen die een direct
-              of indirect belang hebben bij de organisatie en/of omgekeerd.
-              Kortom alle belanghebbenden.
-            </p>
-          </div>
-        </div>
-      </div>
     </div>
     <div class="section inleiding" id="inleiding">
       <h1>Inleiding</h1>
@@ -305,29 +284,8 @@
         het gehele principe.
       </p>
     </div>
-    <div class="section brainstorm" id="brainstorm">
-      <h1>Brainstorm</h1>
-      <iframe
-        title="Mural"
-        src="https://app.mural.co/embed/2551f8da-bf76-45d8-874a-3ae60cb5103a"
-        width="100%"
-        height="480px"
-        style="min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef"
-        sandbox="allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox"
-      />
-    </div>
-    <div class="section frames" id="frames">
-      <h1>Frames</h1>
-    </div>
-    <div class="section prototyping" id="prototyping">
-      <h1>Prototyping</h1>
-    </div>
-    <div class="section proces" id="proces">
-      <h1>Proces</h1>
-    </div>
   </div>
   <div class="right-bar">
-    <div class="voorpagina" />
     <Timeline />
   </div>
 </main>
@@ -337,51 +295,8 @@
     text-align: justify;
   }
 
-  .section {
-    border-top: 1px solid black;
-    text-align: justify;
-    margin-bottom: 30px;
-  }
-
-  .voorpagina {
-    height: 100vh;
-    text-align: center;
-  }
-
-  .woordenlijst-container {
-    display: grid;
-    grid-template-columns: 45% 10% 45%;
-    grid-auto-flow: column;
-    margin-bottom: 16px;
-  }
-
-  .woordenlijst-column p {
-    margin-top: 0px;
-    color: #f06119;
-    font-weight: bold;
-    margin-bottom: 4px;
-  }
-
-  .woordenlijst-item p {
-    color: black;
-    font-weight: normal;
-    margin-top: 0px;
-    margin-bottom: 0px;
-  }
-
   .opdracht-image {
     width: 50%;
-  }
-
-  .home-image {
-    justify-content: start;
-    position: absolute;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    object-fit: cover;
-    z-index: -1;
-    filter: sepia(300%) saturate(50%) brightness(70%) hue-rotate(180deg);
   }
 
   #top-button {
