@@ -17,7 +17,7 @@
 <main>
   <div class="left-bar" />
   <div class="content">
-    <div class="section woordenlijst" id="woordenlijst">
+    <div class="woordenlijst" id="woordenlijst" style="text-align: justify;">
       <h1>Woordenlijst</h1>
 
       <div class="woordenlijst-container">
