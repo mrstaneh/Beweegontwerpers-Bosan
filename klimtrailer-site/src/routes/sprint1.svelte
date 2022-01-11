@@ -10,8 +10,8 @@
 <main>
   <div class="left-bar" />
   <div class="content">
-    <div>
-      <h1>sprint 1: Brainstorm</h1>
+    <div class="section">
+      <h1>Sprint 1: Brainstorm</h1>
     </div>
     <div class="section destep/muurkrant" id="frames">
       <h1>Destep/Muurkrant</h1>
@@ -114,6 +114,3 @@
     <TimelineSprint1 />
   </div>
 </main>
-
-<style>
-</style>

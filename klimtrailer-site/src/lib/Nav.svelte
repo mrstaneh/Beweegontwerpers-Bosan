@@ -23,9 +23,12 @@
     <div class="nav-dropdown-backdrop" on:click={onNavDropdownClick}></div>
     <div class="nav-dropdown-menu" on:click={onNavDropdownClick} style="{pagePath == '/' ? 'margin-top: 69px;' : 'margin-top: 5px;'}">
       <ul>
-        <li><a class="" href="sprint1">Sprint 1</a></li>
+        <li><a href="sprint1">Sprint 1</a></li>
         <li><a href="sprint2">Sprint 2</a></li>
         <li><a href="sprint3">Sprint 3</a></li>
+        <li><a href="sprint4">Sprint 4</a></li>
+        <li><a href="sprint5">Sprint 5</a></li>
+        <li><a href="sprint6">Sprint 6</a></li>
       </ul>
     </div>
 {/if}

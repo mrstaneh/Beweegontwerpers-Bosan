@@ -95,7 +95,7 @@
     height: 25px;
     right: -17px;
     background-color: white;
-    border: 4px solid #ff9f55;
+    border: 4px solid #004b8e;
     top: 15px;
     border-radius: 50%;
     z-index: 1;

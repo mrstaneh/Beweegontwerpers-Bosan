@@ -1,17 +1,16 @@
 <script>
-    import InhoudItem from "$lib/InhoudItem.svelte";
     import TimelineSprint1 from "$lib/TimelineSprint1.svelte";
   </script>
   
   <svelte:head>
-    <title>Sprint 3</title>
+    <title>Sprint 6</title>
   </svelte:head>
   
   <main>
     <div class="left-bar" />
     <div class="content">
       <div class="section">
-        <h1>Sprint 3: Brainstorm</h1>
+        <h1>Sprint 6: Brainstorm</h1>
       </div>
       <div class="section brainstorm" id="brainstorm">
         <h1>Brainstorm</h1>
