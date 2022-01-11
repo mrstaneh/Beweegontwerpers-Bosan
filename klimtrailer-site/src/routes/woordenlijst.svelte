@@ -48,6 +48,10 @@
 </main>
 
 <style>
+  p{
+    text-align: left;
+  }
+
   main {
     display: grid;
     grid-template-columns: 25% 50% 25%;
