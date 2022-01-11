@@ -10,9 +10,7 @@
 <main>
   <div class="left-bar" />
   <div class="content">
-    <div class="section">
-      <h1>Sprint 2: Brainstorms</h1>
-    </div>
+    <h1>Sprint 2: Brainstorms</h1>
     <div class="section brainstorm" id="brainstorm">
       <h1>Brainstorm</h1>
       <iframe

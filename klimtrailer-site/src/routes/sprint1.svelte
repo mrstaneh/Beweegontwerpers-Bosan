@@ -10,9 +10,7 @@
 <main>
   <div class="left-bar" />
   <div class="content">
-    <div class="section">
-      <h1>Sprint 1: Analyse</h1>
-    </div>
+    <h1>Sprint 1: Analyse</h1>
     <div class="section destep/muurkrant" id="frames">
       <h1>Destep/Muurkrant</h1>
       <p>
@@ -107,8 +105,10 @@
     <div class="section proces" id="proces">
       <h1>Proces</h1>
     </div>
-    
-    <a style="margin-bottom: 20px;" href="sprint2" class="button">Ga naar de tweede sprint</a>
+
+    <a style="margin-bottom: 20px;" href="sprint2" class="button"
+      >Ga naar de tweede sprint</a
+    >
   </div>
   <div class="right-bar">
     <TimelineSprint1 />
