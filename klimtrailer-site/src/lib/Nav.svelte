@@ -1,4 +1,6 @@
 <script>
+  import { goto } from "$app/navigation";
+
   export let pagePath = undefined;
 
   let showDropdown = false;
@@ -23,12 +25,12 @@
     <div class="nav-dropdown-backdrop" on:click={onNavDropdownClick}></div>
     <div class="nav-dropdown-menu" on:click={onNavDropdownClick} style="{pagePath == '/' ? 'margin-top: 69px;' : 'margin-top: 5px;'}">
       <ul>
-        <li><a href="sprint1">Sprint 1</a></li>
-        <li><a href="sprint2">Sprint 2</a></li>
-        <li><a href="sprint3">Sprint 3</a></li>
-        <li><a href="sprint4">Sprint 4</a></li>
-        <li><a href="sprint5">Sprint 5</a></li>
-        <li><a href="sprint6">Sprint 6</a></li>
+        <li on:click={() => {goto('/sprint1')}}><a href="sprint1">Sprint 1: Analyse</a></li>
+        <li on:click={() => {goto('/sprint2')}}><a href="sprint2">Sprint 2: Brainstorms</a></li>
+        <li on:click={() => {goto('/sprint3')}}><a href="sprint3">Sprint 3: Prototyping</a></li>
+        <li on:click={() => {goto('/sprint4')}}><a href="sprint4">Sprint 4: Usertesting</a></li>
+        <li on:click={() => {goto('/sprint5')}}><a href="sprint5">Sprint 5: Demo Day Lite</a></li>
+        <li on:click={() => {goto('/sprint6')}}><a href="sprint6">Sprint 6: Afronding</a></li>
       </ul>
     </div>
 {/if}
@@ -73,6 +75,7 @@
     padding: 6px;
     padding-left: 20px;
     padding-right: 20px;
+    cursor: pointer;
   }
 
   .nav-dropdown-menu ul li:hover{

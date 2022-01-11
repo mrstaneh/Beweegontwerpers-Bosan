@@ -11,7 +11,7 @@
   <div class="left-bar" />
   <div class="content">
     <div class="section">
-      <h1>Sprint 1: Brainstorm</h1>
+      <h1>Sprint 1: Analyse</h1>
     </div>
     <div class="section destep/muurkrant" id="frames">
       <h1>Destep/Muurkrant</h1>
