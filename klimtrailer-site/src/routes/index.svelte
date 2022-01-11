@@ -1,7 +1,7 @@
 <script>
   import InhoudItem from "$lib/InhoudItem.svelte";
   import SlideShow from "$lib/SlideShow.svelte";
-  import Timeline from "$lib/Timeline.svelte";
+  import Timeline from "$lib/TimelineSprint1.svelte";
   import TitleScreen from "$lib/TitleScreen.svelte";
   import { fly } from "svelte/transition";
 
@@ -284,6 +284,7 @@
         het gehele principe.
       </p>
     </div>
+    <a style="margin-bottom: 20px;" href="sprint1" class="button">Ga naar eerste sprint</a>
   </div>
   <div class="right-bar">
     <Timeline />

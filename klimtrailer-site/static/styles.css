@@ -37,3 +37,18 @@ main {
   text-align: justify;
   margin-bottom: 30px;
 }
+
+.button {
+  background-color: #004c8e;
+  border-radius: 12px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 15px 48px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: #003c70;
+}

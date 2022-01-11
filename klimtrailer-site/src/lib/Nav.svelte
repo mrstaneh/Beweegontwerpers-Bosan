@@ -8,6 +8,7 @@
   </a>
   <li><a href="gegevens">Gegevens</a></li>
   <li><a href="woordenlijst">Woordenlijst</a></li>
+  <li><a href="bronvermelding">Bronvermelding</a></li>
 </ul>
 
 <style>

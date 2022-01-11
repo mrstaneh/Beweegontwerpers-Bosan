@@ -30,7 +30,7 @@
             </p>
           </div>
         </div>
-        <div class="woordenlijst-column" />
+        <div/>
         <div class="woordenlijst-column">
           <p>Stakeholder</p>
           <div class="woordenlijst-item">
@@ -57,8 +57,11 @@
   .woordenlijst-container {
     display: grid;
     grid-template-columns: 45% 10% 45%;
-    grid-auto-flow: column;
     margin-bottom: 16px;
+  }
+
+  .woordenlijst-container > div {
+    margin-bottom: 20px;
   }
 
   .woordenlijst-column p {
