@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>Woordenlijst</title>
+</svelte:head>
+
 <div>
   <img
     src="images/woordenlijst.jpg"

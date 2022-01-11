@@ -3,6 +3,9 @@
   import TimelineSprint1 from "$lib/TimelineSprint1.svelte";
 </script>
 
+<svelte:head>
+  <title>Sprint 2</title>
+</svelte:head>
 
 <main>
   <div class="left-bar" />

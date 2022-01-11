@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>Bronvermelding</title>
+</svelte:head>
+
 <div>
     <img
       src="images/bronvermeling.jpg"
@@ -12,7 +16,7 @@
       >
       on <a href="https://unsplash.com/" target="blank">Unsplash</a></span
     >
-  </div>
+</div>
 
 <main>
   <div class="left-bar" />

@@ -35,6 +35,10 @@
   ];
 </script>
 
+<svelte:head>
+  <title>Gegevens</title>
+</svelte:head>
+
 <img src="images/groepsfoto.jpg" alt="Groeps Foto" width="100%" />
 
 <main>
