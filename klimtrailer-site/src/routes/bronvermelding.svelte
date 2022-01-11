@@ -151,6 +151,8 @@
   }
 
   .bronnenlijst-item p {
+    border-radius: 4px;
+    padding: 4px;
     color: black;
     font-weight: normal;
     margin-top: 0px;
