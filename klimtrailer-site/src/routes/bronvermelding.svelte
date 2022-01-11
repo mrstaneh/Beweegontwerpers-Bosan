@@ -1,3 +1,15 @@
+<script>
+  import { onMount } from 'svelte';
+
+  onMount(() => {
+    let element = document.getElementById(window.location.hash.replace('#', ''));
+
+    if(element){
+      element.style.backgroundColor = '#ccd7ff';
+    }
+  });
+</script>
+
 <svelte:head>
   <title>Bronvermelding</title>
 </svelte:head>
