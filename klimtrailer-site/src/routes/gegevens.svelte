@@ -97,7 +97,6 @@
           </div>
         </div>
       </div>
-      <img class="gegevens-image" src="images/bosan-2.jpg" alt="" />
     </div>
   </div>
   <div class="right-bar" />
