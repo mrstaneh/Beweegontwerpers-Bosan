@@ -286,12 +286,17 @@
     </div>
     <a style="margin-bottom: 20px;" href="sprint1" class="button">Ga naar eerste sprint</a>
   </div>
-  <div class="right-bar">
-    <Timeline />
-  </div>
+  <div class="right-bar" />
 </main>
 
 <style>
+  main {
+    display: grid;
+    grid-template-columns: 480px 960px 480px;
+    grid-auto-flow: column;
+  }
+
+
   .voorwoord {
     text-align: justify;
   }
