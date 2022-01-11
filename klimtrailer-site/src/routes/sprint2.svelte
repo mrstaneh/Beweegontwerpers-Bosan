@@ -3,13 +3,13 @@
   import TimelineSprint1 from "$lib/TimelineSprint1.svelte";
 </script>
 
-<div>
-  <h1>spirnt 2: Brainstorm</h1>
-</div>
 
 <main>
   <div class="left-bar" />
   <div class="content">
+    <div>
+      <h1>sprint 2: Brainstorm</h1>
+    </div>
     <div class="section brainstorm" id="brainstorm">
       <h1>Brainstorm</h1>
       <iframe

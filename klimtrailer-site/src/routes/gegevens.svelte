@@ -133,8 +133,4 @@
     margin-top: 0px;
     margin-bottom: 0px;
   }
-
-  .gegevens-image {
-    width: 100%;
-  }
 </style>

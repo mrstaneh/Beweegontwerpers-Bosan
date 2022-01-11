@@ -1,15 +1,35 @@
 <script>
   export let pagePath = undefined;
+
+  let showDropdown = false;
+
+  function onNavDropdownClick(){
+    showDropdown = !showDropdown;
+  }
 </script>
 
 <ul class="nav {pagePath == '/' ? 'homepage' : 'normalpage'}">
   <a class="navbar-brand" href="/">
     <img src="images/logo.png" alt="Logo" width="30px" />
   </a>
+  <!-- svelte-ignore a11y-missing-attribute -->
+  <li on:click={onNavDropdownClick}><a>Sprints <i class="fa-solid fa-angle-down"></i></a></li>
   <li><a href="gegevens">Gegevens</a></li>
   <li><a href="woordenlijst">Woordenlijst</a></li>
   <li><a href="bronvermelding">Bronvermelding</a></li>
 </ul>
+
+{#if showDropdown}
+    <div class="nav-dropdown-backdrop" on:click={onNavDropdownClick}></div>
+    <div class="nav-dropdown-menu" on:click={onNavDropdownClick} style="{pagePath == '/' ? 'margin-top: 69px;' : 'margin-top: 5px;'}">
+      <ul>
+        <li><a class="" href="sprint1">Sprint 1</a></li>
+        <li><a href="sprint2">Sprint 2</a></li>
+        <li><a href="sprint3">Sprint 3</a></li>
+      </ul>
+    </div>
+{/if}
+
 
 <style>
   .homepage {
@@ -17,6 +37,47 @@
     position: absolute;
     top: 0;
     left: 0;
+  }
+
+  .nav-dropdown-backdrop{
+    position: fixed;
+    top: 64px;
+    height: calc(100% - 64px);
+    width: 100%;
+    z-index: 998;
+  }
+
+  .nav-dropdown-menu{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .2);
+    border: 1px solid #4A4A55;
+    right: 5px;
+    z-index: 999;
+  }
+
+  .nav-dropdown-menu ul{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    padding-inline-start: 00px;
+    padding-inline-end: 00px;
+    list-style: none;
+  }
+
+  .nav-dropdown-menu ul li{
+    padding: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .nav-dropdown-menu ul li:hover{
+    background-color: grey;
+  }
+
+  .nav-dropdown-menu ul li a{
+    font-size: 24px;
   }
 
   .normalpage {
@@ -27,6 +88,10 @@
 
   .homepage > * {
     margin: 0 0;
+  }
+
+  a:hover{
+    cursor: pointer;
   }
 
   .nav {
