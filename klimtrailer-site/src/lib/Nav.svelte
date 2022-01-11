@@ -73,7 +73,7 @@
   }
 
   .nav-dropdown-menu ul li:hover{
-    background-color: grey;
+    background-color: rgb(235, 235, 235);
   }
 
   .nav-dropdown-menu ul li a{
