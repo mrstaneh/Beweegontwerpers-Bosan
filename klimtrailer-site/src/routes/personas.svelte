@@ -226,14 +226,14 @@
     }
 
     main {
-        margin: auto;
-        width: 50%;
+        display: block;
     }
 
     .content{
         display: grid;
         grid-template-rows: 432.5px 432.5px;
         grid-template-columns: 270px 270px 270px 270px;
+        justify-content: center;
     }
 
     .item{
