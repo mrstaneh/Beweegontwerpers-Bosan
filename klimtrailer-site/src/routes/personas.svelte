@@ -46,7 +46,7 @@
             <img class="item-img" src="/images/personas/jorisreiners.png" alt="Joris Reiners"/>
             <div class="item-text">
                 <p class="item-name">Joris Reiners</p>
-                <p class="item-dsc">"Het mooiste aan docent zijn op een basisschool is dat ik mag werken met een bak aan jong talent."</p>
+                <p class="item-dsc" style="font-size: 15px;">"Het mooiste aan docent zijn op een basisschool is dat ik mag werken met een bak aan jong talent."</p>
             </div>
             <button class="item-btn">Meer informatie</button>
         </div>
@@ -70,7 +70,7 @@
             <img class="item-img" src="/images/personas/amyankers.png" alt="Amy Ankers"/>
             <div class="item-text">
                 <p class="item-name">Amy Ankers</p>
-                <p class="item-dsc" style="font-size: 15px;">"Ik vind het belangrijk dat ik de kinderen enthousiast kan maken met de nieuwe kennis die ze van mij kunnen leren."</p>
+                <p class="item-dsc" style="font-size: 14px;">"Ik vind het belangrijk dat ik de kinderen enthousiast kan maken met de nieuwe kennis die ze van mij kunnen leren."</p>
             </div>
             <button class="item-btn">Meer informatie</button>
         </div>
@@ -92,7 +92,7 @@
     }
 
     .item{
-        margin: 10px;
+        margin: 8px;
         text-align: left;
         background-color: #ccd7ff;
         border-radius: 8px;
@@ -125,8 +125,11 @@
     }
 
     .item-text{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
         margin-top: -4px;
-        height: 128px;
+        height: 119px;
     }
 
     .item-btn{
