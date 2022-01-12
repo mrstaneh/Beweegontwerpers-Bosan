@@ -10,7 +10,7 @@
     <div class="left-bar" />
     <div class="content">
         <div class="section">
-            <h1>Sprint 6: Afronding</h1>
+            <h1>Sprint 6: Mix and Match</h1>
         </div>
         <div class="section mixandmatch" id="mixandmatch">
             <h1>Mix and Match Week</h1>
