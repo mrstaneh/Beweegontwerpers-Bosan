@@ -12,7 +12,8 @@ h1,
 h2,
 h3,
 a,
-span {
+span,
+button {
   font-family: "Titillium Web", sans-serif;
   color: #4a4a55;
 }
