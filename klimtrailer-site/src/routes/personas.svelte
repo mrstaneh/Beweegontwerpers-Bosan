@@ -62,11 +62,10 @@
 </script>
   
 <svelte:head>
-<title>Sprint 1</title>
+<title>Persona's</title>
 </svelte:head>
 
 <main>
-    <div class="left-bar" />
     <div class="content">
         {#each personas as persona, id}
             <div class="item item-1" on:click={() => {onPersonaClick(id)}}>
@@ -79,7 +78,6 @@
             </div>
         {/each}
     </div>
-    <div class="right-bar" />
 </main>
 
 {#if showModal && currentId != undefined}
@@ -185,6 +183,25 @@
         z-index: 999;
         max-width: 35%;
         max-height: 90%;
+        overflow-y: auto;
+    }
+
+    @media(max-width: 1400px){
+        .persona-modal{
+            max-width: 50%;
+        }
+    }
+
+    @media(max-width: 1200px){
+        .persona-modal{
+            max-width: 60%;
+        }
+    }
+
+    @media(max-width: 1000px){
+        .persona-modal{
+            max-width: 70%;
+        }
     }
 
     .modal-content{
@@ -209,13 +226,8 @@
     }
 
     main {
-        display: grid;
-        grid-template-columns: 25% 50% 25%;
-        grid-auto-flow: column;
-        justify-content: space-evenly;
-        justify-items: center;
-        align-content: space-evenly;
-        align-items: center;
+        margin: auto;
+        width: 50%;
     }
 
     .content{
