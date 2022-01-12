@@ -25,14 +25,14 @@
 
 <style>
   .title_screen {
-    width: 100%;
-    height: 100vh;
+    width: 1900px;
+    height: 1080px;
     position: relative;
   }
 
   .homepage {
-    width: 100%;
-    height: 100%;
+    width: 1900px;
+    height: 1080px;
     position: absolute;
     top: 0;
     left: 0;
@@ -53,8 +53,8 @@
   }
 
   .div_one {
-    width: 100vw;
-    height: 100vh;
+    width: 1900px;
+    height: 1080px;
     background-color: white;
     background-size: cover;
     background-repeat: no-repeat;
@@ -62,8 +62,8 @@
   }
 
   .div_two {
-    width: 100vw;
-    height: 100vh;
+    width: 1900px;
+    height: 1080px;
     background-image: url("/images/klimtrailer6.png");
     clip-path: polygon(58vw 0, 0% 280vh, 1000000vw 100vh);
     background-size: cover;

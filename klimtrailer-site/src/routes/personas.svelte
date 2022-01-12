@@ -277,12 +277,6 @@
         border-bottom-right-radius: 8px;
     }
 
-    @media(max-height: 928px){
-        .item-btn{
-            display: none;
-        }
-    }
-
     .persona-title{
         margin-top: 0px;
     }
