@@ -220,7 +220,7 @@
 
     .content{
         display: grid;
-        grid-template-rows: calc(50vh - 32px) calc(50vh - 32px);
+        grid-template-rows: 432.5px 432.5px;
         grid-template-columns: 270px 270px 270px 270px;
     }
 
