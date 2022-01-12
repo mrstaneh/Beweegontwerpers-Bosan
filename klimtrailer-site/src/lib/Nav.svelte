@@ -19,6 +19,7 @@
   <li><a href="gegevens">Gegevens</a></li>
   <li><a href="woordenlijst">Woordenlijst</a></li>
   <li><a href="bronvermelding">Bronvermelding</a></li>
+  <li><a href="personas">Persona's</a></li>
 </ul>
 
 {#if showDropdown}
@@ -30,7 +31,8 @@
         <li on:click={() => {goto('/sprint3')}}><a href="sprint3">Sprint 3: Prototyping</a></li>
         <li on:click={() => {goto('/sprint4')}}><a href="sprint4">Sprint 4: Usertesting</a></li>
         <li on:click={() => {goto('/sprint5')}}><a href="sprint5">Sprint 5: Demo Day Lite</a></li>
-        <li on:click={() => {goto('/sprint6')}}><a href="sprint6">Sprint 6: Afronding</a></li>
+        <li on:click={() => {goto('/sprint6')}}><a href="sprint6">Sprint 6: Mix and Match</a></li>
+        <li on:click={() => {goto('/sprint7')}}><a href="sprint7">Sprint 7: Afronding</a></li>
       </ul>
     </div>
 {/if}
