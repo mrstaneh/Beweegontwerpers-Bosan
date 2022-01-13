@@ -89,41 +89,16 @@
       <h1>Samenvatting</h1>
 
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget
-        nisi sit amet est rhoncus tristique. Nam rhoncus lectus non tempor
-        condimentum. Duis efficitur fringilla lacus, a ornare nisl mollis vitae.
-        Sed luctus porttitor congue. Donec efficitur dictum sapien sit amet
-        euismod. Phasellus iaculis ac erat convallis cursus. Donec id ex ut
-        ipsum sagittis rhoncus a eu urna. Fusce dapibus urna eget leo porttitor
-        vestibulum.
+        Hoeveel beweging heeft een kind gemiddeld nodig? Volgens de beweegrichtlijnen hebben basisschoolkinderen minimaal 1 uur matige, intensieve beweging nodig om gezond te blijven. Voldoende beweging is goed voor de gezondheid en de ontwikkeling van het kind, dit zorgt tevens voor een verhoging in het zelfvertrouwen en de sociale vaardigheden. 
       </p>
       <p>
-        Nulla egestas id tellus ut faucibus. Orci varius natoque penatibus et
-        magnis dis parturient montes, nascetur ridiculus mus. Donec posuere nec
-        libero ut pulvinar. Pellentesque habitant morbi tristique senectus et
-        netus et malesuada fames ac turpis egestas. Nullam finibus lacus
-        placerat leo auctor, in hendrerit est dapibus. In finibus lorem lacus,
-        ut vestibulum ipsum venenatis eu. Quisque quis risus ut ligula rutrum
-        tempus non non diam. Nam ac eros dui. Mauris dictum sapien finibus mi
-        vulputate congue. Nam aliquet non felis in dictum.
+        Bosan wil een nieuwe ontwikkeling realiseren om met innovatieve materialen de beweging bij kinderen te stimuleren in het beweegonderwijs. Opdrachtgever Bosan kwam vervolgens met de hoofdvraag: “Op welke wijze kunnen we met innovatieve materialen beweegomgevingen inrichten zodat ze aansluiten bij de ontwikkeling in het bewegingsonderwijs?”. Uit onderzoek blijkt: “Vanaf 2023 geldt een nieuwe regel, kinderen op de basisschool moeten verplicht minimaal 2 uur per week gymles krijgen.” Uit interviews is helder geworden dat niet iedere basisschool voldoende capaciteit heeft  , daarom is de stap ondernomen om de focus te leggen op buiten gymmen. De design thinking methode is toegepast tijdens het proces, er is gebruik gemaakt van: brainstormsessies, iteratief en incrementeel werken, vormgeven van persona’s, korte testen doen en diverse interviews houden met experts. De Boulder Mini is op diverse momenten geoptimaliseerd, zo is er bijvoorbeeld gekeken naar de wetgeving rondom verplichte valmatten en het multifunctioneel inzetten van prototypes. Daarnaast zijn ook de praktische eisen in acht genomen, zoals de hanteerbaarheid van het product. Uiteindelijk is de Boulder Mini ontstaan met diverse demonteerbare wanden. 
       </p>
       <p>
-        Cras vel consectetur dolor. Vestibulum lacinia consectetur tempus.
-        Quisque sit amet accumsan libero. Nam iaculis tempor mauris. Vestibulum
-        eu sodales ipsum. Suspendisse pretium, ante id elementum lacinia, ante
-        nunc rhoncus tellus, non tempor elit nunc id magna. Cras vel convallis
-        nibh. Aenean dapibus ut ante non auctor. Maecenas sed pellentesque ex.
-        Morbi vel efficitur ex, non hendrerit urna.
+        Er is gekozen voor een aanhanger naar aanleiding van het onderzoek naar de regelgeving. Het is mogelijk om naast het aanschaffen van het product een leasecontract en een onderhoudsplan aan te schaffen. Voordat het productproces afgerond is, is er ter validatie nogmaals  meerdere interviews gehouden met experts. De experts waren enthousiast over het product. Het product bestaat uit een verplaatsbare klimwand. De klimwanden zijn verstelbaar in diverse kantelhoeken en klimmethodes. Een quote vanuit Stefan van Veen (master in Sport- en Beweeginnovatie):
       </p>
-      <p>
-        Nulla egestas id tellus ut faucibus. Orci varius natoque penatibus et
-        magnis dis parturient montes, nascetur ridiculus mus. Donec posuere nec
-        libero ut pulvinar. Pellentesque habitant morbi tristique senectus et
-        netus et malesuada fames ac turpis egestas. Nullam finibus lacus
-        placerat leo auctor, in hendrerit est dapibus. In finibus lorem lacus,
-        ut vestibulum ipsum venenatis eu. Quisque quis risus ut ligula rutrum
-        tempus non non diam. Nam ac eros dui. Mauris dictum sapien finibus mi
-        vulputate congue. Nam aliquet non felis in dictum.
+      <p style="font-size: 18px; color: #4491DA;">
+        “Het product heeft zeker meerwaarde en kent een multifunctionele werkvorm toe.”
       </p>
     </div>
     <div class="section inleiding" id="inleiding">

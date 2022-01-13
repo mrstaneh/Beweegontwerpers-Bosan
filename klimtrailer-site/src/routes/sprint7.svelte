@@ -10,7 +10,7 @@
   <div class="left-bar" />
   <div class="content">
     <h1>Sprint 7: Afronding</h1>
-    <div class="section mixandmatch" id="mixandmatch">
+    <div class="section afronding" id="afronding">
       <h1>Afronding</h1>
     </div>
   </div>
