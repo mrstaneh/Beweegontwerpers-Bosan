@@ -105,6 +105,37 @@
         als hierbij een korte uitleg was gegeven.
       </p>
     </div>
+    <div class="section businessmodelcanvas" id="businessmodelcanvas">
+      <h1 style="margin-right: 6px; margin-bottom: 0px;">Business Model Canvas</h1><a style="display: block; margin-top: -6px; margin-bottom: 0.67em;" href="https://app.mural.co/t/beweegontwerper5597/m/beweegontwerper5597/1638867606514/22a141666515adbaa09f23ee7013f4692f743aab?sender=u136d5cd9aadc80be98d74562" target="_blank">Link naar BMC</a>
+      <p style="color: #F06119; display: block;">Hoe werkt het BMC?</p>
+      <p>Het doel van een Business model canvas is inzicht krijgen in wat er allemaal komt kijken bij een bedrijfsvoering. Het is verstandig om hier van tevoren over na te denken, dit is de ruggengraat van het bedrijf en bepaald of het levensvatbaar is. Dit is een model wat regelmatig geüpdatet moet worden, vanwege een constant veranderende markt. </p>
+      <p>Alle kanalen zijn belangrijk in dit model, als er één wordt overslagen kan dit fatale gevolgen hebben voor een bedrijf. 
+        De key resources en key partners zijn hierbij van groot belang, door dit van tevoren goed in de gaten  kunnen mogelijke tegenslagen worden voorkomen . Elk startend maar ook elk bestaand bedrijf zou dus veel waarde moeten hechten aan het BMC. 
+        </p>
+
+      <p style="color: #F06119; display: block;">Hoe is een BMC opgebouwd?</p>
+      <p>Er wordt gestart met een klant profiel en een value map. Deze zijn opgedeeld in pijn, voordelen en taken voor de klant. De value map bestaat uit producten, pijnverzachters en voordelen. Nadat deze duidelijk zijn kan het volledige Business Model Canvas worden ingevuld. </p>
+      <p>Bij het BMC is het ook van belang dat er een juiste volgorde wordt gehanteerd. Deze is als volgt:</p>
+      <ol>
+        <li>Klantsegmenten</li>
+        <li>Waardepropositie</li>
+        <li>Klantrelaties</li>
+        <li>Kanalen</li>
+        <li>Inkomstenstromen</li>
+        <li>Hulpbronnen</li>
+        <li>Partners</li>
+        <li>Kostenstructuur</li>
+      </ol>
+      <p>Bij dit model moet er een juiste volgorde worden gehanteerd.</p>
+      <p>Onderin het BMC model zijn de belangrijkste pijlers te zien, dit zijn de inkomensstromen en de kostenstructuur. Deze bepalen uiteindelijk de mogelijke omzet voor het bedrijf en geeft dus antwoord op de vraag of het bedrijf levensvatbaar zal zijn.</p>
+
+      <p style="color: #F06119; display: block;">Toelichting van het BMC</p>
+      <p>Allereerst is er door iedereen apart nagedacht over het klantenprofiel en de value map, vervolgens is dit besproken en samengevoegd tot één geheel. Hier zijn verschillende pijnpunten bij naar voren gekomen, een belangrijke is de veiligheid en de verkoopprijs in aanschaf. Een bijpassende pijnverzachter hiervoor is een goede valmat en een valinstructie. </p>
+      <p>Bij de kostenstructuur is gekeken naar de materiaalkosten, marketingkosten, variabele kosten en de vaste kosten. Ook zijn de afschrijvingen meegenomen en is er nagedacht over eventueel gebruik van massaproductie. Dit zijn de belangrijkste punten die naar voren kwamen uit het BMC model.</p>
+
+      <p style="color: #F06119; display: block;">Conclusie</p>
+      <p>De veranderende markt speelt voor Bosan vooral bij de materiaalkosten. Deze kosten zullen in de toekomst toenemen, dit zal invloed hebben op de markt maar ook op het BMC. Deze prijs zal constant veranderen wat resulteert in een constant veranderend BMC model. </p>
+    </div>
   </div>
   <div class="right-bar">
     <TimelineSprint1 />
