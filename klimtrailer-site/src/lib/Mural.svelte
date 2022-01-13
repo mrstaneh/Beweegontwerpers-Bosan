@@ -47,7 +47,7 @@
     }
 
     .enlarged-ifr{
-        min-height: 480px;
+        min-height: 82vh;
     }
 
     @media (-webkit-device-pixel-ratio: 1.25) {
