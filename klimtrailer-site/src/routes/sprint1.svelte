@@ -110,12 +110,6 @@
       <p>De MOSCOW methode is uitgewerkt in een Bijlage. Zie hieronder de bijlage. </p>
       
     </div>
-    <div class="section cimo" id="cimo">
-      <h1>CIMO Analyses</h1>
-      <p>Een CIMO analyse bestaat uit 4 delen zoals afgebeeld in de foto hier onder.</p>
-      <img style="width: 100%;" src="/images/cimo.jpg" alt="CIMO"/>
-      <p>Vanaf sprint 2 hebben we voor iedere sprint deze analyse ingevuld. Hierdoor hebben wij ons doel per sprint beter voor ogen en hebben we al nagedacht over de stappen die we moeten doorlopen om ons doel te halen.</p>
-    </div>
     <a style="margin-bottom: 20px;" href="sprint2" class="button"
       >Ga naar de tweede sprint</a
     >
