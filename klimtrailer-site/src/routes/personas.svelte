@@ -6,44 +6,68 @@
         {
             name: "Luca Jansen",
             desc: "Vrienden kun je ook online maken!",
-            photoSrc: "/images/personas/lucajansen.png"
+            photoSrc: "/images/personas/lucajansen.png",
+            age: 9,
+            title: "Basisschoolleerling",
+            link: "https://www.canva.com/design/DAEtPv0itnY/zspfQ6XYdnOOv1jhPNU68Q/view?utm_content=DAEtPv0itnY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
         },
         {
             name: "Mariec Driesen",
             desc: "Een dag niet gezongen is een dag niet geleefd.",
-            photoSrc: "/images/personas/mariecdriesen.png"
+            photoSrc: "/images/personas/mariecdriesen.png",
+            age: 10,
+            title: "Basisschoolleerling",
+            link: "https://www.canva.com/design/DAEr1t2lMHg/u91L-lxsqVcgxPcqzt4t2A/view?utm_content=DAEr1t2lMHg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
         },
         {
             name: "Casper de Haan",
             desc: "Je moet schieten, anders kun je niet scoren.",
-            photoSrc: "/images/personas/casperdehaan.png"
+            photoSrc: "/images/personas/casperdehaan.png",
+            age: 7,
+            title: "Basisschoolleerling",
+            link: "https://www.canva.com/design/DAEreuYOfSM/4NQeh_qXpAVuTW4fbRHK_Q/view?utm_content=DAEreuYOfSM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
         },
         {
             name: "Rafaël Manik Mas",
             desc: "Je bent moediger dan je gelooft, sterker dan je eruit ziet en slimmer dan je denkt. -Winnie de Poeh",
-            photoSrc: "/images/personas/rafaelmanikmas.png"
+            photoSrc: "/images/personas/rafaelmanikmas.png",
+            age: 12,
+            title: "Basisschoolleerling",
+            link: "https://www.canva.com/design/DAEsiir5JMo/8fZxJXK6IadDJ8KcS6S7JA/view?utm_content=DAEsiir5JMo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
         },
         {
             name: "Joris Reiners",
             desc: "Het mooiste aan docent zijn op een basisschool is dat ik mag werken met een bak aan jong talent.",
             descStyle: "font-size: 15px;",
-            photoSrc: "/images/personas/jorisreiners.png"
+            photoSrc: "/images/personas/jorisreiners.png",
+            age: 31,
+            title: "Gymdocent",
+            link: "https://www.canva.com/design/DAEtPohAUOc/v4TR0wwhv61nGh99tpIfhA/view?utm_content=DAEtPohAUOc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
         },
         {
             name: "Nicky de Vries",
             desc: "Geef nooit op! Zet door, ook als het moeilijk wordt.",
-            photoSrc: "/images/personas/nickydevries.png"
+            photoSrc: "/images/personas/nickydevries.png",
+            age: 27,
+            title: "Gymdocente",
+            link: "https://www.canva.com/design/DAEr2IJVsPg/uMN8OPW9GPWJySq6ujEiUg/view?utm_content=DAEr2IJVsPg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
         },
         {
             name: "Marc de Groot",
-            desc: "De kinderen moeten zichzelf ontwikkelen en uitzoeken wat hun het leukste vinden om te doen.",
-            photoSrc: "/images/personas/marcdegroot.png"
+            desc: "De kinderen moeten zichzelf ontwikkelen en uitzoeken wat zij het leukste vinden om te doen.",
+            photoSrc: "/images/personas/marcdegroot.png",
+            age: 37,
+            title: "Buurtsportcoach",
+            link: "https://www.canva.com/design/DAEvUDWt0UQ/k19eQrurDIZhiU3uW9FxPg/view?utm_content=DAEvUDWt0UQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
         },
         {
             name: "Amy Ankers",
             desc: "Ik vind het belangrijk dat ik de kinderen enthousiast kan maken met de nieuwe kennis die ze van mij kunnen leren.",
             descStyle: "font-size: 14px;",
-            photoSrc: "/images/personas/amyankers.png"
+            photoSrc: "/images/personas/amyankers.png",
+            age: 26,
+            title: "Docent Basisschool",
+            link: "https://www.canva.com/design/DAEvUJI94Dg/rHhWQ7mzyNO2QYX8XhtwMA/view?utm_content=DAEvUJI94Dg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
         }
     ]
 
@@ -88,7 +112,8 @@
             <i class="fa-solid fa-xmark" on:click={hideModal}></i>
         </div>
         <div class="modal-content">
-            <h1 class="persona-title">{personas[currentId].name}</h1>
+            <h1 class="persona-name" >{personas[currentId].name}</h1><a href="{personas[currentId].link}" target="_blank">Link naar persona</a>
+            <h4 class="persona-title">{personas[currentId].title} ({personas[currentId].age} jaar oud)</h4>
             {#if currentId == 0}
                 <p style="color: #F06119; display: inline;">Beschrijving</p>
                 <p>Luca is graag samen met zijn klasgenootjes bezig, houdt van onderling contact en hij zou er graag een wedstrijdelement in terugzien. Zo zou hij ook graag willen dat het op een langer termijn leuk blijft. Luca heeft namelijk geen goed doorzettingsvermogen en vindt hierdoor dingen minder lang leuk.</p>
@@ -289,7 +314,15 @@
         border-bottom-right-radius: 8px;
     }
 
+    .persona-name{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-right: 16px;
+        display: inline;
+    }
+
     .persona-title{
         margin-top: 0px;
     }
+
 </style>
