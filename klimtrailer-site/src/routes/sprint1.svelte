@@ -10,8 +10,8 @@
 <main>
   <div class="left-bar" />
   <div class="content">
-    <h1>Sprint 1: Analyse</h1>
-    <div class="section destep/muurkrant" id="frames">
+    <h1>Sprint 1: Proces</h1>
+    <div class="section destep/muurkrant" id="destep">
       <h1>Destep/Muurkrant</h1>
       <p>
         DESTEP is een afkorting en staat voor demografische, economische,
@@ -20,12 +20,14 @@
       </p>
       <p>
         Binnen deze sprint zijn we het probleem uiteen gaan zetten doormiddel
-        van een DESTEP, die we later op een <a
-          target="_blank"
-          href="https://app.mural.co/t/beweegontwerper5597/m/beweegontwerper5597/1633337910817/590f42cae087d0fb55c2bbca69ccef10b2b99ea3?sender=uda85e330004642c3ab2b4218"
-          >muurkrant</a
-        > gepresenteerd hebben aan onze stakeholder.
+        van een DESTEP, die we later op een muurkrant (zie hieronder) gepresenteerd hebben aan onze stakeholder.
       </p>
+      <iframe title="Muurkrant" src='https://app.mural.co/embed/80134860-96ce-411d-99e3-084e2abe5c9e'
+      width='100%'
+      height='480px'
+      style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+      sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+      </iframe>
       <p>
         Uit deze muurkrant hebben we een aantal keuzes gemaakt die tot ons
         eerste vraagstuk leiden: “Hoe kunnen we er voor zorgen dat alle <b
@@ -96,16 +98,24 @@
         sporthal.
       </p>
     </div>
-    <div class="section frames" id="frames">
-      <h1>Frames</h1>
+    <div class="section moscow" id="moscow">
+      <h1>Moscow Methode</h1>
+      <p>Tijdens de Moscow methode wordt er gekeken naar welke onderdelen een product belangrijk zijn. Met deze methode krijg je een goede kijk op het te ontwerpen product. Dit is een wijze van prioriteiten stellen. Op deze manier zul je minder snel de overbodige punten van een product gaan uitwerken. Het is een afkorting, waarvan de letters staan voor: </p>
+      <ul>
+        <li>M - Must Haves: deze eisen (requirements) moeten in het eindresultaat terug komen, zonder deze eisen is het product onbruikbaar.</li>
+        <li>S - Should Haves: deze eisen zijn zeer gewenst, maar zonder is het product wel bruikbaar.</li>
+        <li>C - Could Haves: deze eisen zullen alleen aan bod komen als er tijd genoeg is.</li>
+        <li>W - Won't Haves: : deze eisen zullen in dit project niet aan bod komen maar kunnen in toekomst wel interessant zijn.</li>
+      </ul>
+      <p>De MOSCOW methode is uitgewerkt in een Bijlage. Zie hieronder de bijlage. </p>
+      
     </div>
-    <div class="section prototyping" id="prototyping">
-      <h1>Prototyping</h1>
+    <div class="section cimo" id="cimo">
+      <h1>CIMO Analyses</h1>
+      <p>Een CIMO analyse bestaat uit 4 delen zoals afgebeeld in de foto hier onder.</p>
+      <img style="width: 100%;" src="/images/cimo.jpg" alt="CIMO"/>
+      <p>Vanaf sprint 2 hebben we voor iedere sprint deze analyse ingevuld. Hierdoor hebben wij ons doel per sprint beter voor ogen en hebben we al nagedacht over de stappen die we moeten doorlopen om ons doel te halen.</p>
     </div>
-    <div class="section proces" id="proces">
-      <h1>Proces</h1>
-    </div>
-
     <a style="margin-bottom: 20px;" href="sprint2" class="button"
       >Ga naar de tweede sprint</a
     >

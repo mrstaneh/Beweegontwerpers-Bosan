@@ -9,7 +9,7 @@
 <main>
   <div class="left-bar" />
   <div class="content">
-    <h1>Sprint 6: Afronding</h1>
+    <h1>Sprint 6: Mix and Match Week</h1>
     <div class="section mixandmatch" id="mixandmatch">
       <h1>Mix and Match Week</h1>
 
