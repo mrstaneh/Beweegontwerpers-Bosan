@@ -3,8 +3,6 @@
     export let src = undefined;
 
     let enlarged = false;
-    let bgColor = 'rgb(101, 214, 116)';
-    let bgHoverColor = 'rgb(121, 234, 136)';
 
     function onEnlargeClick(){
         enlarged = !enlarged;
@@ -13,7 +11,7 @@
     }
 </script>
 
-<div class="mural-container" style="{enlarged == true ? 'position: fixed; left: 5vw; top: 8vh; width: 90vw; height: 84vh; z-index: 999;' : ''}">
+<div class="mural-container {enlarged == true ? 'enlarged' : ''}">
     <div class="mural-bar">
         <p>{title} Mural</p>
         <div class="mural-bar-right">
@@ -22,17 +20,51 @@
         </div>
     </div>
     <div class="mural-iframe">
-        <iframe title="{title}" src='{src}'
+        <iframe class="{enlarged == true ? 'enlarged-ifr' : ''}" title="{title}" src='{src}'
         width='99.8%'
         id="mural-{title}"
         height='{enlarged == true ? '90vw' : '480px'}'
-        style='min-width: 640px; {enlarged == true ? 'min-height: 84vh;' : 'min-height: 480px;'} background-color: #efefef; border: 1px solid #c0c0c0'
+        style='min-width: 640px; background-color: #efefef; border: 1px solid #c0c0c0'
         sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
         </iframe>
     </div>
 </div>
 
 <style>
+    iframe{
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+    }
+
+    .enlarged{
+        position: fixed;
+        left: 5vw;
+        top: 8vh;
+        width: 90vw;
+        height: 84vh;
+        z-index: 999;
+        border-radius: 8px;
+    }
+
+    .enlarged-ifr{
+        min-height: 480px;
+    }
+
+    @media (-webkit-device-pixel-ratio: 1.25) {
+        .enlarged{
+            position: fixed;
+            left: 5vw;
+            top: 8vh;
+            width: 114vw;
+            height: 108vh;
+            z-index: 999;
+        }
+
+        .enlarged-ifr{
+            width: calc(114vw - 2px);
+            min-height: calc(108vh - 28px);
+        }
+    }
 
     p{
         display: inline;
