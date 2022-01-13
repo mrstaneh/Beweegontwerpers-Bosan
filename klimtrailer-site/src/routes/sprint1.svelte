@@ -1,5 +1,5 @@
 <script>
-  import InhoudItem from "$lib/InhoudItem.svelte";
+  import Mural from "$lib/Mural.svelte";
   import TimelineSprint1 from "$lib/TimelineSprint1.svelte";
 </script>
 
@@ -22,12 +22,7 @@
         Binnen deze sprint zijn we het probleem uiteen gaan zetten doormiddel
         van een DESTEP, die we later op een muurkrant (zie hieronder) gepresenteerd hebben aan onze stakeholder.
       </p>
-      <iframe title="Muurkrant" src='https://app.mural.co/embed/80134860-96ce-411d-99e3-084e2abe5c9e'
-      width='100%'
-      height='480px'
-      style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
-      sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
-      </iframe>
+      <Mural title="Muurkrant" src="https://app.mural.co/embed/80134860-96ce-411d-99e3-084e2abe5c9e"/>
       <p>
         Uit deze muurkrant hebben we een aantal keuzes gemaakt die tot ons
         eerste vraagstuk leiden: “Hoe kunnen we er voor zorgen dat alle <b

@@ -1,6 +1,6 @@
 <script>
-  import InhoudItem from "$lib/InhoudItem.svelte";
   import TimelineSprint1 from "$lib/TimelineSprint1.svelte";
+  import Mural from "$lib/Mural.svelte";
 </script>
 
 <svelte:head>
@@ -136,12 +136,7 @@
       <p style="color: #F06119; display: inline;">Conclusie</p>
       <p>De veranderende markt speelt voor Bosan vooral bij de materiaalkosten. Deze kosten zullen in de toekomst toenemen, dit zal invloed hebben op de markt maar ook op het BMC. Deze prijs zal constant veranderen wat resulteert in een constant veranderend BMC model. </p>
 
-      <iframe title="BMC" src='https://app.mural.co/embed/b43356ae-b9de-4ecd-9a3a-50f00b649976'
-        width='100%'
-        height='480px'
-        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
-        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
-      </iframe>
+      <Mural title="BMC" src="https://app.mural.co/embed/b43356ae-b9de-4ecd-9a3a-50f00b649976"/>
     </div>
   </div>
   <div class="right-bar">
