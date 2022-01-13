@@ -64,11 +64,11 @@
         <div class="gegevens-column">
           <p>Verslag</p>
           <div class="gegevens-item">
-            <p><b>Titel:</b> ........</p>
+            <p><b>Titel:</b> Portfolio Team Bosan</p>
             <p><b>Versie:</b> 1</p>
             <p>
               <b>Datum:</b>
-              {currentDate.getDay()}-{currentDate.getMonth()}-{currentDate.getFullYear()}
+              {currentDate.getDate()}-{currentDate.getMonth()+1}-{currentDate.getFullYear()}
             </p>
           </div>
 
