@@ -28,7 +28,7 @@
     <div class="section cimo" id="cimo">
       <h1>CIMO Analyses</h1>
       <p>Een CIMO analyse bestaat uit 4 delen zoals afgebeeld in de foto hier onder.</p>
-      <img style="width: 60%;" src="/images/cimo.jpg" alt="CIMO"/>
+      <img style="width: 60%;" src="/images/CIMO.jpg" alt="CIMO"/>
       <p>Vanaf sprint 2 hebben we voor iedere sprint deze analyse ingevuld. Hierdoor hebben wij ons doel per sprint beter voor ogen en hebben we al nagedacht over de stappen die we moeten doorlopen om ons doel te halen. Hieronder staat de mural waar al onze CIMOs van het project staan.</p>
       <Mural title="CIMOs" src="https://app.mural.co/embed/b00af80c-18cd-4182-8a31-160205b9a1eb"/>
     </div>
