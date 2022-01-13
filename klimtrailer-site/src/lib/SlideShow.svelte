@@ -4,11 +4,13 @@
   let slideIndex = 1;
 
   export let photos = undefined;
+  export let id = undefined;
+  export let maxwidth = 1000;
 
   function showSlides(n) {
       var i;
-      var slides = document.getElementsByClassName("mySlides");
-      var dots = document.getElementsByClassName("dot");
+      var slides = document.getElementsByClassName(`mySlides-${id}`);
+      var dots = document.getElementsByClassName(`dot-${id}`);
       if (n > slides.length) {slideIndex = 1}
       if (n < 1) {slideIndex = slides.length}
       for (i = 0; i < slides.length; i++) {
@@ -37,10 +39,10 @@
 </script>
 
 <!-- Slideshow container -->
-<div class="slideshow-container">
+<div class="slideshow-container-{id} slideshow-container" style="max-width: {maxwidth}px;">
     <!-- Full-width images with number and caption text -->
     {#each photos as photo, i}
-      <div class="mySlides fade">
+      <div class="mySlides-{id} mySlides fade">
         <div class="numbertext">{i + 1} / {photos.length}</div>
         <img src="{photo.path}" alt="{photo.alt}" style="width:100%">
       </div>
@@ -58,7 +60,7 @@
 <!-- The dots/circles -->
 <div style="text-align:center; margin-bottom: 1rem;">
   {#each photos as photo, i}
-    <span class="dot" on:click={() => {currentSlide(i + 1)}}></span>
+    <span class="dot-{id} dot" on:click={() => {currentSlide(i + 1)}}></span>
   {/each}
 </div>
 

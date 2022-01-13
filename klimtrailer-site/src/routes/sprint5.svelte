@@ -106,7 +106,7 @@
       </p>
     </div>
     <div class="section businessmodelcanvas" id="businessmodelcanvas">
-      <h1 style="margin-right: 6px; margin-bottom: 0px;">Business Model Canvas</h1><a style="display: block; margin-top: -6px; margin-bottom: 0.67em;" href="https://app.mural.co/t/beweegontwerper5597/m/beweegontwerper5597/1638867606514/22a141666515adbaa09f23ee7013f4692f743aab?sender=u136d5cd9aadc80be98d74562" target="_blank">Link naar BMC</a>
+      <h1 style="margin-right: 6px; margin-bottom: 0px;">Business Model Canvas</h1>
       <p style="color: #F06119; display: inline;">Hoe werkt het BMC?</p>
       <p>Het doel van een Business model canvas is inzicht krijgen in wat er allemaal komt kijken bij een bedrijfsvoering. Het is verstandig om hier van tevoren over na te denken, dit is de ruggengraat van het bedrijf en bepaald of het levensvatbaar is. Dit is een model wat regelmatig geüpdatet moet worden, vanwege een constant veranderende markt. </p>
       <p>Alle kanalen zijn belangrijk in dit model, als er één wordt overslagen kan dit fatale gevolgen hebben voor een bedrijf. 
@@ -135,6 +135,8 @@
 
       <p style="color: #F06119; display: inline;">Conclusie</p>
       <p>De veranderende markt speelt voor Bosan vooral bij de materiaalkosten. Deze kosten zullen in de toekomst toenemen, dit zal invloed hebben op de markt maar ook op het BMC. Deze prijs zal constant veranderen wat resulteert in een constant veranderend BMC model. </p>
+
+      MURAL HIER
     </div>
   </div>
   <div class="right-bar">

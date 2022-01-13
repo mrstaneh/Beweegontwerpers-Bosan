@@ -1,6 +1,59 @@
 <script>
-  import InhoudItem from "$lib/InhoudItem.svelte";
   import TimelineSprint1 from "$lib/TimelineSprint1.svelte";
+  import SlideShow from "$lib/SlideShow.svelte";
+
+  let prototype1Photos = [
+    {
+      path: "images/prototype1/2-Karton.jpg",
+      alt: "Kartonnen Prototype 1",
+    },
+    {
+      path: "images/prototype1/3-Karton.jpg",
+      alt: "Kartonnen Prototype 2",
+    },
+    {
+      path: "images/prototype1/4-Karton.jpg",
+      alt: "Kartonnen Prototype 3",
+    },
+    {
+      path: "images/prototype1/5-Karton.jpg",
+      alt: "Kartonnen Prototype 4",
+    },
+  ];
+
+  /*let klimtrailerPhotos = [
+    {
+      path: "images/klimtrailer-slideshow/klimtrailer1.png",
+      alt: "klim1",
+    },
+    {
+      path: "images/klimtrailer-slideshow/klimtrailer2.png",
+      alt: "klim2",
+    },
+    {
+      path: "images/klimtrailer-slideshow/klimtrailer3.png",
+      alt: "klim3",
+    },
+    {
+      path: "images/klimtrailer-slideshow/klimtrailer4.jpeg",
+      alt: "klim4",
+    },
+  ];*/
+
+  let prototype2Photos = [
+    {
+      path: "images/prototype2/schaalmodel1.jpg",
+      alt: "3d Geprint Prototype 1",
+    },
+    {
+      path: "images/prototype2/schaalmodel2.jpg",
+      alt: "3d Geprint Prototype 2",
+    },
+    {
+      path: "images/prototype2/schaalmodel3.jpg",
+      alt: "3d Geprint Prototype 3",
+    }
+  ];
 </script>
 
 <svelte:head>
@@ -19,7 +72,9 @@
       <p>De persona’s hebben hier ook een belangrijke rol. Je gaat de bril opzetten van een persona en nadenken wat zou deze persoon juist willen, of waar let deze persoon juist op. Voorafgaand aan het prototypen moet er gestart worden met het invullen van een prototype report card. Hierbij ga je van te voren nadenken hoe je het prototype gaat ontwikkelen. Hierbij wordt er gestart met het bedenken van een naam voor het prototype. Vervolgens worden er drie kritische vragen gesteld, hiermee bepaal je de key metrics of success. Er zijn ook meerdere testmethodes bij één prototype. Zoals bijvoorbeeld een A/B test of een observatie. Het meest belangrijke bij de report card is eigenlijk welke aannames stellen we nu vast. Hierdoor hoeft daar geen rekening mee worden gehouden en is dit logischerwijs aanwezig. </p>
       <p>Het eerste prototype moet basic der basic worden. Een simpele vorm van magneetjes op een whiteboard die een klimwand voorstelt kan al voldoen als een basic prototype. Het eerste prototype is in een korte tijdsduur van één uur gemaakt  . Dit is een karton model geworden. Zie  3.1 Prototype</p>
       <p>Hierbij is er letterlijk een "houtje-touwtje" model gemaakt. Het bestaat uit basis van karton en een touw die het mechanisme weergeeft. Een vervolg prototype is een groter karton model. Hierbij is er een plaat van 2 meter hoog bij 1 meter breed gebruikt. Hierbij zijn simpel gaten in het karton gemaakt. Deze moeten handgrepen voorstellen. </p>
+      <SlideShow photos={prototype1Photos} id=1 />
       <p>Het prototype is ook in een 3d programma gemaakt. Hierbij kunnen makkelijk aanpassingen worden gedaan.  Er is ervoor gekozen om een maquette te maken. Dit is gedaan door gebruik te maken van een 3d printer. Onderdeel per onderdeel is uitgeprint en vervolgens is dit met behulp van een scharnier en lijm vastgezet. Met deze toepassing kan de maquette duidelijk weergeven hoe het product werkt. </p>
+      <SlideShow photos={prototype2Photos} id=2 maxwidth=300 />
       <p> Toch blijft een hand schets het beste als een “quick prototype”. Hiermee kun je aan een persoon je idee weergeven. Tijdens een gesprek van de persona’s met Mark (Fontys) is tevens ook het ontwerp laten zien. Hierbij heeft Mark gezegd of het niet makkelijker is dat de val mat meteen bij het product aanwezig is. Hieruit volgde een handschets in samenwerking met Mark. Dit was een derde evolutie van het ontwerp.</p>
       <p>We hebben dit ontwerp aan verschillende docenten van de sporthogeschool laten zien. Hierbij hebben we gepeild of het duidelijk is wat ons product doet en of het aan hun eisen zou voldoen. Uit deze momenten hebben we veel feedback gepakt die we uiteindelijk door verwerkt hebben in ons eindproduct.</p>
       <p>Ook hebben we ons prototype meegenomen naar de observatie van de basisschool gymles. We hebben het prototype aan de kinderen laten zien om te kijken of zij het er leuk uit vonden zien en of ze er interesse in hadden.</p>

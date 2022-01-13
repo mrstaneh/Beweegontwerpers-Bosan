@@ -1,30 +1,10 @@
 <script>
   import InhoudItem from "$lib/InhoudItem.svelte";
-  import SlideShow from "$lib/SlideShow.svelte";
   import Timeline from "$lib/TimelineSprint1.svelte";
   import TitleScreen from "$lib/TitleScreen.svelte";
   import { fly } from "svelte/transition";
 
   let currentY;
-
-  let klimtrailerPhotos = [
-    {
-      path: "images/klimtrailer-slideshow/klimtrailer1.png",
-      alt: "klim1",
-    },
-    {
-      path: "images/klimtrailer-slideshow/klimtrailer2.png",
-      alt: "klim2",
-    },
-    {
-      path: "images/klimtrailer-slideshow/klimtrailer3.png",
-      alt: "klim3",
-    },
-    {
-      path: "images/klimtrailer-slideshow/klimtrailer4.jpeg",
-      alt: "klim4",
-    },
-  ];
 
   function goTop() {
     try {
@@ -145,8 +125,6 @@
         tempus non non diam. Nam ac eros dui. Mauris dictum sapien finibus mi
         vulputate congue. Nam aliquet non felis in dictum.
       </p>
-
-      <SlideShow photos={klimtrailerPhotos} />
     </div>
     <div class="section inleiding" id="inleiding">
       <h1>Inleiding</h1>
