@@ -29,6 +29,7 @@
         <li on:click={() => {goto('/proces')}}><a href="proces">Proces</a></li>
         <li on:click={() => {goto('/brainstorms')}}><a href="brainstorms">Brainstorms</a></li>
         <li on:click={() => {goto('/usertesting')}}><a href="usertesting">Usertesting</a></li>
+        <li on:click={() => {goto('/personasuitleg')}}><a href="personasuitleg">Uitleg Persona's</a></li>
         <li on:click={() => {goto('/demodaylite')}}><a href="demodaylite">Demo Day Lite</a></li>
         <li on:click={() => {goto('/mixandmatch')}}><a href="mixandmatch">Mix and Match</a></li>
         <li on:click={() => {goto('/afronding')}}><a href="afronding">Afronding</a></li>
