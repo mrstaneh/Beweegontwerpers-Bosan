@@ -1,53 +1,66 @@
 <div class="timeline">
+  <div class="container Left">
+    <div class="content">
+      <h2>Opzet van het scrumbord</h2>
+      <p>
+        Voor onze scrumbord hebben we gekozen voor een <a
+          href="https://trello.com/b/fO3O8DWv/bosan-scrum">Trello</a
+        >.
+      </p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>Context analyse</h2>
+      <p>← Het verkennen van onze opdracht</p>
+    </div>
+  </div>
   <div class="container left">
     <div class="content">
-      <h2>Hallo wout</h2>
-      <p>Lorem ipsum..</p>
+      <h2>DESTEP-analyse</h2>
+      <p>
+        ← Met de DESTEP-analyse hebben we een analyse gemaakt op een zestal
+        factoren, namelijk: demografisch, economisch, sociaal-cultureel,
+        technologisch, ecologisch en politiek-juridisch.
+      </p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>Muurkrant</h2>
+      <p>
+        Om onze Destep-analyse duidelijk weer te kunnen geven hebben we deze in
+        een muurkrant gegoten
+      </p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>Minimal persona's</h2>
+      <p>
+        De eerste opzet van onze <a target="_blank" href="/personas"
+          >persona’s</a
+        >.
+      </p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>Moscow Methode</h2>
+      <p>
+        Doormiddel van de Moscow Methode hebben we onze eisen (requirements) opgesteld.
+      </p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2> Vraagstuk geformuleerd</h2>
+      <p>
+        TEKST
+      </p>
     </div>
   </div>
   <div class="spacer" />
-  <div class="container right">
-    <div class="content">
-      <h2>Dit</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>Is</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>Een</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>Test</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>Een</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>Test</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>Een</h2>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
 </div>
 
 <style>
