@@ -1,5 +1,5 @@
 <div class="timeline">
-  <div class="container Left">
+  <div class="container  right">
     <div class="content">
       <h2>Opzet van het scrumbord</h2>
       <p>
@@ -9,13 +9,13 @@
       </p>
     </div>
   </div>
-  <div class="container right">
+  <div class="container Left">
     <div class="content">
       <h2>Context analyse</h2>
       <p>← Het verkennen van onze opdracht</p>
     </div>
   </div>
-  <div class="container left">
+  <div class="container right">
     <div class="content">
       <h2>DESTEP-analyse</h2>
       <p>
@@ -25,16 +25,16 @@
       </p>
     </div>
   </div>
-  <div class="container right">
+  <div class="container Left">
     <div class="content">
       <h2>Muurkrant</h2>
       <p>
-        Om onze Destep-analyse duidelijk weer te kunnen geven hebben we deze in
-        een muurkrant gegoten
+        ← Om onze Destep-analyse duidelijk weer te kunnen geven hebben we deze
+        in een muurkrant gegoten
       </p>
     </div>
   </div>
-  <div class="container left">
+  <div class="container right">
     <div class="content">
       <h2>Minimal persona's</h2>
       <p>
@@ -44,20 +44,19 @@
       </p>
     </div>
   </div>
-  <div class="container right">
+  <div class="container Left">
     <div class="content">
       <h2>Moscow Methode</h2>
       <p>
-        Doormiddel van de Moscow Methode hebben we onze eisen (requirements) opgesteld.
+        ← Doormiddel van de Moscow Methode hebben we onze eisen (requirements)
+        opgesteld.
       </p>
     </div>
   </div>
-  <div class="container left">
+  <div class="container right">
     <div class="content">
-      <h2> Vraagstuk geformuleerd</h2>
-      <p>
-        TEKST
-      </p>
+      <h2>Vraagstuk geformuleerd</h2>
+      <p>← TEKST</p>
     </div>
   </div>
   <div class="spacer" />
