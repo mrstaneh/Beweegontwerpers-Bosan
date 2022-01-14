@@ -1,5 +1,5 @@
 <script>
-  import TimelineSprint1 from "$lib/TimelineSprint1.svelte";
+  import TimelineSprint4 from "$lib/TimelineSprint4.svelte";
   import Mural from "$lib/Mural.svelte";
 </script>
 
@@ -140,7 +140,7 @@
     </div>
   </div>
   <div class="right-bar">
-    <TimelineSprint1 />
+    <TimelineSprint4 />
   </div>
 </main>
 

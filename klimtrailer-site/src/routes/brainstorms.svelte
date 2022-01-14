@@ -1,6 +1,6 @@
 <script>
   import Mural from "$lib/Mural.svelte";
-  import TimelineSprint1 from "$lib/TimelineSprint1.svelte";
+  import TimelineSprint2 from "$lib/TimelineSprint2.svelte";
 </script>
 
 <svelte:head>
@@ -34,6 +34,6 @@
     </div>
   </div>
   <div class="right-bar">
-    <TimelineSprint1 />
+    <TimelineSprint2 />
   </div>
 </main>

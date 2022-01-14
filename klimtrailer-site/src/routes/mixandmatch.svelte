@@ -1,11 +1,10 @@
 <script>
-  import TimelineSprint1 from "$lib/TimelineSprint1.svelte";
+  import TimelineSprint5 from "$lib/TimelineSprint5.svelte";
 </script>
 
 <svelte:head>
   <title>Mix and Match</title>
 </svelte:head>
-
 <main>
   <div class="left-bar" />
   <div class="content">
@@ -59,7 +58,7 @@
     </div>
   </div>
   <div class="right-bar">
-    <TimelineSprint1 />
+    <TimelineSprint5 />
   </div>
 </main>
 

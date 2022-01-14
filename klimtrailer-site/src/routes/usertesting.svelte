@@ -1,5 +1,5 @@
 <script>
-  import TimelineSprint1 from "$lib/TimelineSprint1.svelte";
+  import TimelineSprint3 from "$lib/TimelineSprint3.svelte";
   import SlideShow from "$lib/SlideShow.svelte";
 
   let prototype1Photos = [
@@ -113,7 +113,7 @@
     </div>
   </div>
   <div class="right-bar">
-    <TimelineSprint1 />
+    <TimelineSprint3 />
   </div>
 </main>
 
