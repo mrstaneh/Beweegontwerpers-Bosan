@@ -15,7 +15,7 @@
     <img src="images/logo.png" alt="Logo" width="30px" />
   </a>
   <!-- svelte-ignore a11y-missing-attribute -->
-  <li on:click={onNavDropdownClick}><a>Sprints <i class="fa-solid fa-angle-down"></i></a></li>
+  <li on:click={onNavDropdownClick}><a>Inhoud <i class="fa-solid fa-angle-down"></i></a></li>
   <li><a href="gegevens">Gegevens</a></li>
   <li><a href="woordenlijst">Woordenlijst</a></li>
   <li><a href="bronvermelding">Bronvermelding</a></li>
@@ -26,13 +26,13 @@
     <div class="nav-dropdown-backdrop" on:click={onNavDropdownClick}></div>
     <div class="nav-dropdown-menu" on:click={onNavDropdownClick} style="{pagePath == '/' ? 'margin-top: 69px;' : 'margin-top: 5px;'}">
       <ul>
-        <li on:click={() => {goto('/sprint1')}}><a href="sprint1">Sprint 1: Proces</a></li>
-        <li on:click={() => {goto('/sprint2')}}><a href="sprint2">Sprint 2: Brainstorms</a></li>
-        <li on:click={() => {goto('/sprint3')}}><a href="sprint3">Sprint 3: Prototyping</a></li>
-        <li on:click={() => {goto('/sprint4')}}><a href="sprint4">Sprint 4: Usertesting</a></li>
-        <li on:click={() => {goto('/sprint5')}}><a href="sprint5">Sprint 5: Demo Day Lite</a></li>
-        <li on:click={() => {goto('/sprint6')}}><a href="sprint6">Sprint 6: Mix and Match</a></li>
-        <li on:click={() => {goto('/sprint7')}}><a href="sprint7">Sprint 7: Afronding</a></li>
+        <li on:click={() => {goto('/proces')}}><a href="proces">Proces</a></li>
+        <li on:click={() => {goto('/brainstorms')}}><a href="brainstorms">Brainstorms</a></li>
+        <li on:click={() => {goto('/prototyping')}}><a href="prototyping">Prototyping</a></li>
+        <li on:click={() => {goto('/usertesting')}}><a href="usertesting">Usertesting</a></li>
+        <li on:click={() => {goto('/demodaylite')}}><a href="demodaylite">Demo Day Lite</a></li>
+        <li on:click={() => {goto('/mixandmatch')}}><a href="mixandmatch">Mix and Match</a></li>
+        <li on:click={() => {goto('/afronding')}}><a href="afronding">Afronding</a></li>
       </ul>
     </div>
 {/if}
