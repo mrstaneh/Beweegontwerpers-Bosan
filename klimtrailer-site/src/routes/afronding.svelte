@@ -3,15 +3,16 @@
 </script>
 
 <svelte:head>
-  <title>Sprint 6</title>
+  <title>Afronding</title>
 </svelte:head>
 
 <main>
   <div class="left-bar" />
   <div class="content">
-    <h1>Sprint 7: Afronding</h1>
-    <div class="section afronding" id="afronding">
-      <h1>Afronding</h1>
+    <h1>Afronding</h1>
+    <div class="section advies" id="advies">
+      <h1>Advies</h1>
+      wachten op kopjes
     </div>
   </div>
   <div class="right-bar">

@@ -4,13 +4,13 @@
 </script>
 
 <svelte:head>
-  <title>Sprint 1</title>
+  <title>Proces</title>
 </svelte:head>
 
 <main>
   <div class="left-bar" />
   <div class="content">
-    <h1>Sprint 1: Proces</h1>
+    <h1>Proces</h1>
     <div class="section destep/muurkrant" id="destep">
       <h1>Destep/Muurkrant</h1>
       <p>

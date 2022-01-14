@@ -4,13 +4,13 @@
 </script>
 
 <svelte:head>
-  <title>Sprint 2</title>
+  <title>Brainstorms</title>
 </svelte:head>
 
 <main>
   <div class="left-bar" />
   <div class="content">
-    <h1>Sprint 2: Brainstorms</h1>
+    <h1>Brainstorms</h1>
     <div class="section brainstorm" id="brainstorm">
       <h1>Brainstorm</h1>
       <Mural title="Brainstorm" src="https://app.mural.co/embed/2551f8da-bf76-45d8-874a-3ae60cb5103a"/>

@@ -3,13 +3,13 @@
 </script>
 
 <svelte:head>
-  <title>Sprint 6</title>
+  <title>Mix and Match</title>
 </svelte:head>
 
 <main>
   <div class="left-bar" />
   <div class="content">
-    <h1>Sprint 6: Mix and Match Week</h1>
+    <h1>Mix and Match</h1>
     <div class="section mixandmatch" id="mixandmatch">
       <h1>Mix and Match Week</h1>
 
@@ -62,3 +62,9 @@
     <TimelineSprint1 />
   </div>
 </main>
+
+<style>
+  p {
+    margin-top: 0;
+  }
+</style>

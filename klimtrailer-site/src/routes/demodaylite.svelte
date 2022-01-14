@@ -4,13 +4,13 @@
 </script>
 
 <svelte:head>
-  <title>Sprint 5</title>
+  <title>Demo Day Lite</title>
 </svelte:head>
 
 <main>
   <div class="left-bar" />
   <div class="content">
-    <h1>Sprint 5: Demo Day Lite</h1>
+    <h1>Demo Day Lite</h1>
     <div class="section demodaylite" id="demodaylite">
       <h1>Demo Day Lite</h1>
 
