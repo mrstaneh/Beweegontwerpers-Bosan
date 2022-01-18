@@ -96,7 +96,7 @@
     </div>
     <div class="section moscow" id="moscow">
       <h1>Moscow Methode</h1>
-      <p>Tijdens de Moscow methode wordt er gekeken naar welke onderdelen een product belangrijk zijn. Met deze methode krijg je een goede kijk op het te ontwerpen product. Dit is een wijze van prioriteiten stellen. Op deze manier zul je minder snel de overbodige punten van een product gaan uitwerken. Het is een afkorting, waarvan de letters staan voor: </p>
+      <p>Tijdens het gebruiken van de Moscow methode wordt er gekeken naar welke onderdelen een product belangrijk zijn. Met deze methode krijg je een goede kijk op het te ontwerpen product. Dit is een wijze van prioriteiten stellen. Op deze manier zul je minder snel de overbodige punten van een product gaan uitwerken. Het is een afkorting, waarvan de letters staan voor: </p>
       <ul>
         <li>M - Must Haves: deze eisen (requirements) moeten in het eindresultaat terug komen, zonder deze eisen is het product onbruikbaar.</li>
         <li>S - Should Haves: deze eisen zijn zeer gewenst, maar zonder is het product wel bruikbaar.</li>
