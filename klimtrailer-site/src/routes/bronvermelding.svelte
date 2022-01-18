@@ -66,7 +66,10 @@
       text: '[16] Visser, K., Tiessen-Raaphorst, A., Van Bakel, M., & De Vries, M. (2016, mei). Sport Toekomst Verkenning. sportenbewegenincijfers. Geraadpleegd op 29 september 2021, van ',
       url: 'https://www.sportenbewegenincijfers.nl/sites/default/files/2017-06/20160519%20Sport%20Toekomstverkenning%20drijvende%20krachten%20sport%20en%20bewegen.pdf '
     },
-    
+    {
+      text: '[17] Ensberg-Kleijkers, D. (2019, mei). Jantje Beton. Geraadpleegd op 29 september 2021, van ',
+      url: 'https://jantjebeton.nl/uploads/downloads/onderzoek-buitenspelen-2019-5cffc1bd70afd.pdf'
+    },
   ]
 
   onMount(() => {

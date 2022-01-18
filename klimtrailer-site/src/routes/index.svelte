@@ -101,7 +101,7 @@
         “2 uur gymles verplicht per week vanaf 2023 voor alle basisscholen met
         een bevoegde leerkracht”
       </p>
-      <p style="display: inline;">(Ministerie van Volksgezondheid, 2021)</p>
+      <p style="display: inline;">(Ministerie van Volksgezondheid, 2021) [<a target="_blank" href="bronvermelding/#6">6</a>]</p>
 
       <p>
         Scholen die meedoen kunnen een beweegvignet krijgen door kinderen meer
@@ -124,10 +124,7 @@
         Nederlandse kinderen speelden in 2019 gemiddeld 8,4 uur per week buiten.
         Dat gemiddelde wordt vooral bepaald door de 28 procent die nog méér
         buiten speelt. Toch zit bijna 60 procent onder dit gemiddelde en speelt
-        zelfs 15 procent nooit buiten <a
-          href="https://jantjebeton.nl/uploads/downloads/onderzoek-buitenspelen-2019-5cffc1bd70afd.pdf"
-          target="_blank">(blijkt uit onderzoek van Jantje Beton)</a
-        >.
+        zelfs 15 procent nooit buiten. [<a target="_blank" href="bronvermelding/#17">17</a>] 
       </p>
     </div>
     <div class="section opdrachtgever" id="opdrachtgever">
