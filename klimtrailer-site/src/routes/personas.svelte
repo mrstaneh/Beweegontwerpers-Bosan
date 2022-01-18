@@ -112,7 +112,7 @@
             <i class="fa-solid fa-xmark" on:click={hideModal}></i>
         </div>
         <div class="modal-content">
-            <h1 class="persona-name" >{personas[currentId].name}</h1><a href="{personas[currentId].link}" target="_blank">Link naar persona</a>
+            <h1 class="persona-name" >{personas[currentId].name}</h1><a href="{personas[currentId].link}" target="_blank">Link naar Canva</a>
             <h4 class="persona-title">{personas[currentId].title} ({personas[currentId].age} jaar oud)</h4>
             {#if currentId == 0}
                 <p style="color: #F06119; display: inline;">Beschrijving</p>

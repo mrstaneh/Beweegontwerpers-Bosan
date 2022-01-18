@@ -15,11 +15,7 @@
       <h1>Demo Day Lite</h1>
 
       <p>
-        De Demo Day Lite is mede door de corona maatregelen anders vormgegeven.
-        Deze dag staat in het teken van het product presenteren voor de 1ste
-        keer. Normaal gesproken worden de belanghebbende stakeholders gevraagd
-        om naar school te komen om naar onze pitch te luisteren over het
-        product.
+De Demo Day Lite is mede door de corona maatregelen anders vormgegeven. Deze dag staat in het teken van het product presenteren voor de 1ste keer. Normaal gesproken worden de belanghebbende stakeholders gevraagd om naar school te komen om naar onze pitch te luisteren over het product.
       </p>
 
       <p style="color: #F06119; display: inline;">De vorm</p>
@@ -82,13 +78,11 @@
         de volgende groep.
       </p>
       <p>
-        Van te voren was er afgesproken dat één persoon het gesprek ging voeren,
-        dit was helaas te letterlijk genomen en hierdoor was er niemand die in
-        sprong om te helpen. Hierbij kwam dat er feedback gegeven werd waar
-        eigenlijk niks tegen in te brengen viel, alles wat gezegd werd, werd
-        gelijk onderuit gehaald. Dit hielp niet en hier zijn wij uiteindelijk
-        ook niet meer uitgekomen.
+        Van tevoren was er afgesproken dat één persoon het gesprek ging voeren, dit was helaas te letterlijk genomen en hierdoor was er niemand die in sprong om te helpen. Hierbij kwam dat er feedback gegeven werd waar eigenlijk niks tegen in te brengen viel, alles wat gezegd werd, werd gelijk onderuit gehaald. Dit hielp niet en hier zijn wij uiteindelijk ook niet meer uitgekomen. 
       </p>
+
+      <p style="color: #F06119; display: inline;">Verschillende wanden</p>
+      <p>Tijdens de Demo Day Lite hebben wij feedback gekregen van onze stakeholders. Hierbij is naar voren gekomen dat wij meer moesten doen dan alleen boulderen. Na verschillende creatieve brainstormsessies is er een klimrek en een boulder muur uitgekomen. Tevens is er ook in het midden op de Boulder Mini een klimrek toegevoegd. Op deze manier kunnen kinderen omhoog en omlaag klimmen in diverse vormen. Deze wanden kunnen met pick & place worden geplaatst en ook vervangen worden. Later is er nog een muur bijgekomen, de trampoline muur. Hierbij is de boulder mini customizeable waarin ieder apart zelf kan aangegeven welke wand de voorkeur heeft. </p>
 
       <p style="color: #F06119; display: inline;">Conclusie</p>
       <p>
@@ -105,12 +99,13 @@
         als hierbij een korte uitleg was gegeven.
       </p>
     </div>
+
     <div class="section businessmodelcanvas" id="businessmodelcanvas">
       <h1 style="margin-right: 6px; margin-bottom: 0px;">Business Model Canvas</h1>
       <p style="color: #F06119; display: inline;">Hoe werkt het BMC?</p>
       <p>Het doel van een Business model canvas is inzicht krijgen in wat er allemaal komt kijken bij een bedrijfsvoering. Het is verstandig om hier van tevoren over na te denken, dit is de ruggengraat van het bedrijf en bepaald of het levensvatbaar is. Dit is een model wat regelmatig geüpdatet moet worden, vanwege een constant veranderende markt. </p>
       <p>Alle kanalen zijn belangrijk in dit model, als er één wordt overslagen kan dit fatale gevolgen hebben voor een bedrijf. 
-        De key resources en key partners zijn hierbij van groot belang, door dit van tevoren goed in de gaten  kunnen mogelijke tegenslagen worden voorkomen . Elk startend maar ook elk bestaand bedrijf zou dus veel waarde moeten hechten aan het BMC. 
+        De key resources en key partners zijn hierbij van groot belang, door dit van tevoren goed in de gaten kunnen mogelijke tegenslagen worden voorkomen. Elk startend maar ook elk bestaand bedrijf zou dus veel waarde moeten hechten aan het BMC.          
         </p>
 
       <p style="color: #F06119; display: inline;">Hoe is een BMC opgebouwd?</p>
@@ -126,18 +121,22 @@
         <li>Partners</li>
         <li>Kostenstructuur</li>
       </ol>
-      <p>Bij dit model moet er een juiste volgorde worden gehanteerd.</p>
-      <p>Onderin het BMC model zijn de belangrijkste pijlers te zien, dit zijn de inkomensstromen en de kostenstructuur. Deze bepalen uiteindelijk de mogelijke omzet voor het bedrijf en geeft dus antwoord op de vraag of het bedrijf levensvatbaar zal zijn.</p>
+      <p>Onder in het BMC model zijn de belangrijkste pijlers te zien, dit zijn de inkomensstromen en de kostenstructuur. Deze bepalen uiteindelijk de mogelijke omzet voor het bedrijf en geeft dus antwoord op de vraag of het bedrijf levensvatbaar zal zijn.</p>
 
       <p style="color: #F06119; display: inline;">Toelichting van het BMC</p>
-      <p>Allereerst is er door iedereen apart nagedacht over het klantenprofiel en de value map, vervolgens is dit besproken en samengevoegd tot één geheel. Hier zijn verschillende pijnpunten bij naar voren gekomen, een belangrijke is de veiligheid en de verkoopprijs in aanschaf. Een bijpassende pijnverzachter hiervoor is een goede valmat en een valinstructie. </p>
-      <p>Bij de kostenstructuur is gekeken naar de materiaalkosten, marketingkosten, variabele kosten en de vaste kosten. Ook zijn de afschrijvingen meegenomen en is er nagedacht over eventueel gebruik van massaproductie. Dit zijn de belangrijkste punten die naar voren kwamen uit het BMC model.</p>
+      <p>Allereerst is er door iedereen apart nagedacht over het klantenprofiel en de value map, vervolgens is dit besproken en samengevoegd tot één geheel. Hier zijn verschillende pijnpunten bij naar voren gekomen, een belangrijke is de veiligheid en de verkoopprijs in aanschaf. Een bijpassende pijnverzachter hiervoor is een goede valmat en een valinstructie.</p>
+      <p>Bij de kostenstructuur is gekeken naar de materiaalkosten, marketingkosten, variabele kosten en de vaste kosten. Ook zijn de afschrijvingen meegenomen en is er nagedacht over eventueel gebruik van massaproductie. Dit zijn de belangrijkste punten die naar voren kwamen uit het BMC.</p>
 
       <p style="color: #F06119; display: inline;">Conclusie</p>
-      <p>De veranderende markt speelt voor Bosan vooral bij de materiaalkosten. Deze kosten zullen in de toekomst toenemen, dit zal invloed hebben op de markt maar ook op het BMC. Deze prijs zal constant veranderen wat resulteert in een constant veranderend BMC model. </p>
+      <p>De veranderende markt speelt voor Bosan vooral bij de materiaalkosten. Deze kosten zullen in de toekomst toenemen, dit zal invloed hebben op de markt maar ook op het BMC. 
+        [<a target="_blank" href="bronvermelding/#12">12</a>] 
+        Deze prijs zal constant veranderen wat resulteert in een constant veranderend BMC.</p>
 
       <Mural title="BMC" src="https://app.mural.co/embed/b43356ae-b9de-4ecd-9a3a-50f00b649976"/>
     </div>
+    <a style="margin-bottom: 20px;" href="mixandmatch" class="button"
+    >Ga naar de volgende pagina</a
+  >
   </div>
   <div class="right-bar">
     <TimelineSprint4 />

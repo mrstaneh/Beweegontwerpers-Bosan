@@ -47,6 +47,9 @@
       <p>Vanaf sprint 2 hebben we voor iedere sprint deze analyse ingevuld. Hierdoor hebben wij ons doel per sprint beter voor ogen en hebben we al nagedacht over de stappen die we moeten doorlopen om ons doel te halen. Hieronder staat de mural waar al onze CIMOs van het project staan.</p>
       <Mural title="CIMOs" src="https://app.mural.co/embed/b00af80c-18cd-4182-8a31-160205b9a1eb"/>
     </div>
+    <a style="margin-bottom: 20px;" href="usertesting" class="button"
+    >Ga naar de volgende pagina</a
+  >
   </div>
   <div class="right-bar">
     <TimelineSprint2 />
