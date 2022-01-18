@@ -12,7 +12,7 @@
   <div class="content">
     <h1>Proces</h1>
     <div class="section destep/muurkrant" id="destep">
-      <h1>Destep/Muurkrant</h1>
+      <h1>DESTEP-Analyse / Muurkrant</h1>
       <p>
         DESTEP is een afkorting en staat voor demografische, economische,
         sociaal/culturele, technologische, ecologische en politiek/juridische
@@ -26,7 +26,7 @@
       <p>
         Uit deze muurkrant hebben we een aantal keuzes gemaakt die tot ons
         eerste vraagstuk leiden: “Hoe kunnen we er voor zorgen dat alle <b
-          >basisschool kinderen</b
+          >basisschoolkinderen</b
         >
         minimaal <b>2 uur</b> per week <b>gymles</b> krijgen doormiddel van een
         <b>nieuw toestel</b>
@@ -37,6 +37,7 @@
         voor basisschool leerlingen? Waarom 2 uur per dag? En waarom moet het
         buiten toepasbaar zijn?
       </p>
+      <p style="color: #F06119; display: inline;">Onderzoeksresultaten</p>
       <p>
         Als eerst zullen we kijken waarom er 2 uur per dag gym plaatst moet
         vinden. “Scholen in het primair onderwijs worden verplicht om minimaal
@@ -95,7 +96,7 @@
     </div>
     <div class="section moscow" id="moscow">
       <h1>Moscow Methode</h1>
-      <p>Tijdens de Moscow methode wordt er gekeken naar welke onderdelen een product belangrijk zijn. Met deze methode krijg je een goede kijk op het te ontwerpen product. Dit is een wijze van prioriteiten stellen. Op deze manier zul je minder snel de overbodige punten van een product gaan uitwerken. Het is een afkorting, waarvan de letters staan voor: </p>
+      <p>Tijdens het gebruiken van de Moscow methode wordt er gekeken naar welke onderdelen een product belangrijk zijn. Met deze methode krijg je een goede kijk op het te ontwerpen product. Dit is een wijze van prioriteiten stellen. Op deze manier zul je minder snel de overbodige punten van een product gaan uitwerken. Het is een afkorting, waarvan de letters staan voor: </p>
       <ul>
         <li>M - Must Haves: deze eisen (requirements) moeten in het eindresultaat terug komen, zonder deze eisen is het product onbruikbaar.</li>
         <li>S - Should Haves: deze eisen zijn zeer gewenst, maar zonder is het product wel bruikbaar.</li>
@@ -105,11 +106,18 @@
       <p>De MOSCOW methode is uitgewerkt in een Bijlage. Zie hieronder de bijlage. </p>
       
     </div>
-    <a style="margin-bottom: 20px;" href="sprint2" class="button"
-      >Ga naar de tweede sprint</a
+    <a style="margin-bottom: 20px;" href="brainstorms" class="button"
+      >Ga naar de volgende pagina</a
     >
   </div>
   <div class="right-bar">
     <TimelineSprint1 />
   </div>
 </main>
+
+
+<style>
+  p {
+    margin-top: 0;
+  }
+</style>

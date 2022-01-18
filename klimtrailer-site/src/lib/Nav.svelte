@@ -11,9 +11,10 @@
 </script>
 
 <ul class="nav {pagePath == '/' ? 'homepage' : 'normalpage'}">
-  <a class="navbar-brand" href="/">
-    <img src="images/logo.png" alt="Logo" width="30px" />
-  </a>
+  <div class="navbar-logo">
+    <img src="images/logo.png" alt="Logo" width="40px" height="40px" on:click={() => {goto('/')}}/>
+    <a href="/">Portfolio</a>
+  </div>
   <!-- svelte-ignore a11y-missing-attribute -->
   <li on:click={onNavDropdownClick}><a>Inhoud <i class="fa-solid fa-angle-down"></i></a></li>
   <li><a href="gegevens">Gegevens</a></li>
@@ -44,6 +45,26 @@
     position: absolute;
     top: 0;
     left: 0;
+  }
+
+  .navbar-logo{
+    display: inline;
+  }
+
+  .navbar-logo img{
+    margin-left: 11px;
+    padding-top: 11px;
+  }
+
+  .navbar-logo img:hover{
+    cursor: pointer;
+  }
+
+  .navbar-logo a{
+    position: relative;
+    left: 10px;
+    top: -6px;
+    font-size: 36px;
   }
 
   .nav-dropdown-backdrop{
