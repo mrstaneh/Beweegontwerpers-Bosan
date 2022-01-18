@@ -3,7 +3,7 @@
     <div class="content">
       <h2>Opzet van het scrumbord</h2>
       <p>
-        Voor onze scrumbord hebben we gekozen voor een <a
+        Voor onze scrumbord hebben we gekozen voor een <a target="_blank"
           href="https://trello.com/b/fO3O8DWv/bosan-scrum">Trello</a
         >.
       </p>
@@ -56,7 +56,7 @@
   <div class="container right">
     <div class="content">
       <h2>Vraagstuk geformuleerd</h2>
-      <p>← TEKST</p>
+      <p>← Ons vraagstuk dat is geformuleerd doormiddel van ons onderzoek.</p>
     </div>
   </div>
   <div class="spacer" />

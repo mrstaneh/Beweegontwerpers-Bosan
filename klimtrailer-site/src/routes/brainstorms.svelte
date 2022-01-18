@@ -11,6 +11,13 @@
   <div class="left-bar" />
   <div class="content">
     <h1>Brainstorms</h1>
+    <div class="section cimo" id="cimo">
+      <h1>CIMO Analyses</h1>
+      <p>Een CIMO analyse bestaat uit 4 delen zoals afgebeeld in de foto hier onder.</p>
+      <img style="width: 60%;" src="/images/CIMO.jpg" alt="CIMO"/>
+      <p>Vanaf sprint 2 hebben we voor iedere sprint deze analyse ingevuld. Hierdoor hebben wij ons doel per sprint beter voor ogen en hebben we al nagedacht over de stappen die we moeten doorlopen om ons doel te halen. Hieronder staat de mural waar al onze CIMOs van het project staan.</p>
+      <Mural title="CIMOs" src="https://app.mural.co/embed/b00af80c-18cd-4182-8a31-160205b9a1eb"/>
+    </div>
     <div class="section brainstorm" id="brainstorm">
       <h1>Brainstorm</h1>
       <Mural title="Brainstorm" src="https://app.mural.co/embed/2551f8da-bf76-45d8-874a-3ae60cb5103a"/>
@@ -24,13 +31,6 @@
         Je gaat dus eigenlijk breed kijken naar een oplossing richting voor een probleem. 
         </p>
         <Mural title="Frames" src="https://app.mural.co/embed/27e91e81-af67-4650-ae4c-dc59a218d101"/>
-    </div>
-    <div class="section cimo" id="cimo">
-      <h1>CIMO Analyses</h1>
-      <p>Een CIMO analyse bestaat uit 4 delen zoals afgebeeld in de foto hier onder.</p>
-      <img style="width: 60%;" src="/images/CIMO.jpg" alt="CIMO"/>
-      <p>Vanaf sprint 2 hebben we voor iedere sprint deze analyse ingevuld. Hierdoor hebben wij ons doel per sprint beter voor ogen en hebben we al nagedacht over de stappen die we moeten doorlopen om ons doel te halen. Hieronder staat de mural waar al onze CIMOs van het project staan.</p>
-      <Mural title="CIMOs" src="https://app.mural.co/embed/b00af80c-18cd-4182-8a31-160205b9a1eb"/>
     </div>
   </div>
   <div class="right-bar">
