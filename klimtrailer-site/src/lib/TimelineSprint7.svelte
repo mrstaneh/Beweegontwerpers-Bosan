@@ -1,83 +1,82 @@
 <div class="timeline">
-  <div class="spacer" style="height: 50px;" />
+  <div class="spacer" />
   <div class="container left">
     <div class="content">
-      <h2>Ontstaan idee</h2>
-      <p>Het ontstaan van de klim wand tijdens meeting met Bosan.</p>
+      <h2>Start persona's</h2>
+      <p>Het begin van onze persona's.</p>
     </div>
   </div>
-  <div class="spacer" />
   <div class="container right">
     <div class="content">
-      <h2>Prototyping les</h2>
-      <p>← Binnen deze les is ons eerste (kartonnen) prototype ontstaan.</p>
+      <h2>Een nieuw gymtoestel</h2>
+      <p>Casper, Rafaël en Nicky.</p>
     </div>
   </div>
-  <div class="spacer" />
   <div class="container left">
     <div class="content">
-      <h2>3D prototype</h2>
-      <p>Het prototype verder uitwerken in een 3D model en uitprinten.</p>
+      <h2>Een verplaatsbaar toestel</h2>
+      <p>Luca.</p>
     </div>
   </div>
-  <div class="spacer" />
   <div class="container right">
     <div class="content">
-      <h2>Verplaatsbare Bolderwand</h2>
-      <p>
-        Om het product makkelijker in te zetten binnen meerdere scholen en om zo
-        de kosten te drukken hebben we gekozen voor een verplaatsbare versie.
-      </p>
+      <h2>Creatief te gebruiken</h2>
+      <p>Joris.</p>
     </div>
   </div>
-  <div class="spacer" />
   <div class="container left">
     <div class="content">
-      <h2>Test dag op Fontys sporthogeschool</h2>
-      <p>
-        Om ons product hebben we een aantal ALO en Sportkunde docenten gesproken
-        over ons idee.
-      </p>
+      <h2>Aantal mensen tegelijk op het toestel</h2>
+      <p>Mariec en Marc.</p>
     </div>
   </div>
-  <div class="spacer" />
   <div class="container right">
     <div class="content">
-      <h2>Test met Marc Rompa</h2>
-      <p>
-        Om ons prototype bij een echte klim specialist te kunnen testen zijn we
-        in gesprek gegaan met Marc Rompa.
-      </p>
+      <h2>Verschillende boulder niveaus mogelijk</h2>
+      <p>Luca, Mariec, Casper, Rafaël en Nicky.</p>
     </div>
   </div>
-  <div class="spacer" />
   <div class="container left">
     <div class="content">
-      <h2>Iteratie op het 3D model</h2>
-      <p>
-        Vanuit een onderzoek was gebleken dat de matten dikker zouden moeten
-        worden.
-      </p>
+      <h2>Verlichting in de grepen</h2>
+      <p>Amy.</p>
     </div>
   </div>
-  <div class="spacer" />
   <div class="container right">
     <div class="content">
-      <h2>Bezoek aan basisschool de kinderboom</h2>
-      <p>
-        Tijdens dit bezoek hebben we de kans gekregen om met een aantal
-        basisschool leerlingen het prototype te testen.
+      <h2>Handleiding inbegrepen</h2>
+      <p>Rafaël, Joris, Amy en Nicky.
       </p>
     </div>
   </div>
-  <div class="spacer" />
   <div class="container left">
+    <div class="content">
+      <h2>Simpel en veilig te gebruiken</h2>
+      <p>Amy.</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>Worden er één of meerdere leerlijnen geraakt</h2>
+      <p>Marc en Nicky.</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>Niet alleen willen klimmen ook ander opties</h2>
+      <p>Amy.</p>
+    </div>
+  </div>
+  <div class="container right">
     <div class="content">
       <h2>Verschillende wanden</h2>
-      <p>
-        Om er voor te zorgen dat het product niet saai zal worden voor de
-        kinderen zijn er verschillende wanden bedacht doormiddel van een exploratie.
-      </p>
+      <p>Luca, Mariec, Joris en Marc.</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>Beloning</h2>
+      <p>Luca en Rafaël.</p>
     </div>
   </div>
 </div>
@@ -88,7 +87,7 @@
   }
 
   .spacer {
-    height: 400px;
+    height: 100px;
   }
 
   /* The actual timeline (the vertical ruler) */

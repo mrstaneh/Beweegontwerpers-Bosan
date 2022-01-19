@@ -1,6 +1,4 @@
 <script>
-    import InhoudItem from "$lib/InhoudItem.svelte";
-    import TimelineSprint1 from "$lib/TimelineSprint1.svelte";
 
     let personas = [
         {

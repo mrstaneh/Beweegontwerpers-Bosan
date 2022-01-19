@@ -1,5 +1,5 @@
 <script>
-    import TimelineSprint1 from "$lib/TimelineSprint1.svelte";
+    import TimelineSprint7 from "$lib/TimelineSprint7.svelte";
   </script>
   
   <svelte:head>
@@ -50,7 +50,7 @@
     >
     </div>
     <div class="right-bar">
-      <TimelineSprint1 />
+      <TimelineSprint7 />
     </div>
   </main>
   
