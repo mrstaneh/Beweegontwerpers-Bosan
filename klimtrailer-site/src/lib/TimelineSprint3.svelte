@@ -1,21 +1,23 @@
 <div class="timeline">
+  <div class="spacer" style="height: 50px;"></div>
     <div class="container left">
       <div class="content">
-        <h2>Hallo wout</h2>
-        <p>Lorem ipsum..</p>
+        <h2>Ontstaan idee</h2>
+        <p>Het ontstaan van de klim wand.</p>
       </div>
     </div>
-    <div class="spacer" />
+    <div class="spacer" style="height: 200px;"></div>
     <div class="container right">
       <div class="content">
-        <h2>Dit</h2>
-        <p>Lorem ipsum..</p>
+        <h2>Prototyping les</h2>
+        <p>← Binnen deze les is ons eerste (kartonnen) prototype ontstaan.</p>
       </div>
     </div>
+    <div class="spacer" style="height: 650px;"></div>
     <div class="container left">
       <div class="content">
-        <h2>Is</h2>
-        <p>Lorem ipsum..</p>
+        <h2>3D prototype</h2>
+        <p>← Het prototype verder uitwerken in een 3D model en uitprinten.</p>
       </div>
     </div>
     <div class="container right">
