@@ -120,6 +120,10 @@
       word: 'Waardepropositie',
       description: "Een waardepropositie is een beschrijving van een product of dienst uitgedrukt in de meest waardevolle en onderscheidende elementen in de ogen van een klant."
     },
+    {
+      word: 'COCD Box',
+      description: "Een COCD Box is een selectiemethode om het grote aantal opties uit een divergentie terug te brengen naar een aantal dat je kunt overzien."
+    },
   ]
 
   woordenlijst.sort((a, b) => a.word.localeCompare(b.word));
