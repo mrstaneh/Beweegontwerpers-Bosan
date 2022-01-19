@@ -11,6 +11,28 @@
   <div class="left-bar" />
   <div class="content">
     <h1>Proces</h1>
+    <div class="section context-analyse" id="context">
+      <h1>Contextanalyse</h1>
+      <p>
+        De contextanalyse is een belangrijke eerste stap voor een goed doorgrond
+        onderzoek. De analyse geeft een beeld van de omgeving waarin de
+        organisatie zich bevindt.
+      </p>
+      <p style="color: #F06119; display: inline;">Soorten analyses</p>
+      <p>
+        De contextanalyse is weer op te delen in drie verschillende analyses. Zo
+        is er de interne analyse, een externe en een stakeholderanalyse. Alle
+        drie zorgen voor elk hun eigen toegevoegde waarde. Uiteindelijk wordt de
+        informatie van deze drie onderdelen samengevoegd, bij elkaar geven ze
+        voldoende informatie die nodig is om een compleet beeld te geven van de
+        omgeving.
+      </p>
+      <p>
+        Deze informatie wordt ingezet om het vraagstuk te definiëren en te
+        kwantificeren. Vervolgens zullen hieruit succesfactoren te definiëren
+        zijn.
+      </p>
+    </div>
     <div class="section destep/muurkrant" id="destep">
       <h1>DESTEP-Analyse / Muurkrant</h1>
       <p>
@@ -20,9 +42,13 @@
       </p>
       <p>
         Binnen deze sprint zijn we het probleem uiteen gaan zetten doormiddel
-        van een DESTEP, die we later op een muurkrant (zie hieronder) gepresenteerd hebben aan onze stakeholder.
+        van een DESTEP, die we later op een muurkrant (zie hieronder)
+        gepresenteerd hebben aan onze stakeholder.
       </p>
-      <Mural title="Muurkrant" src="https://app.mural.co/embed/80134860-96ce-411d-99e3-084e2abe5c9e"/>
+      <Mural
+        title="Muurkrant"
+        src="https://app.mural.co/embed/80134860-96ce-411d-99e3-084e2abe5c9e"
+      />
       <p>
         Uit deze muurkrant hebben we een aantal keuzes gemaakt die tot ons
         eerste vraagstuk leiden: “Hoe kunnen we er voor zorgen dat alle <b
@@ -96,15 +122,36 @@
     </div>
     <div class="section moscow" id="moscow">
       <h1>Moscow Methode</h1>
-      <p>Tijdens het gebruiken van de Moscow methode wordt er gekeken naar welke onderdelen een product belangrijk zijn. Met deze methode krijg je een goede kijk op het te ontwerpen product. Dit is een wijze van prioriteiten stellen. Op deze manier zul je minder snel de overbodige punten van een product gaan uitwerken. Het is een afkorting, waarvan de letters staan voor: </p>
+      <p>
+        Tijdens het gebruiken van de Moscow methode wordt er gekeken naar welke
+        onderdelen een product belangrijk zijn. Met deze methode krijg je een
+        goede kijk op het te ontwerpen product. Dit is een wijze van
+        prioriteiten stellen. Op deze manier zul je minder snel de overbodige
+        punten van een product gaan uitwerken. Het is een afkorting, waarvan de
+        letters staan voor:
+      </p>
       <ul>
-        <li>M - Must Haves: deze eisen (requirements) moeten in het eindresultaat terug komen, zonder deze eisen is het product onbruikbaar.</li>
-        <li>S - Should Haves: deze eisen zijn zeer gewenst, maar zonder is het product wel bruikbaar.</li>
-        <li>C - Could Haves: deze eisen zullen alleen aan bod komen als er tijd genoeg is.</li>
-        <li>W - Won't Haves: : deze eisen zullen in dit project niet aan bod komen maar kunnen in toekomst wel interessant zijn.</li>
+        <li>
+          M - Must Haves: deze eisen (requirements) moeten in het eindresultaat
+          terug komen, zonder deze eisen is het product onbruikbaar.
+        </li>
+        <li>
+          S - Should Haves: deze eisen zijn zeer gewenst, maar zonder is het
+          product wel bruikbaar.
+        </li>
+        <li>
+          C - Could Haves: deze eisen zullen alleen aan bod komen als er tijd
+          genoeg is.
+        </li>
+        <li>
+          W - Won't Haves: : deze eisen zullen in dit project niet aan bod komen
+          maar kunnen in toekomst wel interessant zijn.
+        </li>
       </ul>
-      <p>De MOSCOW methode is uitgewerkt in een Bijlage. Zie hieronder de bijlage. </p>
-      
+      <p>
+        De MOSCOW methode is uitgewerkt in een Bijlage. Zie hieronder de
+        bijlage.
+      </p>
     </div>
     <a style="margin-bottom: 20px;" href="brainstorms" class="button"
       >Ga naar de volgende pagina</a
@@ -114,7 +161,6 @@
     <TimelineSprint1 />
   </div>
 </main>
-
 
 <style>
   p {

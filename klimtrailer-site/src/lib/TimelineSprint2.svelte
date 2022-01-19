@@ -28,14 +28,14 @@
       </p>
     </div>
   </div>
-  <div class="spacer" />
+  <div class="spacer" style="height: 300px;"/>
   <div class="container right">
     <div class="content">
       <h2>Empathy map</h2>
       <p><a href="https://app.mural.co/t/beweegontwerper5597/m/beweegontwerper5597/1634542681046/b35741fd117129d7b49ca45462004a8abcfa8093?sender=uda85e330004642c3ab2b4218" target="_blank">link</a></p>
     </div>
   </div>
-  <div class="spacer" />
+  <div class="spacer" style="height: 800px;" />
   <div class="container left">
     <div class="content">
       <h2>Frames</h2>
