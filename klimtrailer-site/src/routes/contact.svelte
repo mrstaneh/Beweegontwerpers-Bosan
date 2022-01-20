@@ -36,7 +36,7 @@
 </script>
 
 <svelte:head>
-  <title>Gegevens</title>
+  <title>Contact</title>
 </svelte:head>
 
 <img src="images/groepsfoto.jpg" alt="Groeps Foto" width="100%" />
@@ -48,8 +48,8 @@
       <h1>Gegevens</h1>
 
       <div class="gegevens-container">
+        <p>Studenten</p>
         <div class="gegevens-column">
-          <p>Studenten</p>
           {#each students as student}
             <div class="gegevens-item">
               <p><b>Naam:</b> {student.name}</p>
@@ -62,43 +62,7 @@
           {/each}
         </div>
         <div class="gegevens-column">
-          <p>Verslag</p>
-          <div class="gegevens-item">
-            <p><b>Titel:</b> Portfolio Team Bosan</p>
-            <p><b>Versie:</b> 1</p>
-            <p>
-              <b>Datum:</b>
-              {currentDate.getDate()}-{currentDate.getMonth()+1}-{currentDate.getFullYear()}
-            </p>
-          </div>
 
-          <p style="margin-top: 54px;">Bedrijf</p>
-          <div class="gegevens-item">
-            <p><b>Naam:</b> Bosan B.V.</p>
-            <p><b>Adres:</b> Metaalstraat 21, 7483 PD Haaksbergen</p>
-            <p><b>Telefoonnummer:</b> 053-3035107</p>
-          </div>
-
-          <p style="margin-top: 54px;">Opdrachtgever</p>
-          <div class="gegevens-item">
-            <p><b>Contactpersoon:</b> Mark Snijder</p>
-            <p>
-              <b>E-mail:</b>
-              <a href="mailto:m.snijder@bosan.nl">m.snijder@bosan.nl</a>
-            </p>
-            <p><b>Mobiel telefoonnummer:</b> 06-21246905</p>
-          </div>
-
-          <p style="margin-top: 54px;">Opdrachtgever</p>
-          <div class="gegevens-item">
-            <p><b>Contactpersoon:</b> Melanie van Deursen</p>
-            <p>
-              <b>E-mail:</b>
-              <a href="mailto:m.vandeursen@groupe-abeo.com"
-                >m.vandeursen@groupe-abeo.com</a
-              >
-            </p>
-          </div>
         </div>
       </div>
     </div>
@@ -113,14 +77,13 @@
     grid-auto-flow: column;
   }
 
-  .gegevens-container {
+  .gegevens-column {
     display: grid;
     grid-template-columns: 55% 45%;
-    grid-auto-flow: column;
     margin-bottom: 16px;
   }
 
-  .gegevens-column p {
+  .gegevens-container p {
     margin-top: 0px;
     color: #f06119;
     font-weight: bold;

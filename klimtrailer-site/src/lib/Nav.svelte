@@ -17,10 +17,10 @@
   </div>
   <!-- svelte-ignore a11y-missing-attribute -->
   <li on:click={onNavDropdownClick}><a>Inhoud <i class="fa-solid fa-angle-down"></i></a></li>
-  <li><a href="gegevens">Gegevens</a></li>
+  <li><a href="contact">Contact</a></li>
   <li><a href="woordenlijst">Woordenlijst</a></li>
   <li><a href="bronvermelding">Bronvermelding</a></li>
-  <li><a href="personas">Persona's</a></li>
+  <li><a href="bijlagen">Bijlagen</a></li>
 </ul>
 
 {#if showDropdown}

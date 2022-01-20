@@ -1,5 +1,4 @@
 <script>
-  import TimelineSprint4 from "$lib/TimelineSprint4.svelte";
   import Mural from "$lib/Mural.svelte";
 </script>
 
@@ -139,11 +138,16 @@ De Demo Day Lite is mede door de corona maatregelen anders vormgegeven. Deze dag
   >
   </div>
   <div class="right-bar">
-    <TimelineSprint4 />
   </div>
 </main>
 
 <style>
+main {
+    display: grid;
+    grid-template-columns: 480px 960px 480px;
+    grid-auto-flow: column;
+  }
+
   p {
     margin-top: 0;
   }
