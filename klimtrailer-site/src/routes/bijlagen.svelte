@@ -31,6 +31,10 @@
       text: "7 Link naar alle murals",
       url: "pdf-bijlage/murals.pdf",
     },
+    {
+      text: "8 Onderzoek wetgevingen",
+      url: "pdf-bijlage/wetgevingen.pdf",
+    },
   ];
 
   onMount(() => {

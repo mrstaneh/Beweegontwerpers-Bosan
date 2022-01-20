@@ -13,7 +13,7 @@
       <p>De Bouldermini zal gaan functioneren als een speel- en sporttoestel. Voor beide functies zijn andere wetgevingen, deze zullen in dit hoofdstuk aan bod komen. Allereerst zal het gaan over de wetten die van toepassing zijn op een speel- en sporttoestel. Daarna zullen de specifieke wetgevingen aan bod komen over de toestellen apart, maar ook over het gebruik van een aanhanger.</p>
     
       <p style="color: #F06119; display: inline;">De aanhanger</p>
-      <p>Als de Bouldermini verplaatst wordt, is de wetgeving over het gebruik van een aanhanger van belang. Er zijn verschillende punten waar een aanhanger aan moet voldoen, zo zijn en er in de lengte, breedte en hoogte maximale afmetingen, maar speelt ook het gewicht een belangrijke rol. Daarnaast zijn er naast de standaard geldende snelheid regels nog extra snelheid regels bij het gebruik van een aanhanger. De specificaties van deze regels zijn te vinden in bijlage 9, deze gaat over de wetgeving.</p>
+      <p>Als de Bouldermini verplaatst wordt, is de wetgeving over het gebruik van een aanhanger van belang. Er zijn verschillende punten waar een aanhanger aan moet voldoen, zo zijn en er in de lengte, breedte en hoogte maximale afmetingen, maar speelt ook het gewicht een belangrijke rol. Daarnaast zijn er naast de standaard geldende snelheid regels nog extra snelheid regels bij het gebruik van een aanhanger. De specificaties van deze regels zijn te vinden in <a href="bijlagen/#8" target="_blank">bijlage 8</a>, deze gaat over de wetgeving.</p>
     
       <p style="color: #F06119; display: inline;">Keuringen</p>
       <p>Als het toestel voor het eerst in gebruik genomen wordt, moet het toestel bij verschillende situaties gekeurd worden. Denk hierbij aan het checken van de installatie en nagaan of de Boulder mini veilig functioneert. Deze verschillende checks moeten plaats vinden als het toestel voor het eerst in gebruik genomen wordt, het toestel verplaatst wordt of zodra er een montage plaatsvindt.</p>
@@ -33,7 +33,7 @@
       <p style="color: #F06119; display: inline;">Conclusie</p>
       <p>De Boulder mini zal dus gaan functioneren als een speel- en gymtoestel, voor beide zijn de regels voor het verplaatsen van het toestel hetzelfde. Een groot verschil is echter dat er bij een gymtoestel jaarlijks een inspectie moet plaatsvinden om de veiligheid te waarborgen. </p>
       <p>Daarnaast is er een verschil in de combinatie tussen de valhoogte en de ondergrond. Bij het gebruik als gymtoestel mag er tot 4 meter hoog geklommen worden, maar moet hierbij wel een valmat gebruikt worden. Mocht het toestel ingezet worden als speeltoestel dan mag er maximaal geklommen worden tot 3 meter en moet de ondergrond bestaan uit specifieke materialen en moet deze 300mm dik zijn. 
-        Voor nadere informatie rondom de wetgeving van De Boulder Mini zie bijlage (?).
+        Voor nadere informatie rondom de wetgeving van De Boulder Mini zie <a href="bijlagen/#8" target="_blank">bijlage 8</a>.
         </p>
     </div>
     <div class="section onderbouwing" id="onderbouwing">
