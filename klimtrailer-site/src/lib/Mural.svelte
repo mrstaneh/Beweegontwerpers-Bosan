@@ -15,7 +15,7 @@
     <div class="mural-bar">
         <p>{title} Mural</p>
         <div class="mural-bar-right">
-            <p style="margin-right: 8px;">Dit is een interactief component</p>
+            <p style="margin-right: 8px;">Dit is een interactief component <a href="{src}" target="_blank">(Link naar mural)</a></p>
             <button on:click={onEnlargeClick} style="{enlarged == true ? '--bg-color: rgb(214, 101, 101); --bg-hover-color: rgb(234, 121, 121);' : '--bg-color: rgb(101, 214, 116); --bg-hover-color: rgb(121, 234, 136);'}">{enlarged == true ? 'Verklein' : 'Vergroot'}</button>
         </div>
     </div>
