@@ -23,7 +23,7 @@
   <div class="spacer" />
   <div class="container right">
     <div class="content">
-      <h2>Verplaatsbare Bolderwand</h2>
+      <h2>Verplaatsbare Boulderwand</h2>
       <p>
         Om het product makkelijker in te zetten binnen meerdere scholen en om zo
         de kosten te drukken hebben we gekozen voor een verplaatsbare versie.
