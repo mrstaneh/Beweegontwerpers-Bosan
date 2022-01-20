@@ -55,6 +55,21 @@
       alt: "3d Geprint Prototype 3",
     },
   ];
+
+  let prototype4Photos = [
+    {
+      path: "images/prototype4/1.jpeg",
+      alt: "3d Geprint Prototype 4-1",
+    },
+    {
+      path: "images/prototype4/2.jpeg",
+      alt: "3d Geprint Prototype 4-2",
+    },
+    {
+      path: "images/prototype4/3.jpeg",
+      alt: "3d Geprint Prototype 4-3",
+    }
+  ]
 </script>
 
 <svelte:head>
@@ -196,6 +211,9 @@
         de mogelijke toevoeging wel echt meerwaarde brengt aan het product. De
         basisschoolkinderen gebruiken eenmaal het product.
       </p>
+
+      <SlideShow photos={prototype4Photos} id="4" />
+
 
       <p style="color: #F06119; display: inline;">Prototype testen</p>
       <p>
