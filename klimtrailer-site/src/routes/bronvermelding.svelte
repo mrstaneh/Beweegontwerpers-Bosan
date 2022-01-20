@@ -109,25 +109,7 @@
 
       <div class="bronnenlijst-container">
         <div class="bronnenlijst-column">
-        {#each bronnen as bron, i}
-          {#if i % 2 == 0}
-            <div class="bronnenlijst-item">
-              <p id="{i+1}">
-                {bron.text}<a
-                  target="_blank"
-                  href="{bron.url}"
-                  >{bron.url}</a
-                >
-              </p>
-            </div>
-          {/if}
-        {/each}
-        </div>
-        <div class="bronnenlijst-column">
-        </div>
-        <div class="bronnenlijst-column">
           {#each bronnen as bron, i}
-            {#if i % 2 == 1}
               <div class="bronnenlijst-item">
                 <p id="{i+1}">
                   {bron.text}<a
@@ -137,9 +119,10 @@
                   >
                 </p>
               </div>
-            {/if}
           {/each}
-          </div>
+        </div>
+        <div class="bronnenlijst-column">
+        </div>
       </div>
     </div>
   </div>
@@ -156,15 +139,14 @@
     grid-template-columns: 25% 50% 25%;
     grid-auto-flow: column;
   }
-
-  .bronnenlijst-container {
-    display: grid;
-    grid-template-columns: 45% 10% 45%;
-    margin-bottom: 16px;
-  }
-
   .bronnenlijst-container > div {
     margin-bottom: 20px;
+  }
+
+  .bronnenlijst-column {
+    display: grid;
+    grid-template-columns: 45% 45%;
+    column-gap: 10%;
   }
 
   .bronnenlijst-column p {
