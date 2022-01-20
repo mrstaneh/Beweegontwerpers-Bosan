@@ -180,7 +180,7 @@
         heeft gekregen waar Bosan zelf in eerste instantie niet aan dacht!
       </p>
     </div>
-    <a style="margin-bottom: 20px;" href="/" class="button">Terug naar home</a>
+    <a href="/" class="button">Terug naar home</a>
   </div>
   <div class="right-bar" />
 </main>

@@ -319,7 +319,7 @@
       <p>LINK NAAR ALLE VOLLEDIG UITGEWERKTE TESTEN</p>
     </div>
     
-    <a style="margin-bottom: 20px;" href="personasuitleg" class="button"
+    <a href="personasuitleg" class="button"
       >Ga naar de volgende pagina</a
     >
   </div>

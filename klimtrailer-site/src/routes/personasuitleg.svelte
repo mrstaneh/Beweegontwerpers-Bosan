@@ -141,7 +141,7 @@
       <Personas />
     </div>
 
-    <a style="margin-bottom: 20px;" href="demodaylite" class="button"
+    <a href="demodaylite" class="button"
       >Ga naar de volgende pagina</a
     >
   </div>

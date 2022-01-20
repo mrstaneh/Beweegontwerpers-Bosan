@@ -133,7 +133,7 @@ De Demo Day Lite is mede door de corona maatregelen anders vormgegeven. Deze dag
 
       <Mural title="BMC" src="https://app.mural.co/embed/b43356ae-b9de-4ecd-9a3a-50f00b649976"/>
     </div>
-    <a style="margin-bottom: 20px;" href="mixandmatch" class="button"
+    <a href="mixandmatch" class="button"
     >Ga naar de volgende pagina</a
   >
   </div>

@@ -129,7 +129,7 @@
       />
     </div>
 
-    <a style="margin-bottom: 20px;" href="usertesting" class="button"
+    <a href="usertesting" class="button"
       >Ga naar de volgende pagina</a
     >
   </div>

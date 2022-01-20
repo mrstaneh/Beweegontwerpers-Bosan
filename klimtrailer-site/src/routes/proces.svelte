@@ -153,7 +153,7 @@
         bijlage.
       </p>
     </div>
-    <a style="margin-bottom: 20px;" href="brainstorms" class="button"
+    <a href="brainstorms" class="button"
       >Ga naar de volgende pagina</a
     >
   </div>

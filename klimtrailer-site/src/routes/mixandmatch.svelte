@@ -56,7 +56,7 @@
         er rekening gehouden dat de toekomst onzeker kan zijn op elk gebied.
       </p>
     </div>
-    <a style="margin-bottom: 20px;" href="afronding" class="button"
+    <a href="afronding" class="button"
       >Ga naar de volgende pagina</a
     >
   </div>

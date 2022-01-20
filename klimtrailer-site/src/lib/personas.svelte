@@ -363,7 +363,8 @@
 <style>
   .persona-backdrop {
     position: fixed;
-    top: 0px;
+    top: 0;
+    left: 0;
     height: 100%;
     background-color: rgba(33, 37, 41, 0.3);
     width: 100%;
@@ -410,7 +411,7 @@
   }
 
   .modal-content {
-    padding: 8px 24px 8px 24px;
+    padding: 8px 24px;
   }
 
   .modal-content p {
@@ -436,8 +437,8 @@
 
   .content {
     display: grid;
-    grid-template-rows: 432.5px 432.5px;
-    grid-template-columns: 270px 270px 270px;
+    grid-template-rows: 405px 405px;
+    grid-template-columns: 230px 230px 230px 230px;
     grid-gap: 20px;
     justify-content: center;
   }
@@ -456,7 +457,7 @@
 
   .item-img {
     width: 100%;
-    height: 256px;
+    height: 214px;
     object-fit: fill;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
@@ -493,6 +494,8 @@
     outline: none;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
+    cursor: pointer;
+    margin-top: 15px;
   }
 
   .persona-name {
