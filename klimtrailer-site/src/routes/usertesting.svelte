@@ -367,7 +367,7 @@
   }
 
   .right-bar{
-    width: 626px;
+    width: 566px;
   }
 
 

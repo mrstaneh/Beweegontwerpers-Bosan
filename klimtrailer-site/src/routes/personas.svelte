@@ -142,7 +142,7 @@
       >Ga naar de volgende pagina</a
     >
   </div>
-  <div class="right-bar" style="width: 626px;">
+  <div class="right-bar" style="width: 566px;">
     <TimelineSprint7 />
   </div>
 </main>

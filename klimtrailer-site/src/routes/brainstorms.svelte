@@ -177,9 +177,8 @@
   }
 
   .right-bar{
-    width: 626px;
+    width: 566px;
   }
-
 
   p {
     margin-top: 0;
