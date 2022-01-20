@@ -124,6 +124,10 @@
       word: 'COCD Box',
       description: "Een COCD Box is een selectiemethode om het grote aantal opties uit een divergentie terug te brengen naar een aantal dat je kunt overzien."
     },
+    {
+      word: 'Propositie',
+      description: "Een propositie of bewering is in de logica een declaratieve zin die of waar of onwaar kan zijn. Een bewering onderscheidt zich van een zin doordat een zin slechts een formulering van een bewering is, terwijl er vele andere formuleringen kunnen zijn die dezelfde bewering uitdrukken."
+    },
   ]
 
   woordenlijst.sort((a, b) => a.word.localeCompare(b.word));
