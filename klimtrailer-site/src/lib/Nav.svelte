@@ -31,6 +31,8 @@
         <li on:click={() => {goto('/brainstorms')}}><a href="brainstorms">Brainstorms</a></li>
         <li on:click={() => {goto('/usertesting')}}><a href="usertesting">Usertesting</a></li>
         <li on:click={() => {goto('/personas')}}><a href="personas">Persona's</a></li>
+        <li on:click={() => {goto('/wetgevingen')}}><a href="personas">Wetgevingen</a></li>
+        <li on:click={() => {goto('/businessmodel')}}><a href="businessmodel">Business Model Canvas</a></li>
         <li on:click={() => {goto('/demodaylite')}}><a href="demodaylite">Demo Day Lite</a></li>
         <li on:click={() => {goto('/mixandmatch')}}><a href="mixandmatch">Mix and Match</a></li>
         <li on:click={() => {goto('/afronding')}}><a href="afronding">Afronding</a></li>

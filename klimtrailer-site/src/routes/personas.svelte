@@ -141,7 +141,7 @@
       <Personas />
     </div>
 
-    <a href="demodaylite" class="button"
+    <a href="wetgevingen" class="button"
       >Ga naar de volgende pagina</a
     >
   </div>
