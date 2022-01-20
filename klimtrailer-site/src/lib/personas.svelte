@@ -483,7 +483,7 @@
     background-color: #ccd7ff;
     border-radius: 8px;
     cursor: pointer;
-    z-index: 1000;
+    z-index: 997;
   }
 
   .item:hover {
