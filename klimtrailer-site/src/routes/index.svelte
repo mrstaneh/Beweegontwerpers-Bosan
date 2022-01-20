@@ -94,6 +94,15 @@
         “Het product heeft zeker meerwaarde en kent een multifunctionele werkvorm toe.”
       </p>
     </div>
+    <div class="section samenvatting-interviews" id="samenvatting-interviews">
+      <h1>Samenvatting Interviews</h1>
+      <p>Om diepgang te creëren in onze persona’s en om ons te kunnen verplaatsen in de doelgroep, hebben we verschillende interviews gedaan.</p>
+      <p>Esther (basisschool docent geweest) en Tess (gymdocent) geven beide aan dat groepsleerkrachten met de bevoegdheid om gymles te geven vaak terugvallen op vormen die ze kennen. Het belang van goed beweegonderwijs wordt minder ingeschat. </p>
+      <p>Alle geïnterviewden geven aan dat een gymtoestel genoeg variatie moet bieden voor de kinderen. Aldus Anoek (onderzoeker beweegonderwijs): “Het is handig als een toestel op meerdere manieren gebruikt kan worden." En “De kinderen moeten enthousiast worden bij het zien van het toestel, omdat ze allemaal op hun eigen manier uitgedaagd worden.” Naast de variatie moet het toestel ook veilig genoeg zijn. Esther: “Spellen moeten zo veilig mogelijk zijn.” </p>
+      <p>Daarnaast is het belangrijk dat het toestel tegen een stootje kan, geven Esther, Anoek en Marc (klimdocent) aan. Het gymtoestel moet dus ‘hufterproof’ zijn en moet ook beschermd worden tegen oneigenlijk gebruik wanneer het zich op het speelplein bevindt. </p>
+      <p>Er wordt hedendaags nog maar weinig gebruik gemaakt van het buiten gymmen. Aldus Anoek “Er zijn bijna geen scholen die doen aan buiten gymmen.” Echter is hier wel animo voor, aldus Tess “Ik zou wel vaker buiten willen gymmen, zodra dit toegankelijker is.” </p>
+      <p>Voor de volledige interviews zie de <a href="/bijlagen#2" target="_blank">bijlage.</a></p>
+    </div>
     <div class="section inleiding" id="inleiding">
       <h1>Inleiding</h1>
 
