@@ -42,6 +42,10 @@
 
 
 <style>
+  ul{
+    overflow: hidden;
+  }
+
   .homepage {
     width: 100%;
     position: absolute;
