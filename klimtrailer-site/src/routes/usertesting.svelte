@@ -308,7 +308,7 @@
         product.
       </p>
       <Mural
-      title="Frames"
+      title="Prototype Report Card"
       src="https://app.mural.co/embed/44028696-a1cc-4233-a470-eacf9d1b752d"
       />
     </div>
