@@ -24,7 +24,7 @@
         width='99.8%'
         id="mural-{title}"
         height='{enlarged == true ? '90vw' : '480px'}'
-        style='min-width: 640px; background-color: #efefef; border: 1px solid #c0c0c0'
+        style='min-width: 100%; background-color: #efefef; border: 1px solid #c0c0c0'
         sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
         </iframe>
     </div>
