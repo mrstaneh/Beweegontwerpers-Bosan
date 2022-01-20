@@ -45,7 +45,7 @@
   <div class="left-bar" />
   <div class="content">
     <div class="gegevens">
-      <h1>Gegevens</h1>
+      <h1>Contact</h1>
 
       <div class="gegevens-container">
         <p>Studenten</p>
