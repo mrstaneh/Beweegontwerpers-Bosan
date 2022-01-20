@@ -86,8 +86,8 @@
   <title>Persona's</title>
 </svelte:head>
 
-<main>
-  <div class="content">
+<div class="main">
+  <div class="content-pers">
     {#each personas as persona, id}
       <div
         class="item item-1"
@@ -104,8 +104,7 @@
       </div>
     {/each}
   </div>
-</main>
-
+</div>
 {#if showModal && currentId != undefined}
   <div class="persona-backdrop" on:click={hideModal} />
 
@@ -431,16 +430,51 @@
     color: black;
   }
 
-  main {
+  .main {
     display: block;
   }
 
-  .content {
-    display: grid;
-    grid-template-rows: 405px 405px;
-    grid-template-columns: 230px 230px 230px 230px;
-    grid-gap: 20px;
-    justify-content: center;
+  .content-pers {
+      display: grid;
+      grid-template-rows: 405px 405px;
+      grid-template-columns: 230px 230px 230px 230px;
+      grid-gap: 20px;
+      justify-content: center;
+  }
+
+  @media(min-width: 1669px){
+    .content-pers {
+      grid-template-rows: 405px 405px;
+      grid-template-columns: 230px 230px 230px 230px;
+    }
+  }
+
+  @media(max-width: 1668px){
+    .content-pers {
+      grid-template-rows: 405px 405px 405px;
+      grid-template-columns: 230px 230px 230px;
+    }
+  }
+
+  @media(max-width: 1500px){
+    .content-pers {
+      grid-template-rows: 405px 405px 405px 405px;
+      grid-template-columns: 230px 230px;
+    }
+  }
+
+  @media(max-width: 1349px){
+    .content-pers {
+      grid-template-rows: 405px 405px;
+      grid-template-columns: 230px 230px 230px 230px;
+    }
+  }
+
+  @media(max-width: 1000px){
+    .content-pers {
+      grid-template-rows: 405px 405px 405px 405px;
+      grid-template-columns: 230px 230px;
+    }
   }
 
   .item {
@@ -449,6 +483,7 @@
     background-color: #ccd7ff;
     border-radius: 8px;
     cursor: pointer;
+    z-index: 1000;
   }
 
   .item:hover {

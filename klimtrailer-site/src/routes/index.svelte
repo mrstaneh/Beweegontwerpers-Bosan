@@ -44,7 +44,6 @@
 </div>
 
 <main>
-  <div class="left-bar" />
   <div class="content">
     <!--<div class="section start">
             <h1>Portfolio</h1>
@@ -191,16 +190,32 @@
     </div>
     <a style="margin-bottom: 20px;" href="proces" class="button">Ga naar de volgende pagina</a>
   </div>
-  <div class="right-bar" />
 </main>
 
 <style>
-  main {
-    display: grid;
-    grid-template-columns: 480px 960px 480px;
-    grid-auto-flow: column;
+  main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
+  @media(min-width: 1300px){
+    .content{
+      width: 50%;
+    }
+  }
+
+  @media(max-width: 1299px){
+    .content{
+      width: 75%;
+    }
+  }
+
+  @media(max-width: 750px){
+    .content{
+      width: 95%;
+    }
+  }
 
   .voorwoord {
     text-align: justify;

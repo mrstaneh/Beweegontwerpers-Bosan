@@ -107,10 +107,28 @@ De Demo Day Lite is mede door de corona maatregelen anders vormgegeven. Deze dag
 </main>
 
 <style>
-main {
-    display: grid;
-    grid-template-columns: 480px 960px 480px;
-    grid-auto-flow: column;
+  main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  @media(min-width: 1300px){
+    .content{
+      width: 50%;
+    }
+  }
+
+  @media(max-width: 1299px){
+    .content{
+      width: 75%;
+    }
+  }
+
+  @media(max-width: 750px){
+    .content{
+      width: 95%;
+    }
   }
 
   p {

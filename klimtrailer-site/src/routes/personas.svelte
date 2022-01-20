@@ -8,7 +8,6 @@
 </svelte:head>
 
 <main>
-  <div class="left-bar" />
   <div class="content">
     <h1>Uitleg Persona's</h1>
     <div class="section personas" id="personas">
@@ -137,20 +136,57 @@
       </p>
     </div>
 
-    <div class="right-bar">
-      <Personas />
-    </div>
+    <Personas />
 
     <a href="wetgevingen" class="button"
       >Ga naar de volgende pagina</a
     >
   </div>
-  <div class="right-bar">
+  <div class="right-bar" style="width: 626px;">
     <TimelineSprint7 />
   </div>
 </main>
 
 <style>
+  main{
+    display: flex;
+    justify-content: center;
+  }
+
+  .content{
+    width: 50%;
+  }
+
+  @media(min-width: 1350px){
+    .right-bar{
+      display: block;
+    }
+  }
+
+  @media(max-width: 1349px){
+    .right-bar{
+      display: none;
+    }
+
+    .content{
+      width: 65%;
+    }
+  }
+
+  @media(max-width: 1299px){
+    .content{
+      width: 75%;
+    }
+  }
+
+  @media(max-width: 750px){
+    .content{
+      width: 95%;
+    }
+  }
+
+
+  
   p {
     margin-top: 0;
   }

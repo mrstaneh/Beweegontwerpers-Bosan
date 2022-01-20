@@ -139,6 +139,48 @@
 </main>
 
 <style>
+  main{
+    display: flex;
+    justify-content: center;
+  }
+
+  .content{
+    width: 50%;
+  }
+
+  @media(min-width: 1350px){
+    .right-bar{
+      display: block;
+    }
+  }
+
+  @media(max-width: 1349px){
+    .right-bar{
+      display: none;
+    }
+
+    .content{
+      width: 65%;
+    }
+  }
+
+  @media(max-width: 1299px){
+    .content{
+      width: 75%;
+    }
+  }
+
+  @media(max-width: 750px){
+    .content{
+      width: 95%;
+    }
+  }
+
+  .right-bar{
+    width: 626px;
+  }
+
+
   p {
     margin-top: 0;
   }
