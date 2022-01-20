@@ -22,7 +22,7 @@
     },
   ];
 
-  /*let klimtrailerPhotos = [
+  let klimtrailerPhotos = [
     {
       path: "images/klimtrailer-slideshow/klimtrailer1.png",
       alt: "klim1",
@@ -39,7 +39,7 @@
       path: "images/klimtrailer-slideshow/klimtrailer4.jpeg",
       alt: "klim4",
     },
-  ];*/
+  ];
 
   let prototype2Photos = [
     {
@@ -55,6 +55,21 @@
       alt: "3d Geprint Prototype 3",
     },
   ];
+
+  let prototype4Photos = [
+    {
+      path: "images/prototype4/1.jpeg",
+      alt: "3d Geprint Prototype 4-1",
+    },
+    {
+      path: "images/prototype4/2.jpeg",
+      alt: "3d Geprint Prototype 4-2",
+    },
+    {
+      path: "images/prototype4/3.jpeg",
+      alt: "3d Geprint Prototype 4-3",
+    }
+  ]
 </script>
 
 <svelte:head>
@@ -155,6 +170,7 @@
         behulp van een scharnier en lijm vastgezet. Met deze toepassing kan de
         maquette duidelijk weergeven hoe het product werkt.
       </p>
+
       <SlideShow photos={prototype2Photos} id="2" maxwidth="300" />
 
       <p style="color: #F06119; display: inline;">Verdere ontwikkeling</p>
@@ -173,6 +189,8 @@
         is simpel weg gedaan door er wielen onder te plaatsen. Zo kan dit later
         makkelijk met een B rijbewijs worden vervoerd.
       </p>
+
+      <SlideShow photos={klimtrailerPhotos} id="5" />
 
       <p style="color: #F06119; display: inline;">
         De evolutie van het prototype
@@ -196,6 +214,9 @@
         de mogelijke toevoeging wel echt meerwaarde brengt aan het product. De
         basisschoolkinderen gebruiken eenmaal het product.
       </p>
+
+      <SlideShow photos={prototype4Photos} id="4" />
+
 
       <p style="color: #F06119; display: inline;">Prototype testen</p>
       <p>
