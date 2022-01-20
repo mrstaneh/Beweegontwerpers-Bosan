@@ -22,7 +22,7 @@
     },
   ];
 
-  /*let klimtrailerPhotos = [
+  let klimtrailerPhotos = [
     {
       path: "images/klimtrailer-slideshow/klimtrailer1.png",
       alt: "klim1",
@@ -39,7 +39,7 @@
       path: "images/klimtrailer-slideshow/klimtrailer4.jpeg",
       alt: "klim4",
     },
-  ];*/
+  ];
 
   let prototype2Photos = [
     {
@@ -170,6 +170,7 @@
         behulp van een scharnier en lijm vastgezet. Met deze toepassing kan de
         maquette duidelijk weergeven hoe het product werkt.
       </p>
+
       <SlideShow photos={prototype2Photos} id="2" maxwidth="300" />
 
       <p style="color: #F06119; display: inline;">Verdere ontwikkeling</p>
@@ -188,6 +189,8 @@
         is simpel weg gedaan door er wielen onder te plaatsen. Zo kan dit later
         makkelijk met een B rijbewijs worden vervoerd.
       </p>
+
+      <SlideShow photos={klimtrailerPhotos} id="5" />
 
       <p style="color: #F06119; display: inline;">
         De evolutie van het prototype
