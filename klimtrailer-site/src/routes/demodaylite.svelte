@@ -41,13 +41,13 @@ De Demo Day Lite is mede door de corona maatregelen anders vormgegeven. Deze dag
       </p>
 
       <iframe
-        width="960"
         height="540"
         src="https://www.youtube.com/embed/7p4TsfxQ4hY"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
+        style="width: 100%;"
       />
 
       <p style="margin-top: 1em;">
