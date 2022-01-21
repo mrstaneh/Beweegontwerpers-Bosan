@@ -318,10 +318,10 @@
       <p>Om onze doelgroep goed te leren kennen was het van belang dat we een keer langs zouden gaan bij
         een gymles, om te zien hoe kinderen tegenwoordig gymles krijgen (dit zou namelijk heel anders
         kunnen zijn ten opzichte van onze eigen ervaringen). Verder was het ook van belang om het product
-        goed te kunnen testen, zodat we weten of de doelgroep wel zit te wachten op een boulder wand of
+        goed te kunnen testen, zodat we weten of de doelgroep wel zit te wachten op een boulderwand of
         buiten gymmen. Gelukkig kende Loes iemand via haar werk die gymles gaf op een aantal scholen, bij
-        een van deze scholen mochten we langskomen: Basisschool de kinderboom. We waren uitgenodigd
-        om 3 lessen te observeren en tussen door een aantal vragen te stellen aan de kinderen. Dit ging om
+        een van deze scholen mochten we langskomen: Basisschool de Kinderboom. We waren uitgenodigd
+        om 3 lessen te observeren en tussendoor een aantal vragen te stellen aan de kinderen. Dit ging om
         de groepen 4, 7 en 8. Dus 2 van de groepen vielen goed in de doelgroep.</p>
         
         <p style="color: #F06119; display: inline;">Conclusie</p>
