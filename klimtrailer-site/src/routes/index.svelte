@@ -21,17 +21,15 @@
     <div class="voorwoord">
       <h1 style="margin-top: 8px;">Voorwoord</h1>
       <p style="color: #4491DA;">
-        In de periode van september 2021 tot en met januari 2022 hebben wij onze opdracht gelopen voor Bosan B.V. – Bosan ontwikkelt en produceert sportinstallaties en sporttoestellen voor bewegingsonderwijs en (top)sport in binnensportaccommodaties.
-      </p>
-
+        In de periode van september 2021 tot en met januari 2022 hebben wij ons bezig gehouden met een opdracht voor Bosan B.V. – Bosan ontwikkelt en produceert sportinstallaties en sporttoestellen voor bewegingsonderwijs en (top)sport in binnensportaccommodaties.
       <p>
         Dit verslag is geschreven in het kader van onze minor aan de Fontys Sporthogeschool en in opdracht voor onze stakeholder Bosan.
         Tijdens het semester is er onderzoek gedaan naar een nieuw toestel voor Bosan. Dit toestel zal buiten toepasbaar moeten zijn zodat basisscholen meer ruimte hebben om beweegonderwijs te geven en daardoor de 2 uur per weer voor een kind kunnen halen.
-
+        
       </p>
 
       <p>
-        In dit verslag beschrijven we het proces van het project. Voor het proces hebben gebruik gemaakt van de design thinking methode.
+        In dit verslag beschrijven we het proces van het project. Voor het proces hebben gebruik gemaakt van de design thinking methode.  
       </p>
     </div>
     <!-- <div class="section inhoud" id="inhoud">
@@ -50,14 +48,11 @@
       <h1>Samenvatting</h1>
 
       <p>
-        Hoeveel beweging heeft een kind gemiddeld nodig? Volgens de beweegrichtlijnen hebben basisschoolkinderen minimaal 1 uur matige, intensieve beweging nodig om gezond te blijven. Voldoende beweging is goed voor de gezondheid en de ontwikkeling van het kind, dit zorgt tevens voor een verhoging in het zelfvertrouwen en de sociale vaardigheden. 
-      </p>
+        Hoeveel beweging heeft een kind gemiddeld nodig? Volgens de beweegrichtlijnen hebben basisschoolkinderen minimaal 1 uur matige, intensieve beweging nodig om gezond te blijven. Voldoende beweging is goed voor de gezondheid en de ontwikkeling van het kind, dit zorgt tevens voor een verhoging in het zelfvertrouwen en de sociale vaardigheden.       </p>
       <p>
-        Bosan wil een nieuwe ontwikkeling realiseren om met innovatieve materialen de beweging bij kinderen te stimuleren in het beweegonderwijs. Opdrachtgever Bosan kwam vervolgens met de hoofdvraag: “Op welke wijze kunnen we met innovatieve materialen beweegomgevingen inrichten zodat ze aansluiten bij de ontwikkeling in het bewegingsonderwijs?”. Uit onderzoek blijkt: “Vanaf 2023 geldt een nieuwe regel, kinderen op de basisschool moeten verplicht minimaal 2 uur per week gymles krijgen.” Uit onderzoek is helder geworden dat niet iedere basisschool voldoende capaciteit heeft  , daarom is de stap ondernomen om de focus te leggen op buiten gymmen. De design thinking methode is toegepast tijdens het proces, er is gebruik gemaakt van: brainstormsessies, iteratief en incrementeel werken, vormgeven van persona’s, korte testen doen en diverse interviews houden met experts. De Boulder Mini is op diverse momenten geoptimaliseerd, zo is er bijvoorbeeld gekeken naar de wetgeving rondom verplichte valmatten en het multifunctioneel inzetten van prototypes. Daarnaast zijn ook de praktische eisen in acht genomen, zoals de hanteerbaarheid van het product. Uiteindelijk is de Boulder Mini ontstaan met diverse demonteerbare wanden. 
-      </p>
+        Bosan wil een nieuwe ontwikkeling realiseren om met innovatieve materialen de beweging bij kinderen te stimuleren in het beweegonderwijs. Opdrachtgever Bosan kwam vervolgens met de hoofdvraag: “Op welke wijze kunnen we met innovatieve materialen beweegomgevingen inrichten zodat ze aansluiten bij de ontwikkeling in het bewegingsonderwijs?”. Uit onderzoek blijkt: “Vanaf 2023 geldt een nieuwe regel, kinderen op de basisschool moeten verplicht minimaal 2 uur per week gymles krijgen.” Uit dit onderzoek is helder geworden dat niet iedere basisschool voldoende capaciteit heeft  , daarom is de stap ondernomen om de focus te leggen op buiten gymmen. De design thinking methode is toegepast tijdens het proces, er is hierbij gebruik gemaakt van: brainstormsessies, iteratief en incrementeel werken, vormgeven van persona’s, korte testen doen en diverse interviews houden met experts. De Boulder Mini is op diverse momenten geoptimaliseerd, zo is er bijvoorbeeld gekeken naar de wetgeving rondom verplichte valmatten en het multifunctioneel inzetten van prototypes. Daarnaast zijn ook de praktische eisen in acht genomen, zoals de hanteerbaarheid van het product. Uiteindelijk is de Boulder Mini ontstaan met diverse demonteerbare wanden.       </p>
       <p>
-        Er is gekozen voor een aanhanger naar aanleiding van het onderzoek naar de regelgeving. Het is mogelijk om naast het aanschaffen van het product een leasecontract en een onderhoudsplan aan te schaffen. Voordat het productproces afgerond is zijn er ter voor de volledige validatie meerdere interviews gehouden met experts. De experts waren enthousiast over het product. Het product bestaat uit een verplaatsbare klimwand. De klimwanden zijn verstelbaar in diverse kantelhoeken en klimmethodes. Een quote vanuit Stefan van Veen (master in Sport- en Beweeginnovatie):
-      </p>
+        Er is gekozen voor een aanhanger naar aanleiding van het onderzoek naar de regelgeving. Het is mogelijk om naast het aanschaffen van het product een leasecontract en een onderhoudsplan aan te schaffen. Voordat het productproces afgerond is zijn er voor volledige validatie meerdere interviews gehouden met experts. De experts waren enthousiast over het product. Het product bestaat uit een verplaatsbare klimwand. De klimwanden zijn verstelbaar in diverse kantelhoeken en klimmethodes. Een quote vanuit Stefan van Veen (master in Sport- en Beweeginnovatie):      </p>
       <p style="font-size: 18px; color: #F06119;">
         “Het product heeft zeker meerwaarde en kent een multifunctionele werkvorm toe.”
       </p>
@@ -65,11 +60,11 @@
     <div class="section samenvatting-interviews" id="samenvatting-interviews">
       <h1>Samenvatting Interviews</h1>
       <p>Om diepgang te creëren in onze persona’s en om ons te kunnen verplaatsen in de doelgroep, hebben we verschillende interviews gedaan.</p>
-      <p>Esther (basisschool docent geweest) en Tess (gymdocent) geven beide aan dat groepsleerkrachten met de bevoegdheid om gymles te geven vaak terugvallen op vormen die ze kennen. Het belang van goed beweegonderwijs wordt minder ingeschat. </p>
-      <p>Alle geïnterviewden geven aan dat een gymtoestel genoeg variatie moet bieden voor de kinderen. Aldus Anoek (onderzoeker beweegonderwijs): “Het is handig als een toestel op meerdere manieren gebruikt kan worden." En “De kinderen moeten enthousiast worden bij het zien van het toestel, omdat ze allemaal op hun eigen manier uitgedaagd worden.” Naast de variatie moet het toestel ook veilig genoeg zijn. Esther: “Spellen moeten zo veilig mogelijk zijn.” </p>
-      <p>Daarnaast is het belangrijk dat het toestel tegen een stootje kan, geven Esther, Anoek en Marc (klimdocent) aan. Het gymtoestel moet dus ‘hufterproof’ zijn en moet ook beschermd worden tegen oneigenlijk gebruik wanneer het zich op het speelplein bevindt. </p>
-      <p>Er wordt hedendaags nog maar weinig gebruik gemaakt van het buiten gymmen. Aldus Anoek “Er zijn bijna geen scholen die doen aan buiten gymmen.” Echter is hier wel animo voor, aldus Tess “Ik zou wel vaker buiten willen gymmen, zodra dit toegankelijker is.” </p>
-      <p>Voor de volledige interviews zie de <a href="/bijlagen#2" target="_blank">bijlage.</a></p>
+      <p>Esther (basisschool docent geweest) en Tess (gymdocent) geven beide aan dat groepsleerkrachten met de bevoegdheid om gymles te geven vaak terugvallen op vormen die ze kennen. Het belang van goed beweegonderwijs wordt minder ingeschat.</p>
+      <p>Alle geïnterviewden geven aan dat een gymtoestel genoeg variatie moet bieden voor de kinderen. Aldus Anoek (onderzoeker beweegonderwijs): “Het is handig als een toestel op meerdere manieren gebruikt kan worden." En “De kinderen moeten enthousiast worden bij het zien van het toestel, omdat ze allemaal op hun eigen manier uitgedaagd worden.” Naast de variatie moet het toestel ook veilig genoeg zijn. Esther: “Spellen moeten zo veilig mogelijk zijn.”</p>
+      <p>Daarnaast is het belangrijk dat het toestel tegen een stootje kan, geven Esther, Anoek en Marc (klimdocent) aan. Het gymtoestel moet dus ‘hufterproof’ zijn en moet ook beschermd worden tegen oneigenlijk gebruik wanneer het zich op het speelplein bevindt.</p>
+      <p>Er wordt hedendaags nog maar weinig gebruik gemaakt van het buiten gymmen. Aldus Anoek “Er zijn bijna geen scholen die doen aan buiten gymmen.” Echter is hier wel animo voor, aldus Tess “Ik zou wel vaker buiten willen gymmen, zodra dit toegankelijker is.”</p>
+      <p>Voor de volledige interviews zie de <a href="/pdf-bijlage/interviews.pdf" target="_blank">bijlage.</a></p>
     </div>
     <div class="section inleiding" id="inleiding">
       <h1>Inleiding</h1>
@@ -130,32 +125,27 @@
 
       <p style="color: #F06119; display: inline;">Verwaching vanuit Bosan</p>
       <p class="pheader">
-        Vanuit Bosan hebben wij de volgende vraag gekregen: “Op welke wijze kunnen we met innovatieve materialen beweegomgevingen inrichten zodat ze aansluiten bij de ontwikkeling in het bewegingsonderwijs?”. 
-      </p>
+        Vanuit Bosan hebben wij de volgende vraag gekregen: “Op welke wijze kunnen we met innovatieve materialen beweegomgevingen inrichten zodat ze aansluiten bij de ontwikkeling in het bewegingsonderwijs?”.       </p>
       <p>
-        Bosan verwacht van ons dat we een product ontwikkelen dat ingezet kan worden in het bewegingsonderwijs. Dit kan gaan over een nieuw sportattribuut, een doorontwikkeling op een sportattribuut, een uitbreiding op een sportattribuut of zoiets geks als een digitale muur. Er zou dus van alles bedacht kunnen worden op de opdracht.
-      </p>
+        Bosan verwacht van ons dat we een product ontwikkelen dat ingezet kan worden in het bewegingsonderwijs. Dit kan gaan over een nieuw sportattribuut, een doorontwikkeling op een sportattribuut, een uitbreiding op een sportattribuut of zoiets geks als een digitale muur. Er zou dus van alles bedacht kunnen worden op de opdracht. Ze zeggen ook wel “the sky is the limit”.      </p>
       <p style="color: #F06119; display: inline;">Onze focus</p>
       <p class="pheader">
-        We hebben zelf gekozen om onze focus te leggen op een toestel voor het primair onderwijs dat buiten gebruikt kan worden. Hier hebben wij voor gekozen omdat het primair onderwijs over iets meer dan 2 jaar minimaal 2 uur gym per kind gegeven zou moeten worden 
-        (CIOS, 2020)[<a target="_blank" href="bronvermelding/#5">5</a>]. Dit duurt dan wel nog 2 jaar voordat deze wet van kracht gaat. Dit komt doordat de scholen aangeven dat er te weinig gymleraren, sporthallen of sportvelden ter beschikking hebben 
+        We hebben zelf gekozen om onze focus te leggen op een toestel voor het primair onderwijs dat buiten gebruikt kan worden. Hier hebben wij voor gekozen omdat het primair onderwijs over iets meer dan 2 jaar minimaal 2 uur gym per kind per week gegeven zou moeten worden 
+        (CIOS, 2020)[<a target="_blank" href="bronvermelding/#5">5</a>]. Het duurt dan nog wel 2 jaar voordat deze wet van kracht gaat doordat de scholen aangeven dat er te weinig gymleraren, sporthallen of sportvelden ter beschikking hebben 
         (CIOS, 2020)[<a target="_blank" href="bronvermelding/#5">5</a>]. 
       </p>
       <p style="color: #F06119; display: inline;">Onze stappen</p>
       <p class="pheader">
-        In samenwerking met de stakeholder zijn wij gaan kijken of het vraagstuk zorgt voor voldoende uitdaging. Door in gesprek te gaan met Bosan, is er duidelijk geworden dat zij ook kansen zien in het maken van een buiten toestel. Zoals wij ook al onderzocht hadden zal er binnenort namelijk 2 uur gym gegeven moeten worden, dit zal alleen niet mogelijk zijn omdat de scholen te weinig ruimte hebben of te weinig leraren hebben. Dit zijn goede redenen om te focussen op gymles buiten. 
-      </p>
+        In samenwerking met de stakeholder zijn wij gaan kijken of het vraagstuk zorgt voor voldoende uitdaging. Door in gesprek te gaan met Bosan, is er duidelijk geworden dat zij ook kansen zien in het maken van een buiten toestel. Zoals wij ook al onderzocht hadden zal er binnenkort namelijk 2 uur gym gegeven moeten worden, dit zal alleen niet mogelijk zijn omdat de scholen te weinig ruimte hebben of te weinig leraren hebben. Dit zijn goede redenen om te focussen op gymlessen in de buitenlucht.       </p>
       <p style="color: #F06119; display: inline;">Onze team</p>
       <p class="pheader">
-        Het team bestaat uit een multidisciplinaire groep. Zo heeft ieder zijn specialiteiten in de opleiding. Dit is erg uiteenlopend van ICT tot Mechatronica tot Communicatie tot aan Technische bedrijfskunde. Kortom veel diverse opleidingen. Dit kan juist als een voordeel werken. Iedere persoon heeft weer net een andere kijk op een probleem. 
-      </p>
+        Het team bestaat uit een multidisciplinaire groep. Zo heeft ieder zijn specialiteiten in de opleiding. Dit is erg uiteenlopend van ICT tot Mechatronica tot Communicatie tot aan Technische bedrijfskunde. Kortom veel diverse opleidingen. Dit kan juist als een voordeel werken. Iedere persoon heeft weer net een andere kijk op een probleem.       </p>
       <p>
         Vervolgens is er door ondersteuning van de lessen en het boek “Design thinking” van Guido Stompff. een basis behandeld. 
       </p>
       <img class="opdracht-image" src="images/designthinking.png" alt="" />
       <p>
-        Voorafgaand aan dit project is er een volledige designsprint cyclus doorlopen met een andere opdracht. Op deze manier is er dus al eens kennis gemaakt met de cyclus van designthinking. 
-      </p>
+        Voorafgaand aan dit project is er een volledige designsprint cyclus doorlopen met een andere opdracht. Op deze manier is er dus al eens kennis gemaakt met de cyclus van designthinking.       </p>
     </div>
     <a style="margin-bottom: 20px;" href="proces" class="button">Ga naar de volgende pagina</a>
   </div>

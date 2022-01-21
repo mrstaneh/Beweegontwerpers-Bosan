@@ -83,111 +83,47 @@
     <div class="section prototyping" id="prototyping">
       <h1>Prototyping</h1>
       <p style="color: #4491DA;">
-        Hier zal er verteld worden hoe we ons idee getest hebben en welke
-        veranderingen we door deze testen door gevoerd hebben en hoe deze
-        onderbouwd zijn.
+        Hier zal er verteld worden hoe het idee getest is, welke veranderingen door deze testen doorgevoerd zijn en hoe deze onderbouwd zijn.
       </p>
       <p>
-        Gedurende het hele ontwerpproces wordt er in een vroeg stadium al
-        gewerkt aan een prototype. De eerste prototypen zullen zeer basic zijn.
-        Het prototype is ervoor bedoelt om een weergave te geven van het idee.
-        Met een prototype kun je het idee visualiseren bij een belanghebbend
-        persoon. Omdat de groep niet op één lijn lag hoe het product nu het
-        beste kon worden ontworpen is er eerst een brainstormsessie gestart met
-        een basis schets. Hierbij heeft iedereen in de projectgroep een
-        tekenblad gekregen. Vervolgens moest iedereen een tekening maken hoe zij
-        het product in gedachten hadden. Hieruit zijn alle ideeschetsen
-        uitgelegd geworden aan de groep. Vervolgens is er op één idee verder
-        gegaan.
+        Gedurende het hele ontwerpproces wordt er in een vroeg stadium al gewerkt aan een prototype, wel zullen de eerste prototypen zeer eenvoudig zijn. Het prototype is ervoor bedoelt om een weergave te geven van het idee, hiermee kun je het idee visualiseren bij een belanghebbend persoon. 
       </p>
-
-      <p style="color: #F06119; display: inline;">De basisprincipes</p>
-      <p>
-        De 10 basisprincipes van prototypen. Dit zijn de heilige basisregels.
-        Deze zijn zeer van belang anders kan een prototype niet het gewenste
-        effect vervullen. Het aller belangrijkste basis principe is het eerste:
-        “Maak het visueel en tastbaar”. Je leert sneller door in een vroeg
-        stadium vaker te falen. Dit zijn juist de beste leermomenten van je
-        ontwerp proces. Er moeten veel verschillende iteraties worden gedaan.
-        Het is helaas praktisch onmogelijk om een levensecht werkend model te
-        prototypen omdat het simpelweg gewoon teveel tijd kost en er geen budget
-        voor is.
-      </p>
-      <img
-        style="width: 100%;"
-        src="/images/prototyping.png"
-        alt="De 10 basisprincipes"
-      />
+      <p>Omdat de groep niet op één lijn lag hoe het product nu het beste kon worden ontworpen is er eerst een brainstormsessie gedaan met een basis schets. Hierbij heeft iedereen in de projectgroep een tekenblad gekregen. Vervolgens moest iedereen een tekening maken hoe zij het product in gedachten hadden en heeft iedereen zijn schets uitgelegd aan de rest. Uiteindelijk is er keuze gemaakt en is er met één idee verder gegaan. </p>
 
       <p style="color: #F06119; display: inline;">
         In een vroeg stadium testen
       </p>
       <p>
-        Het product moet in een vroeg stadium al worden tentoongesteld aan
-        zoveel mogelijk mensen. Je moet ook zeker niet in je eerst idee blijven
-        hangen. Het kan ook een volledig andere kant op gaan. Een product
-        volledig uitwerken tot in detail en er volgens achter komen dat het niet
-        bij de doelgroep past wordt op deze manier uitgesloten.
+        Het product moest in een vroeg stadium al worden tentoongesteld aan zoveel mogelijk mensen. Op deze manier is er direct sprake van feedback en wordt gelijk duidelijk of er behoefte is aan het idee. Hiermee wordt voorkomen dat een product volledig uitgewerkt wordt, om er dan later achter te komen dat het niet bij de doelgroep past. Daarbij komend moet ook nooit in het eerste idee gehangen blijven worden.
       </p>
       <p>
-        De persona’s hebben hier ook een belangrijke rol. Je gaat de bril
-        opzetten van een persona en nadenken wat zou deze persoon juist willen,
-        of waar let deze persoon juist op. Voorafgaand aan het prototypen moet
-        er gestart worden met het invullen van een prototype report card.
-        Hierbij ga je van tevoren nadenken hoe je het prototype gaat
-        ontwikkelen. Hierbij wordt er gestart met het bedenken van een naam voor
-        het prototype. Vervolgens worden er drie kritische vragen gesteld,
-        hiermee bepaal je de key metrics of success. Er zijn ook meerdere
-        testmethodes bij één prototype. Zoals bijvoorbeeld een A/B test of een
-        observatie. Het meest belangrijke bij de report card is eigenlijk welke
-        aannames stellen we nu vast. Hierdoor hoeft daar geen rekening mee
-        worden gehouden en is dit logischerwijs aanwezig.
+        De persona’s spelen hier ook een belangrijke rol in. Je gaat de bril opzetten van een persona en bedenken wat deze persoon zou willen of waar deze persoon juist op let. Voorafgaand aan het prototypen moet er gestart worden met het invullen van een prototype report card. Hierbij ga je van tevoren nadenken hoe je het prototype gaat ontwikkelen. Als eerst wordt er een naam bedacht voor het prototype. Vervolgens worden er drie kritische vragen gesteld, hiermee bepaal je de key metrics of succes. Ook is er sprake van meer dan één testmethode per prototype, zoals bijvoorbeeld een A/B test of een observatie. Het meest belangrijke wat duidelijk wordt aan de hand van de report card is welke aannames vastgesteld worden. Hier hoeft daar geen rekening meer mee gehouden te worden en spreekt dit voor zich. 
       </p>
 
       <p style="color: #F06119; display: inline;">Eerste prototype</p>
       <p>
-        Het eerste prototype moet basic der basic worden. Een simpele vorm van
-        magneetjes op een whiteboard die een klimwand voorstelt kan al voldoen
-        als een basic prototype. Het eerste prototype is in een korte tijdsduur
-        van één uur gemaakt. Dit is een karton model geworden. Zie 3.1 Prototype
+        Het eerste prototype moet zo eenvoudig mogelijk zijn. Een simpele vorm van magneetjes op een whiteboard die een klimwand voorstelt kan al voldoen als een eerste prototype. Het eerste prototype is in een korte tijdsduur van één uur gemaakt, dit is een karton model geworden. Zie  3.1 Prototype
       </p>
       <p>
-        Hierbij is er letterlijk een ‘’houtje-touwtje” model gemaakt. Het
-        bestaat uit basis van karton en een touw die het mechanisme weergeeft.
-        Een vervolg prototype is een groter karton model. Hierbij is er een
-        plaat van 2 meter hoog bij 1 meter breed gebruikt. Hierbij zijn simpel
-        gaten in het karton gemaakt. Deze moeten handgrepen voorstellen. Op deze
-        manier kan er op een simpele manier het idee worden getest.
+        Hierbij is er letterlijk een ‘’houtje-touwtje” model gemaakt, de basis bestaat uit karton en een touw die het mechanisme weergeeft. Een vervolg prototype is een groter karton model. Hierbij is er een plaat van 2 meter hoog bij 1 meter breed gebruikt, hier zijn gaten in het karton gemaakt en deze stellen de grepen voor. Op deze manier kan het idee op een eenvoudige manier worden getest. 
       </p>
       <SlideShow photos={prototype1Photos} id="1" />
 
       <p style="color: #F06119; display: inline;">3D model prototype</p>
       <p>
-        Het prototype is ook in een 3d programma gemaakt. Hierbij kunnen
-        makkelijk aanpassingen worden gedaan. Er is ervoor gekozen om een
-        maquette te maken. Dit is gedaan door gebruik te maken van een 3d
-        printer. Onderdeel per onderdeel is uitgeprint en vervolgens is dit met
-        behulp van een scharnier en lijm vastgezet. Met deze toepassing kan de
-        maquette duidelijk weergeven hoe het product werkt.
+        Bij dit prototype is gekozen voor een maquette vorm. Het prototype is in een 3d programma gemaakt, hier kunnen indien nodig eenvoudig aanpassingen worden gemaakt. Elk onderdeel is uitgeprint met een 3d printer en is vervolgens met behulp van een scharnier en lijm vastgezet. Met deze toepassing kan de maquette duidelijk weergeven hoe het product werkt. 
       </p>
 
       <SlideShow photos={prototype2Photos} id="2" maxwidth="300" />
 
       <p style="color: #F06119; display: inline;">Verdere ontwikkeling</p>
       <p>
-        Toch blijft een hand schets het beste als een “quick prototype”. Hiermee
-        kun je aan een persoon je idee weergeven. Tijdens een gesprek van de
-        persona’s met Mark Janssen (van Fontys) is tevens ook het ontwerp laten
-        zien. Hierbij heeft Mark gezegd of het niet makkelijker is dat de val
-        mat meteen bij het product aanwezig is. Hieruit volgde een handschets in
-        samenwerking met Mark. Dit was een derde evolutie van het ontwerp.
+        Toch blijft een hand schets het beste als een “quick prototype”. Hiermee kun je aan een persoon je idee weergeven. Tijdens een gesprek over de persona’s met Mark (van Fontys) is tevens ook het ontwerp laten zien. Hierbij vroeg Mark zich af of het niet eenvoudiger is als de val mat meteen bij het product toegevoegd is. Hieruit volgde een handschets in samenwerking met Mark, dit was een derde evolutie van het ontwerp. 
       </p>
 
       <p style="color: #F06119; display: inline;">Verplaatsbaar</p>
       <p>
-        Er is ook het idee ontstaan om het product verplaatsbaar te maken. Dit
-        is simpel weg gedaan door er wielen onder te plaatsen. Zo kan dit later
-        makkelijk met een B rijbewijs worden vervoerd.
+        Er is ook het idee ontstaan om het product verplaatsbaar te maken, dit is gerealiseerd door er wielen onder te plaatsen. Zo kan het later makkelijk door iemand met een B rijbewijs worden vervoerd. 
       </p>
 
       <SlideShow photos={klimtrailerPhotos} id="5" />
@@ -196,42 +132,38 @@
         De evolutie van het prototype
       </p>
       <p>
-        Bij het eerste prototype (1.0) zijn de wanden vast aan het product. De
-        wanden konden in eerste instantie niet worden gekanteld. Bij het hierop
-        volgende prototype (2.0) zijn de wanden demonteerbaar en kunnen ze van
-        kantelhoek worden veranderd. Ook kwam er ter sprake dat het model
-        makkelijk verplaatsbaar moet zijn. Hierdoor zijn er wielen onder gemaakt
-        op de manier van een aanhanger. Bij het volgende prototype (3.0) is er
-        in het middenstuk een klimrek gemaakt (zie foto prototypes). Op deze
-        manier kun je er makkelijker overheen klimmen. Zo hoef je niet weer
-        dezelfde richting terug op. Bij het laatste prototype (4.0) is het nog
-        mogelijk om een optionele trampoline wand toe te voegen. Dit wordt
-        gecombineerd met een luchtkussen. Op deze manier kan het product
-        veelzijdig worden gebruikt en zorgt dit voor de meeste uitdaging. De
-        prototypes zijn door iedere keer nieuwe inzichten te halen uit
-        voornamelijk interview en brainstormsessies iedere keer veranderd. Er
-        zijn meerdere ideeën bedacht per prototype. Iedere keer is er gekeken of
-        de mogelijke toevoeging wel echt meerwaarde brengt aan het product. De
-        basisschoolkinderen gebruiken eenmaal het product.
+        Bij het eerste prototype (1.0) zitten de wanden vast aan het product en konden de wanden in eerste instantie niet kantelen. 
       </p>
+      <p>Bij het hierop volgende prototype (2.0) zijn de wanden demonteerbaar en kunnen deze wel van kantelhoek veranderd worden. Ook kwam er ter sprake dat het model makkelijk verplaatsbaar moet zijn, om deze reden zijn er wielen onder het prototype gemaakt, dit op dezelfde manier als bij een aanhanger. </p>
 
+      <p>Bij het volgende prototype (3.0) is er in het middenstuk een klimrek gemaakt (zie foto prototypes). Op deze manier kun je er makkelijker overheen klimmen en hoef je niet weer dezelfde richting terug. </p>
+
+      <p>Bij het laatste prototype (4.0) is het mogelijk geworden om verschillende optionele wanden toe te voegen. Zo is er een bijvoorbeeld trampoline wand bedacht, deze wordt gecombineerd met een luchtkussen. Op deze manier kan het product veelzijdig worden gebruikt en zorgt dit voor nog meer uitdaging. </p>
+      
+      <p>De prototypes zijn iedere keer veranderd, dit kwam door de nieuwe inzichten die opgedaan zijn tijdens interviews en brainstormsessies. </p>
+      <p>Hieruit kwamen meerdere ideeën voor elk prototype. Bij elk van deze ideeën is er gekeken of de mogelijke toevoeging wel echt meerwaarde bracht aan het product. Dit is gedaan aan de hand van persona’s, zij zijn uiteindelijk degene die het product gaan gebruiken. </p>
       <SlideShow photos={prototype4Photos} id="4" />
 
 
       <p style="color: #F06119; display: inline;">Prototype testen</p>
       <p>
-        We hebben dit ontwerp aan verschillende docenten van de sporthogeschool
-        laten zien. Hierbij hebben we gepeild of het duidelijk is wat ons
-        product doet en of het aan hun eisen zou voldoen. Uit deze momenten
-        hebben we veel feedback gepakt die we uiteindelijk door verwerkt hebben
-        in ons eindproduct.
+        Dit ontwerp is aan verschillende docenten van de sporthogeschool voorgelegd. Hierbij is gepeild of het duidelijk is wat het product doet en of het aan hun eisen zou voldoen. Uit deze momenten is veel feedback gehaald wat uiteindelijk verwerkt is in het eindproduct.
       </p>
       <p>
-        Ook hebben we ons prototype meegenomen naar de observatie van de
-        basisschool gymles. We hebben het prototype aan de kinderen laten zien
-        om te kijken of zij het er leuk uit vonden zien en of ze er interesse in
-        hadden.
+        Ook is het prototype meegenomen naar de observatie van de basisschool gymles. Het prototype is laten zien aan de kinderen om te kijken of zij het er leuk uit vonden zien en of ze er interesse in hadden.
       </p>
+
+      <p style="color: #F06119; display: inline;">De basisprincipes</p>
+      <p>
+        Om op de juiste manier bezig te zijn met prototyping zijn er 10 basisprincipes. Deze zijn zeer van belang anders kan een prototype niet het gewenste effect vervullen. Het allerbelangrijkste basisprincipe is de eerste: “Maak het visueel en tastbaar”. Ook leer je sneller door in een vroeg stadium regelmatig te falen. Dit zijn juist de beste leermomenten van je ontwerpproces. Verder moeten er veel verschillende iteraties worden gedaan. 
+      </p>
+      <p>Helaas is het praktisch onmogelijk om een levensecht werkend model te prototypen, dit kost te veel tijd en er geen budget voor is.</p>
+      <img
+        style="width: 100%;"
+        src="/images/prototyping.png"
+        alt="De 10 basisprincipes"
+      />
+      <p>Voor meer fotos van de prototypes zie de <a href="/pdf-bijlage/prototype.pdf" target="_blank">foto bijlage</a></p>
     </div>
 
     <div class="section testenleerkaarten" id="testenleerkaarten">
@@ -279,33 +211,11 @@
       <h1>Prototype Report Card</h1>
       <p style="color: #F06119; display: inline;">Prototype Report Card</p>
       <p>
-        Zodra wij eenmaal hebben geprototyped was het tijd om naar buiten te
-        gaan en feedback te ontvangen van mensen. Wij hebben het prototype
-        report card ingezet om duidelijk te krijgen waar wij onderzoek naar
-        moeten doen en hoe we dat moeten doen. Verder hebben wij een maar
-        belangrijke criteria opgeschreven waar wij het succes van ons prototype
-        aan kunnen meten.
-      </p>
+        Zodra wij eenmaal hebben geprototyped was het tijd om naar buiten te gaan en feedback te ontvangen van mensen. Wij hebben het prototype report card ingezet om duidelijk te krijgen waar wij onderzoek naar moeten doen en hoe we dat moeten doen. Verder hebben wij maar een belangrijke criteria opgeschreven waar wij het succes van ons prototype aan kunnen meten.       </p>
 
       <p style="color: #F06119; display: inline;">Aannames</p>
       <p>
-        Ook neem je bepaalde aannames aan wat je verwacht dat het eindproduct
-        aan zal voldoen. Zodra dit was opgesteld zijn wij op pad gegaan om onze
-        aannames te valideren. Hieruit hadden wij geleerd dat veiligheid een erg
-        belangrijk item is. Ook moest er gekeken worden naar de grootte van de
-        handgrepen per leeftijd groep, nu ligt de focus op basisschoolkinderen
-        dus is er alleen naar deze groep gekeken. Zodra hij uitgebreid zou
-        worden naar hogere leeftijden zal hier opnieuw naar gekeken moeten
-        worden. Verder was het idee om er een aanhanger van te maken dus moesten
-        wij onderzoek gaan doen naar de wetgeving van aanhangers. Op basis van
-        wat wij hebben geleerd moesten wij een aantal dingen veranderen of
-        verder onderzoeken. Zo moesten wij de grepen anders maken dat voorheen
-        en kwamen wij erachter dat de mensen die wij gesproken hadden wilden dat
-        het prototype meer kon dan alleen een klimwand zijn, hierop zijn wij
-        gaan brainstormen en hebben wij verschillende ideeën bedacht. Ook kregen
-        wij de opmerking dat het product vergroot moest worden zodat het ook
-        uitdagend was voor hogere leeftijden, dus een vergrote versie ons
-        product.
+        Ook neem je bepaalde aannames aan wat je verwacht dat het eindproduct aan zal voldoen. Zodra dit was opgesteld zijn wij op pad gegaan en hebben wij mensen gesproken en gevraagd wat ze van ons prototype vinden. Hieruit hadden wij geleerd dat de veiligheid een erg belangrijk item is. Ook moest er gekeken worden naar de grootte van de handgrepen per leeftijd groep, nu ligt de focus op basisschoolkinderen dus is er alleen naar deze groep gekeken. Zodra hij uitgebreid zou worden naar hogere leeftijden zal hier opnieuw naar gekeken moeten worden. Verder was het idee om er een aanhanger van te maken dus moesten wij onderzoek gaan doen naar de wetgeving van aanhangers. Op basis van wat wij hebben geleerd moesten wij een aantal dingen veranderen of verder onderzoeken. Zo moesten wij de grepen anders maken dat voorheen en kwamen wij erachter dat de mensen die wij gesproken hadden wilden dat het prototype meer kon dan alleen een klimwand zijn, hierop zijn wij gaan brainstormen en hebben wij verschillende ideeën bedacht. Ook zei iemand dat die graag wou dat het prototype voor basisschoolkinderen vergroot moest worden naar ook hogere leeftijden, dus een grotere versie van het prototype te gaan maken. 
       </p>
       <Mural
       title="Prototype Report Card"
@@ -334,7 +244,7 @@
         om meer buiten te gymmen. Bij een aantal kinderen zag je al een glimlach ontstaan bij het idee om
         buiten te kunnen gymmen.</p>
 
-        <p>Alle bovenstaande testen staan uitgewerkt in deze <a target="_blank" href="pdf-bijlage/prototype-test.pdf">bijlagen</a>.</p>
+        <p>Alle bovenstaande testen staan uitgewerkt in deze <a target="_blank" href="pdf-bijlage/prototype-test.pdf">bijlage</a>.</p>
     </div>
     
     <a href="personas" class="button"
