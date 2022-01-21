@@ -160,7 +160,7 @@
   }
 
   .right-bar{
-    width: 566px;
+    width: 300px;
   }
 
   p {

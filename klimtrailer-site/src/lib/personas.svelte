@@ -438,7 +438,7 @@
       display: grid;
       grid-template-rows: 405px 405px;
       grid-template-columns: 230px 230px 230px 230px;
-      grid-gap: 20px;
+      grid-gap: 15px;
       justify-content: center;
   }
 

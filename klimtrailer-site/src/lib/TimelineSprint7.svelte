@@ -1,5 +1,4 @@
 <div class="timeline">
-  <div class="spacer" />
   <div class="container left">
     <div class="content">
       <h2>Start persona's</h2>
@@ -79,6 +78,7 @@
       <p>Luca en Rafaël.</p>
     </div>
   </div>
+  <div class="spacer"></div>
 </div>
 
 <style>
@@ -116,6 +116,7 @@
     position: relative;
     background-color: inherit;
     width: 50%;
+    margin-bottom: -50px;
   }
 
   /* The circles on the timeline */

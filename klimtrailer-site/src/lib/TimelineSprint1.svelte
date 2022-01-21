@@ -9,12 +9,14 @@
       </p>
     </div>
   </div>
+  <div class="spacer"></div>
   <div class="container Left">
     <div class="content">
       <h2>Context analyse</h2>
       <p>← Het verkennen van onze opdracht</p>
     </div>
   </div>
+  <div class="spacer"></div>
   <div class="container right">
     <div class="content">
       <h2>DESTEP-analyse</h2>
@@ -25,6 +27,7 @@
       </p>
     </div>
   </div>
+  <div class="spacer"></div>
   <div class="container Left">
     <div class="content">
       <h2>Muurkrant</h2>
@@ -34,6 +37,7 @@
       </p>
     </div>
   </div>
+  <div class="spacer"></div>
   <div class="container right">
     <div class="content">
       <h2>Minimal persona's</h2>
@@ -44,6 +48,7 @@
       </p>
     </div>
   </div>
+  <div class="spacer"></div>
   <div class="container Left">
     <div class="content">
       <h2>Moscow Methode</h2>
@@ -53,13 +58,13 @@
       </p>
     </div>
   </div>
+  <div class="spacer"></div>
   <div class="container right">
     <div class="content">
       <h2>Vraagstuk geformuleerd</h2>
       <p>← Ons vraagstuk dat is geformuleerd doormiddel van ons onderzoek.</p>
     </div>
   </div>
-  <div class="spacer" />
 </div>
 
 <style>
@@ -68,7 +73,7 @@
   }
 
   .spacer {
-    height: 100px;
+    height: 70px;
   }
 
   /* The actual timeline (the vertical ruler) */

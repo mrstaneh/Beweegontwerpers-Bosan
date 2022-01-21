@@ -135,11 +135,11 @@
 
     <Personas />
 
-    <a href="wetgevingen" class="button"
+    <a style="margin-top: 10px;" href="wetgevingen" class="button"
       >Ga naar de volgende pagina</a
     >
   </div>
-  <div class="right-bar" style="width: 566px;">
+  <div class="right-bar">
     <TimelineSprint7 />
   </div>
 </main>
@@ -182,8 +182,10 @@
     }
   }
 
+  .right-bar{
+    width: 300px;
+  }
 
-  
   p {
     margin-top: 0;
   }

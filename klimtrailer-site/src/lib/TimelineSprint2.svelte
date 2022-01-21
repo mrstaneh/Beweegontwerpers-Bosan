@@ -1,5 +1,5 @@
 <div class="timeline">
-  <div class="spacer" />
+  <div class="spacer" style="height: 100px;"/>
   <div class="container left">
     <div class="content">
       <h2>Introductie CIMO analyse</h2>
@@ -9,7 +9,7 @@
       </p>
     </div>
   </div>
-  <div class="spacer" style="height: 350px;" />
+  <div class="spacer" />
   <div class="container right">
     <div class="content">
       <h2>Bedenken van de brainstorm vraag</h2>
@@ -18,7 +18,7 @@
       </p>
     </div>
   </div>
-  <div class="spacer" style="height: 150px;" />
+  <div class="spacer" />
   <div class="container left">
     <div class="content">
       <h2>Brainstormen</h2>
@@ -28,14 +28,14 @@
       </p>
     </div>
   </div>
-  <div class="spacer" style="height: 300px;"/>
+  <div class="spacer" />
   <div class="container right">
     <div class="content">
       <h2>Empathy map</h2>
       <p><a href="https://app.mural.co/t/beweegontwerper5597/m/beweegontwerper5597/1634542681046/b35741fd117129d7b49ca45462004a8abcfa8093?sender=uda85e330004642c3ab2b4218" target="_blank">link</a></p>
     </div>
   </div>
-  <div class="spacer" style="height: 800px;" />
+  <div class="spacer" />
   <div class="container left">
     <div class="content">
       <h2>Frames</h2>
@@ -45,7 +45,7 @@
       </p>
     </div>
   </div>
-  <div class="spacer" style="height: 550px;" />
+  <div class="spacer" style="height: 200px;"></div>
 </div>
 
 <style>
@@ -54,7 +54,7 @@
   }
 
   .spacer {
-    height: 100px;
+    height: 700px;
   }
 
   /* The actual timeline (the vertical ruler) */

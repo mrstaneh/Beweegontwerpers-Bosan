@@ -1,5 +1,5 @@
 <div class="timeline">
-  <div class="spacer" style="height: 50px;" />
+  <div class="spacer" style="height: 100px;"/>
   <div class="container left">
     <div class="content">
       <h2>Ontstaan idee</h2>
@@ -80,6 +80,7 @@
       </p>
     </div>
   </div>
+  <div class="spacer" style="height: 350px;"></div>
 </div>
 
 <style>
@@ -88,7 +89,7 @@
   }
 
   .spacer {
-    height: 400px;
+    height: 500px;
   }
 
   /* The actual timeline (the vertical ruler) */

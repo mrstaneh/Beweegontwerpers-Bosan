@@ -13,16 +13,25 @@
     <div class="section context-analyse" id="context">
       <h1>Contextanalyse</h1>
       <p>
-        De contextanalyse is een belangrijke eerste stap voor een goed doorgrond onderzoek. De analyse geeft een beeld van de omgeving waarin de organisatie zich bevindt. 
+        De contextanalyse is een belangrijke eerste stap voor een goed doorgrond
+        onderzoek. De analyse geeft een beeld van de omgeving waarin de
+        organisatie zich bevindt.
       </p>
       <p style="color: #F06119; display: inline;">Soorten analyses</p>
       <p>
-        De contextanalyse is weer op te delen in drie verschillende analyses. Zo is er de interne analyse, een externe en een stakeholderanalyse. Alle drie de analyses zorgen voor toegevoegde waarde en zijn daarom van belang. Uiteindelijk wordt de informatie van deze drie onderdelen samengevoegd, bij elkaar geven ze voldoende informatie die nodig is om een compleet beeld te geven van de omgeving.
-        Tijdens het project zijn de verschillende analyses uitgevoerd.
-        
+        De contextanalyse is weer op te delen in drie verschillende analyses. Zo
+        is er de interne analyse, een externe en een stakeholderanalyse. Alle
+        drie de analyses zorgen voor toegevoegde waarde en zijn daarom van
+        belang. Bij elkaar geven ze voldoende informatie die nodig is om
+        een compleet beeld te geven van de omgeving. Tijdens het project zijn de
+        verschillende analyses uitgevoerd en deze zullen aan bod komen in het
+        portofolio. De analyses zullen per onderdeel voorbij komen en per
+        hoofdstuk zal te lezen zijn hoe er te werk gegaan is.
       </p>
       <p>
-        De informatie die aan de hand van deze analyses is verkregen is ingezet om het vraagstuk te definiëren en te kwantificeren. Vervolgens zullen hieruit succesfactoren te definiëren zijn.
+        De informatie die aan de hand van deze analyses is verkregen is ingezet
+        om het vraagstuk te definiëren en te kwantificeren. Vervolgens zullen
+        hieruit succesfactoren te definiëren zijn.
       </p>
     </div>
     <div class="section destep/muurkrant" id="destep">
@@ -141,12 +150,13 @@
         </li>
       </ul>
       <p>
-        De MOSCOW methode is uitgewerkt in een <a href="/pdf-bijlage/moscow.pdf" target="_blank">bijlage</a>.
+        De MOSCOW methode is uitgewerkt in een <a
+          href="/pdf-bijlage/moscow.pdf"
+          target="_blank">bijlage</a
+        >.
       </p>
     </div>
-    <a href="brainstorms" class="button"
-      >Ga naar de volgende pagina</a
-    >
+    <a href="brainstorms" class="button">Ga naar de volgende pagina</a>
   </div>
   <div class="right-bar">
     <TimelineSprint1 />
@@ -154,45 +164,45 @@
 </main>
 
 <style>
-  main{
+  main {
     display: flex;
     justify-content: center;
   }
 
-  .content{
+  .content {
     width: 50%;
   }
 
-  @media(min-width: 1350px){
-    .right-bar{
+  @media (min-width: 1350px) {
+    .right-bar {
       display: block;
     }
   }
 
-  @media(max-width: 1349px){
-    .right-bar{
+  @media (max-width: 1349px) {
+    .right-bar {
       display: none;
     }
 
-    .content{
+    .content {
       width: 65%;
     }
   }
 
-  @media(max-width: 1299px){
-    .content{
+  @media (max-width: 1299px) {
+    .content {
       width: 75%;
     }
   }
 
-  @media(max-width: 750px){
-    .content{
+  @media (max-width: 750px) {
+    .content {
       width: 95%;
     }
   }
 
-  .right-bar{
-    width: 566px;
+  .right-bar {
+    width: 300px;
   }
 
   p {
