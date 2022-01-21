@@ -36,7 +36,7 @@
     },
     {
       text: '[9] Cleanbing, nieuw in het assortiment. (z.d.). KLIMWANDSERVICE. Geraadpleegd op 13 januari 2022, van ',
-      url: 'https://kl[i]mwandenservice.nl/2017/11/07/cleanbing-nieuw-i'
+      url: 'https://klimwandenservice.nl/2017/11/07/cleanbing-nieuw-i'
     },
     {
       text: '[10] kenniscentrum sportklimmen (2010, maart). Geraadpleegd op 12 januari 2022 van ',

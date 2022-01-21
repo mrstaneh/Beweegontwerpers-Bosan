@@ -1,6 +1,30 @@
 <script>
   import Mural from "$lib/Mural.svelte";
+  import SlideShow from "$lib/SlideShow.svelte";
   import TimelineSprint2 from "$lib/TimelineSprint2.svelte";
+
+  let schetsFotos = [
+    {
+      path: "images/schetsfotos/schets1.jpg",
+      alt: "Schets 1",
+    },
+    {
+      path: "images/schetsfotos/schets2.jpg",
+      alt: "Schets 2",
+    },
+    {
+      path: "images/schetsfotos/schets3.jpg",
+      alt: "Schets 3",
+    },
+    {
+      path: "images/schetsfotos/schets4.jpg",
+      alt: "Schets 4",
+    },
+    {
+      path: "images/schetsfotos/schets5.jpg",
+      alt: "Schets 5",
+    },
+  ];
 </script>
 
 <svelte:head>
@@ -54,6 +78,9 @@
         Toen bleek dat tekenen tot succesvollere ideeën leidde, is er de keuze
         gemaakt om alleen nog maar te tekenen tijdens de brainstormsessies.
       </p>
+
+      <SlideShow photos={schetsFotos} id="7" />
+
       <p style="color: #F06119; display: inline;">Het idee</p>
       <p>
         Na meer dan honderd ideeën bedacht te hebben is er aan de hand van een

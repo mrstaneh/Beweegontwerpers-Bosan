@@ -14,10 +14,7 @@
       <h1>Personas</h1>
       <p style="color: #4491DA;">
         Hier zullen onze persona’s toegelicht worden. Dit zal gaan over de
-        leraren en leerlingen. Je kunt de personas op <a
-          href="/personas"
-          target="_blank">deze</a
-        > pagina vinden.
+        leraren en leerlingen. Je kunt de persona's onderin deze pagina vinden.
       </p>
 
       <p style="color: #F06119; display: inline;">De basis in het kort</p>
