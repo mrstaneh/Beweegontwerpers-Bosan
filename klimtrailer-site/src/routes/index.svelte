@@ -1,43 +1,12 @@
 <script>
-  import InhoudItem from "$lib/InhoudItem.svelte";
-  import Timeline from "$lib/TimelineSprint1.svelte";
   import TitleScreen from "$lib/TitleScreen.svelte";
-  import { fly } from "svelte/transition";
-
-  let currentY;
-
-  function goTop() {
-    try {
-      let bodyRect = document.body.getBoundingClientRect();
-      let elemRect = document
-        .getElementById("titleScreen")
-        .getBoundingClientRect();
-      let offset = elemRect.top - bodyRect.top;
-
-      console.log(offset);
-
-      window.scrollTo({ top: offset, behavior: "smooth" });
-    } catch {
-      console.error("Could not scroll to inhoud");
-    }
-  }
 </script>
 
 <svelte:head>
   <title>Bosan Portfolio</title>
 </svelte:head>
 
-<svelte:window bind:scrollY={currentY} />
-
-{#if currentY > 2285}
-  <button
-    in:fly={{ x: 50, duration: 400 }}
-    out:fly={{ x: 50, duration: 400 }}
-    id="top-button"
-    on:click={goTop}
-    ><i class="fa-solid fa-angles-up" />
-  </button>
-{/if}
+<svelte:window />
 
 <div id="titleScreen">
   <TitleScreen />
