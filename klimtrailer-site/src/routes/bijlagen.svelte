@@ -9,7 +9,6 @@
     {
       text: "2 Interviews",
       url: "pdf-bijlage/interviews.pdf",
-      
     },
     {
       text: "3 Cimo's",
@@ -54,17 +53,19 @@
 
 <div>
   <img
-    src="images/bronvermeling.jpg"
+    src="images/Bijlagen.jpg"
     alt="woordenlijst"
     width="100%"
     style="height: 400px; object-fit: cover; position: relative;"
   />
   <span
     style="background-color: white; position: absolute; top: 440px; right: 0px;"
-    >Foto by <a href="https://unsplash.com/@homajob" target="blank"
-      >Scott Graham</a
-    >
-    on <a href="https://unsplash.com/" target="blank">Unsplash</a></span
+    ><p style="margin: 0 2px;">
+      Foto by <a href="https://unsplash.com/@jessbaileydesigns" target="blank"
+        >Scott Graham</a
+      >
+      on <a href="https://unsplash.com/" target="blank">Unsplash</a>
+    </p></span
   >
 </div>
 

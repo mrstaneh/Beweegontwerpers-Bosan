@@ -4,6 +4,25 @@
 <svelte:head>
   <title>Wetgevingen</title>
 </svelte:head>
+
+<div>
+  <img
+    src="images/wet.jpg"
+    alt="woordenlijst"
+    width="100%"
+    style="height: 400px; object-fit: cover; position: relative; filter: brightness(90%);"
+  />
+  <span
+    style="background-color: white; position: absolute; top: 440px; right: 0px;"
+    ><p style="margin: 0 2px;">
+      Foto by <a href="https://unsplash.com/@2hmedia" target="blank"
+        >2H Media</a
+      >
+      on <a href="https://unsplash.com/" target="blank">Unsplash</a>
+    </p>
+  </span>
+</div>
+
 <main>
   <div class="left-bar" />
   <div class="content">

@@ -7,6 +7,24 @@
   <title>Proces</title>
 </svelte:head>
 
+<div>
+  <img
+    src="images/Proces.jpg"
+    alt="woordenlijst"
+    width="100%"
+    style="height: 400px; object-fit: cover; position: relative;"
+  />
+  <span
+    style="background-color: white; position: absolute; top: 440px; right: 0px;"
+    ><p style="margin: 0 2px;">
+      Foto by <a href="https://unsplash.com/@franku84" target="blank"
+        >Vadim Bogulov</a
+      >
+      on <a href="https://unsplash.com/" target="blank">Unsplash</a>
+    </p></span
+  >
+</div>
+
 <main>
   <div class="content">
     <h1>Proces</h1>
@@ -22,8 +40,8 @@
         De contextanalyse is weer op te delen in drie verschillende analyses. Zo
         is er de interne analyse, een externe en een stakeholderanalyse. Alle
         drie de analyses zorgen voor toegevoegde waarde en zijn daarom van
-        belang. Bij elkaar geven ze voldoende informatie die nodig is om
-        een compleet beeld te geven van de omgeving. Tijdens het project zijn de
+        belang. Bij elkaar geven ze voldoende informatie die nodig is om een
+        compleet beeld te geven van de omgeving. Tijdens het project zijn de
         verschillende analyses uitgevoerd en deze zullen aan bod komen in het
         portofolio. De analyses zullen per onderdeel voorbij komen en per
         hoofdstuk zal te lezen zijn hoe er te werk gegaan is.

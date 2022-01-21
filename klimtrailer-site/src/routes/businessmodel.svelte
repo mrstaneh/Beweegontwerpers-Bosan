@@ -5,6 +5,16 @@
 <svelte:head>
   <title>Business Model Canvas</title>
 </svelte:head>
+
+<div>
+  <img
+    src="images/bmodel.jpg"
+    alt="woordenlijst"
+    width="100%"
+    style="height: 400px; object-fit: cover; position: relative; filter: brightness(90%);"
+  />
+</div>
+
 <main>
   <div class="left-bar" />
   <div class="content">

@@ -7,11 +7,29 @@
   <title>Uitleg Persona's</title>
 </svelte:head>
 
+<div>
+  <img
+    src="images/persona.jpg"
+    alt="woordenlijst"
+    width="100%"
+    style="height: 400px; object-fit: cover; position: relative;"
+  />
+  <span
+    style="background-color: white; position: absolute; top: 440px; right: 0px;"
+    ><p style="margin: 0 2px;">
+      Foto by <a href="https://unsplash.com/@2hmedia" target="blank"
+        >2H Media</a
+      >
+      on <a href="https://unsplash.com/" target="blank">Unsplash</a>
+    </p>
+  </span>
+</div>
+
 <main>
   <div class="content">
     <h1>Uitleg Persona's</h1>
     <div class="section personas" id="personas">
-      <h1>Personas</h1>
+      <h1>Persona's</h1>
       <p style="color: #4491DA;">
         Hier zullen onze persona’s toegelicht worden. Dit zal gaan over de
         leraren en leerlingen. Je kunt de persona's onderin deze pagina vinden.
