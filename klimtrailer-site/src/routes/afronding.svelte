@@ -38,10 +38,10 @@
         op tijd gebeurt en ook al werkend is voordat er daadwerkelijk
         leasecontracten afgesloten worden. Daarnaast moet de Boulder Mini ook
         een plek krijgen in de showroom, men is namelijk eerder geneigd om voor
-        een product te kiezen als dit naast foto’s ook tastbaar is. [<a
+        een product te kiezen als dit naast foto’s ook tastbaar is [<a
           target="_blank"
           href="bronvermelding/#7">7</a
-        >]
+        >].
       </p>
 
       <p style="color: #F06119; display: inline;">Na een maand</p>
@@ -78,7 +78,7 @@
         slaan. Het verplaatsen van de Boulder Maxi benodigd echter wel een
         BE-rijbewijs. Het product is namelijk twee keer zo groot. Tevens gaf
         Ruud Plas aan dat het een mooie toevoeging zou zijn als de optie voor
-        een luchtkussen wordt toegevoegd. [Ruud Plas, Verkoopleider Bosan]
+        een luchtkussen wordt toegevoegd (Ruud Plas, Verkoopleider Bosan).
       </p>
       <p>
         Het advies aan Bosan is dan ook om deze opties mogelijk te maken voor de
