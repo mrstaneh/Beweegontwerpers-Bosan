@@ -187,36 +187,29 @@
       <p>
         Aangezien deze vraag nogal breed was hebben we een analyse uitgevoerd in
         de vorm van een DESTEP en zijn daarna frames gemaakt waarmee bepaald is
-        welke richting opgegaan zal worden.
-      </p>
-      <p>
-        Uit het politieke deel van de DESTEP kwam al snel naar voren dat er in
-        2023 sprake is van een nieuwe wetgeving. Zo werd duidelijk dat vanaf
-        2023 alle basisscholieren verplicht minimaal 2 uur per week gymles
-        moeten krijgen [<a target="_blank" href="bronvermelding/#1">1</a>][<a
+        welke richting opgegaan zal worden. Uit het politieke deel van de DESTEP
+        kwam al snel naar voren dat er in 2023 sprake is van een nieuwe
+        wetgeving. Zo werd duidelijk dat vanaf 2023 alle basisscholieren
+        verplicht minimaal 2 uur per week gymles moeten krijgen [<a
           target="_blank"
-          href="bronvermelding/#2">2</a
-        >].
-      </p>
-      <p>
-        Echter kwam er via het demografische deel naar voren dat hier sprake is
-        van een probleem. Er zijn namelijk te weinig gymzalen om deze wet te
-        realiseren [<a target="_blank" href="bronvermelding/#13">13</a>][<a
+          href="bronvermelding/#1">1</a
+        >][<a target="_blank" href="bronvermelding/#2">2</a>]. Echter kwam er
+        via het demografische deel naar voren dat hier sprake is van een
+        probleem. Er zijn namelijk te weinig gymzalen om deze wet te realiseren
+        [<a target="_blank" href="bronvermelding/#13">13</a>][<a
           target="_blank"
           href="bronvermelding/#14">14</a
-        >].
-      </p>
-      <p>
-        Daarnaast was een interessante ecologische ontdekking dat het steeds
+        >]. Daarnaast was een interessante ecologische ontdekking dat het steeds
         warmer wordt. Concreet betekent dit zachtere herfst- en wintermaanden,
-        hierdoor wordt buitensporten veel toegankelijker.
-      </p>
-      <p>
-        Ook bleek dat het weer steeds extremer wordt, zo zullen de neerslag,
-        onweersbuien, hagel en onweer heftiger worden. Echter zal het niet vaker
-        voorkomen [<a target="_blank" href="bronvermelding/#15">15</a>]. Verder
-        is het klimaat wel aan het opwarmen, dit wil zeggen dat buitensporten
-        toegankelijker wordt [<a target="_blank" href="bronvermelding/#16">16</a
+        hierdoor wordt buitensporten veel toegankelijker. Ook bleek dat het weer
+        steeds extremer wordt, zo zullen de neerslag, onweersbuien, hagel en
+        onweer heftiger worden. Echter zal het niet vaker voorkomen [<a
+          target="_blank"
+          href="bronvermelding/#15">15</a
+        >]. Verder is het klimaat wel aan het opwarmen, dit wil zeggen dat
+        buitensporten toegankelijker wordt [<a
+          target="_blank"
+          href="bronvermelding/#16">16</a
         >].
       </p>
       <p style="color: #F06119; display: inline;">Frames</p>

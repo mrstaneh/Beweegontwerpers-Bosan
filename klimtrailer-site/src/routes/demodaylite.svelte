@@ -6,6 +6,24 @@
   <title>Demo Day Lite</title>
 </svelte:head>
 
+<div>
+  <img
+    src="images/demoday.jpg"
+    alt="woordenlijst"
+    width="100%"
+    style="height: 400px; object-fit: cover; position: relative;"
+  />
+  <span
+    style="background-color: white; position: absolute; top: 440px; right: 0px;"
+    ><p style="margin: 0 2px;">
+      Foto by <a href="https://unsplash.com/@youwwwill" target="blank"
+        >william f. santos</a
+      >
+      on <a href="https://unsplash.com/" target="blank">Unsplash</a>
+    </p></span
+  >
+</div>
+
 <main>
   <div class="left-bar" />
   <div class="content">

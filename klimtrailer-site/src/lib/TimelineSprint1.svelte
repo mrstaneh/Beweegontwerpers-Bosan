@@ -65,7 +65,7 @@
       <p>← Ons vraagstuk dat is geformuleerd doormiddel van ons onderzoek.</p>
     </div>
   </div>
-  <div class="spacer"></div>
+  <div class="spacer" style="height: 70px;"></div>
 </div>
 
 <style>

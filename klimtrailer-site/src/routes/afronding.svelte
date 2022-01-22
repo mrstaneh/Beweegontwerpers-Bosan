@@ -5,6 +5,24 @@
   <title>Afronding</title>
 </svelte:head>
 
+<div>
+  <img
+    src="images/afronding.jpg"
+    alt="woordenlijst"
+    width="100%"
+    style="height: 400px; object-fit: cover; position: relative;"
+  />
+  <span
+    style="background-color: white; position: absolute; top: 440px; right: 0px;"
+    ><p style="margin: 0 2px;">
+      Foto by <a href="https://unsplash.com/@jakobowens1" target="blank"
+        >Jakob Owens</a
+      >
+      on <a href="https://unsplash.com/" target="blank">Unsplash</a>
+    </p></span
+  >
+</div>
+
 <main>
   <div class="left-bar" />
   <div class="content">
@@ -128,6 +146,7 @@
         Mini een grotere kans van slagen hebben.
       </p>
     </div>
+
     <div class="section conclusie" id="conclusie">
       <h1>Conclusie</h1>
       <p>
@@ -174,11 +193,23 @@
         gebruiken. Het zou mega mooi lijken als het product ook echt wordt
         geproduceerd.
       </p>
-
-      <p style="color: #4491DA;">
-        Wij hopen hiermee dat Bosan met ons product een nieuw innovatief product
-        heeft gekregen waar Bosan zelf in eerste instantie niet aan dacht!
+      <p>
+        De hoofdvraag is: “Hoe kunnen we ervoor zorgen dat alle
+        basisschoolkinderen minimaal 2 uur per week gymles krijgen doormiddel
+        van een nieuw toestel dat buiten toepasbaar is?” Deze is gedeeltelijk
+        beantwoord. Echter hebben we wel kunnen aantonen dat het mogelijk is om
+        een gymtoestel voor buiten te ontwerpen waar basisschoolkinderen en
+        gymleraren enthousiast van worden. Voor elk kind kan er een eigen
+        moeilijkheidsgraad worden toegepast, zo blijft het op de lange termijn
+        leuk en wil men het ook daadwerkelijk gebruiken. Hiermee is een begin
+        gemaakt aan de oplossing voor het probleem.
       </p>
+      <p>
+        Wij hopen dat Bosan aan de slag kan met ons nieuwe en innovatieve
+        product en hier wellicht in de toekomst nog meer nieuwe innovatieve
+        ideeën uitkomen.
+      </p>
+      <p style="color: #4491DA;">Let’s Boulder, our way!</p>
     </div>
     <a href="/" class="button">Terug naar home</a>
   </div>
@@ -186,30 +217,30 @@
 </main>
 
 <style>
-  main{
+  main {
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  @media(min-width: 1300px){
-    .content{
+  @media (min-width: 1300px) {
+    .content {
       width: 50%;
     }
   }
 
-  @media(max-width: 1299px){
-    .content{
+  @media (max-width: 1299px) {
+    .content {
       width: 75%;
     }
   }
 
-  @media(max-width: 750px){
-    .content{
+  @media (max-width: 750px) {
+    .content {
       width: 95%;
     }
   }
-  
+
   p {
     margin-top: 0;
   }
