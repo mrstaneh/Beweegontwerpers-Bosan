@@ -9,7 +9,7 @@
 
 <div>
   <img
-    src="images/persona.jpg"
+    src="images/Persona.jpg"
     alt="woordenlijst"
     width="100%"
     style="height: 400px; object-fit: cover; position: relative;"
