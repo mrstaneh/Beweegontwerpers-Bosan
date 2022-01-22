@@ -27,7 +27,7 @@
     <div class="nav-dropdown-backdrop" on:click={onNavDropdownClick}></div>
     <div class="nav-dropdown-menu" on:click={onNavDropdownClick} style="{pagePath == '/' ? 'margin-top: 69px;' : 'margin-top: 5px;'}">
       <ul>
-        <li on:click={() => {goto('/proces')}}><a href="proces">Proces</a></li>
+        <li on:click={() => {goto('/proces')}}><a href="proces">Analyse</a></li>
         <li on:click={() => {goto('/brainstorms')}}><a href="brainstorms">Brainstorms</a></li>
         <li on:click={() => {goto('/usertesting')}}><a href="usertesting">Usertesting</a></li>
         <li on:click={() => {goto('/personas')}}><a href="personas">Persona's</a></li>
