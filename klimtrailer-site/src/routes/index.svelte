@@ -219,11 +219,6 @@
       </p>
 
       <p style="color: #F06119; display: inline;">Verwaching vanuit Bosan</p>
-      <p class="pheader">
-        Vanuit Bosan hebben wij de volgende vraag gekregen: “Op welke wijze
-        kunnen we met innovatieve materialen beweegomgevingen inrichten zodat ze
-        aansluiten bij de ontwikkeling in het bewegingsonderwijs?”.
-      </p>
       <p>
         Bosan verwacht van ons dat we een product ontwikkelen dat ingezet kan
         worden in het bewegingsonderwijs. Dit kan gaan over een nieuw

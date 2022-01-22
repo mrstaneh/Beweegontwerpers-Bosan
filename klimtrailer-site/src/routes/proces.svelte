@@ -174,6 +174,85 @@
         >.
       </p>
     </div>
+
+    <div class="section moscow" id="moscow">
+      <h1>Vraagstuk</h1>
+      <p>
+        Vanuit Bosan hebben we de volgende vraag gekregen: “Op welke wijze
+        kunnen we met <b>innovatieve materialen beweegomgevingen</b> inrichten
+        zodat ze aansluiten bij de ontwikkeling in het <b>bewegingsonderwijs</b>
+        ?”.
+      </p>
+      <p style="color: #F06119; display: inline;">DESTEP</p>
+      <p>
+        Aangezien deze vraag nogal breed was hebben we een analyse uitgevoerd in
+        de vorm van een DESTEP en zijn daarna frames gemaakt waarmee bepaald is
+        welke richting opgegaan zal worden.
+      </p>
+      <p>
+        Uit het politieke deel van de DESTEP kwam al snel naar voren dat er in
+        2023 sprake is van een nieuwe wetgeving. Zo werd duidelijk dat vanaf
+        2023 alle basisscholieren verplicht minimaal 2 uur per week gymles
+        moeten krijgen [<a target="_blank" href="bronvermelding/#1">1</a>][<a
+          target="_blank"
+          href="bronvermelding/#2">2</a
+        >].
+      </p>
+      <p>
+        Echter kwam er via het demografische deel naar voren dat hier sprake is
+        van een probleem. Er zijn namelijk te weinig gymzalen om deze wet te
+        realiseren [<a target="_blank" href="bronvermelding/#13">13</a>][<a
+          target="_blank"
+          href="bronvermelding/#14">14</a
+        >].
+      </p>
+      <p>
+        Daarnaast was een interessante ecologische ontdekking dat het steeds
+        warmer wordt. Concreet betekent dit zachtere herfst- en wintermaanden,
+        hierdoor wordt buitensporten veel toegankelijker.
+      </p>
+      <p>
+        Ook bleek dat het weer steeds extremer wordt, zo zullen de neerslag,
+        onweersbuien, hagel en onweer heftiger worden. Echter zal het niet vaker
+        voorkomen [<a target="_blank" href="bronvermelding/#15">15</a>]. Verder
+        is het klimaat wel aan het opwarmen, dit wil zeggen dat buitensporten
+        toegankelijker wordt [<a target="_blank" href="bronvermelding/#16">16</a
+        >].
+      </p>
+      <p style="color: #F06119; display: inline;">Frames</p>
+      <p>
+        Na de DESTEP is de keuze gemaakt om te focussen op de uitdaging dat
+        ieder kind op de basisschool minimaal 2 uur gym gaat krijgen. Hier zijn
+        dan ook frames voor gemaakt zoals minimaal 2 uur gym en buiten gymmen.
+        Verder zijn er nog twee frames gemaakt, namelijk opberging en motivatie.
+      </p>
+      <p>
+        Hier is echter geen verder onderzoek naar gedaan omdat hier relatief
+        weinig kansen in werden gezien. De andere twee frames zijn uiteindelijk
+        samengevoegd, dit zorgde voor één allesomvattend frame. Dit frame gaat
+        over buiten gymmen, dit zal er voor zorgen dat de kinderen eerder de
+        wettelijk gestelde eis van 2 uur per week halen.
+      </p>
+      <p style="color: #F06119; display: inline;">Onze hoofdvraag</p>
+      <p>
+        Door onderzoek naar wat voor problemen er binnen het bewegingsonderwijs
+        spelen zijn er een aantal beslissingen gemaakt. Als eerst wordt er
+        gefocust op basisschool leerlingen, dit is namelijk de grootste
+        uitdaging. Basisscholen hebben over het algemeen onvoldoende ruimte om
+        te voldoen aan de wettelijke eis van 2 uur per week per kind. Om dit op
+        te lossen is er gekeken naar andere mogelijkheden dan alleen een
+        sporthal. In combinatie met het steeds warmer wordende klimaat is er
+        gekozen voor de oplossing buiten gymmen. Daarom luidt onze stelling als
+        volgt:
+      </p>
+      <p>
+        “Hoe kunnen we ervoor zorgen dat alle <b>basisschoolkinderen</b>
+        minimaal <b>2 uur</b> per week <b>gymles</b> krijgen doormiddel van een
+        <b>nieuw toestel</b>
+        dat <b>buiten</b> toepasbaar is?"
+      </p>
+    </div>
+
     <a href="brainstorms" class="button">Ga naar de volgende pagina</a>
   </div>
   <div class="right-bar">
