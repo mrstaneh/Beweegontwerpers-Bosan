@@ -65,6 +65,7 @@
       <p>← Ons vraagstuk dat is geformuleerd doormiddel van ons onderzoek.</p>
     </div>
   </div>
+  <div class="spacer"></div>
 </div>
 
 <style>
@@ -73,7 +74,7 @@
   }
 
   .spacer {
-    height: 70px;
+    height: 195px;
   }
 
   /* The actual timeline (the vertical ruler) */
