@@ -27,7 +27,7 @@
 
 <main>
   <div class="content">
-    <h1>Proces</h1>
+    <h1>Analyse</h1>
     <div class="section context-analyse" id="context">
       <h1>Contextanalyse</h1>
       <p>
