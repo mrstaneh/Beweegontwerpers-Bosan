@@ -257,7 +257,7 @@
         de scholen te weinig ruimte hebben of te weinig leraren hebben. Dit zijn
         goede redenen om te focussen op gymlessen in de buitenlucht.
       </p>
-      <p style="color: #F06119; display: inline;">Onze team</p>
+      <p style="color: #F06119; display: inline;">Ons team</p>
       <p class="pheader">
         Het team bestaat uit een multidisciplinaire groep. Zo heeft ieder zijn
         specialiteiten in de opleiding. Dit is erg uiteenlopend van ICT tot
